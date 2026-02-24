@@ -1,0 +1,401 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Book",
+        "DM Stuff",
+        "Images"
+      ],
+      "sortOrder": "custom"
+    },
+    "Book": {
+      "children": [
+        "Book/Appendix D - Monsters and NPCs",
+        "Book/Appendix A - Character Options.md",
+        "Book/Appendix B - Death House.md",
+        "Book/Appendix C - Treasures.md",
+        "Book/Appendix D - Monsters and NPCs.md",
+        "Book/Appendix E - Tarokka Deck.md",
+        "Book/Appendix F - Handouts.md",
+        "Book/Chapter 0.0 - Foreword - Ravenloft Revisited.md",
+        "Book/Chapter 0.5 - Introduction.md",
+        "Book/Chapter 1 - Into the Mists.md",
+        "Book/Chapter 2 - The Lands of Barovia.md",
+        "Book/Chapter 3 - The Village of Barovia.md",
+        "Book/Chapter 4 - Castle Ravenloft.md",
+        "Book/Chapter 5 - The Town of Vallaki.md",
+        "Book/Chapter 6 - Old Bonegrinder.md",
+        "Book/Chapter 7 - Argynvostholt.md",
+        "Book/Chapter 8 -  The Village of Krezk.md",
+        "Book/Chapter 9 - Tsolenka Pass.md",
+        "Book/Chapter 10 - The Ruins of Berez.md",
+        "Book/Chapter 11 - Van Richten's Tower.md",
+        "Book/Chapter 12 - The Wizard of Wines.md",
+        "Book/Chapter 13 - The Amber Temple.md",
+        "Book/Chapter 14 - Yester Hill.md",
+        "Book/Chapter 15 - Werewolf Den.md",
+        "Book/Epilogue.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Book/Appendix D - Monsters and NPCs": {
+      "children": [
+        "Book/Appendix D - Monsters and NPCs/Baba Lysaga.md",
+        "Book/Appendix D - Monsters and NPCs/Baba Lysaga's Creeping Hut.md",
+        "Book/Appendix D - Monsters and NPCs/Barovian Witch.md",
+        "Book/Appendix D - Monsters and NPCs/Broom of Animated Attack.md",
+        "Book/Appendix D - Monsters and NPCs/Ezmerelda d'Avenir.md",
+        "Book/Appendix D - Monsters and NPCs/Guardian Portrait.md",
+        "Book/Appendix D - Monsters and NPCs/Izek Strazni.md",
+        "Book/Appendix D - Monsters and NPCs/Kasimir Velikov.md",
+        "Book/Appendix D - Monsters and NPCs/Madam Eva.md",
+        "Book/Appendix D - Monsters and NPCs/Mongrelfolk.md",
+        "Book/Appendix D - Monsters and NPCs/Phantom Warrior.md",
+        "Book/Appendix D - Monsters and NPCs/Pidlwick II.md",
+        "Book/Appendix D - Monsters and NPCs/Rahadin.md",
+        "Book/Appendix D - Monsters and NPCs/Rictavio - Rudolph van Richten.md",
+        "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
+        "Book/Appendix D - Monsters and NPCs/Strahd Zombie.md",
+        "Book/Appendix D - Monsters and NPCs/Strahd's Animated Armor.md",
+        "Book/Appendix D - Monsters and NPCs/The Abbot.md",
+        "Book/Appendix D - Monsters and NPCs/Tree Blight.md",
+        "Book/Appendix D - Monsters and NPCs/Vladmir Horngaard.md",
+        "Book/Appendix D - Monsters and NPCs/Wereraven.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "DM Stuff": {
+      "children": [
+        "DM Stuff/Notes.md",
+        "DM Stuff/Party Configuration.md",
+        "DM Stuff/Tarot Card Readings.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images": {
+      "children": [
+        "Images/DM",
+        "Images/Appendix A - Character Options",
+        "Images/Appendix B - Death House",
+        "Images/Appendix C - Treasures",
+        "Images/Appendix D - Monsters and NPCs",
+        "Images/Appendix E - Tarokka Deck",
+        "Images/Appendix F - Handouts",
+        "Images/Chapter 0.5 - Introduction",
+        "Images/Chapter 1 - Into the Mists",
+        "Images/Chapter 2 - The Lands of Barovia",
+        "Images/Chapter 3 - The Village of Barovia",
+        "Images/Chapter 4 - Castle Ravenloft",
+        "Images/Chapter 5 - The Town of Vallaki",
+        "Images/Chapter 6 - Old Bonegrinder",
+        "Images/Chapter 7 - Argynvostholt",
+        "Images/Chapter 8 - The Village of Krezk",
+        "Images/Chapter 9 - Tsolenka Pass",
+        "Images/Chapter 10 - The Ruins of Berez",
+        "Images/Chapter 11 - Van Richten's Tower",
+        "Images/Chapter 12 - The Wizard of Wines",
+        "Images/Chapter 13 - The Amber Temple",
+        "Images/Chapter 14 - Yester Hill",
+        "Images/Chapter 15 - Werewolf Den",
+        "Images/Epilogue"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Appendix A - Character Options": {
+      "children": [
+        "Images/Appendix A - Character Options/Character Personality Bonds and Flaws Random Table.png",
+        "Images/Appendix A - Character Options/Character Personality Traits and Ideals Random Table.png",
+        "Images/Appendix A - Character Options/Gothic Trinkets Pt. 1.png",
+        "Images/Appendix A - Character Options/Gothic Trinkets Pt. 2.png",
+        "Images/Appendix A - Character Options/Gothic Trinkets Pt. 3.png",
+        "Images/Appendix A - Character Options/Harrowing Event Character Background Random Table.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Appendix B - Death House": {
+      "children": [
+        "Images/Appendix B - Death House/Death House Map.jpg",
+        "Images/Appendix B - Death House/Rose and Thorn.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Appendix C - Treasures": {
+      "children": [
+        "Images/Appendix C - Treasures/Blood Spear.png",
+        "Images/Appendix C - Treasures/Gulthias Staff.png",
+        "Images/Appendix C - Treasures/Holy Symbol of Ravenkind.jpg",
+        "Images/Appendix C - Treasures/Icon of Ravenloft.png",
+        "Images/Appendix C - Treasures/St. Markovia's Thighbone.png",
+        "Images/Appendix C - Treasures/Sunsword.PNG",
+        "Images/Appendix C - Treasures/Tome of Strahd.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Appendix D - Monsters and NPCs": {
+      "children": [
+        "Images/Appendix D - Monsters and NPCs/Baba Lysaga.png",
+        "Images/Appendix D - Monsters and NPCs/Baba Lysaga Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Baba Lysaga's Creeping Hut Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Barovian Witch.png",
+        "Images/Appendix D - Monsters and NPCs/Barovian Witch Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Broom of Animated Attack Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Challenge Rating Table.png",
+        "Images/Appendix D - Monsters and NPCs/Ezmerelda.jpg",
+        "Images/Appendix D - Monsters and NPCs/Ezmerelda Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Guardian Portrait Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Izek.jpg",
+        "Images/Appendix D - Monsters and NPCs/Izek Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Kasimir.jpg",
+        "Images/Appendix D - Monsters and NPCs/Madam Eva Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Mongrelfolk Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Monsters and NPCs.png",
+        "Images/Appendix D - Monsters and NPCs/Phantom Warrior.jpg",
+        "Images/Appendix D - Monsters and NPCs/Phantom Warrior Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Pidlwick II.jpg",
+        "Images/Appendix D - Monsters and NPCs/Pidlwick II Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Rahadin.jpg",
+        "Images/Appendix D - Monsters and NPCs/Rahadin's Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Rictavio.png",
+        "Images/Appendix D - Monsters and NPCs/Rictavio Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Strahd Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Strahd Zombie Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Strahd's Animated Armor.jpg",
+        "Images/Appendix D - Monsters and NPCs/Strahd's Animated Armor Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Strahd's Crest.png",
+        "Images/Appendix D - Monsters and NPCs/Strahd's Minions Random Table.png",
+        "Images/Appendix D - Monsters and NPCs/Tree Blight Stat Block.png",
+        "Images/Appendix D - Monsters and NPCs/Vladimir Horngaard.png",
+        "Images/Appendix D - Monsters and NPCs/Wereraven Stat Block.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Appendix E - Tarokka Deck": {
+      "children": [
+        "Images/Appendix E - Tarokka Deck/Tarokka Coins.png",
+        "Images/Appendix E - Tarokka Deck/Tarokka Deck 1.png",
+        "Images/Appendix E - Tarokka Deck/Tarokka Deck 2.png",
+        "Images/Appendix E - Tarokka Deck/Tarokka Deck 3.png",
+        "Images/Appendix E - Tarokka Deck/Tarokka Deck 4.png",
+        "Images/Appendix E - Tarokka Deck/Tarokka Deck 5.png",
+        "Images/Appendix E - Tarokka Deck/Tarokka Deck 6.png",
+        "Images/Appendix E - Tarokka Deck/Tarokka Glyphs.png",
+        "Images/Appendix E - Tarokka Deck/Tarokka High Deck.png",
+        "Images/Appendix E - Tarokka Deck/Tarokka Stars.png",
+        "Images/Appendix E - Tarokka Deck/Tarokka Swords.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Appendix F - Handouts": {
+      "children": [
+        "Images/Appendix F - Handouts/From the Tome of Strahd.png",
+        "Images/Appendix F - Handouts/From the Tome of Strahd 2.png",
+        "Images/Appendix F - Handouts/Journal of Argynvost.png",
+        "Images/Appendix F - Handouts/Journal of Rudolph van Richten.png",
+        "Images/Appendix F - Handouts/Journal of Rudolph van Richten 2.png",
+        "Images/Appendix F - Handouts/Kolyan Indirovich's Letter (Version 1).png",
+        "Images/Appendix F - Handouts/Kolyan Indirovich's Letter (Version 2).png",
+        "Images/Appendix F - Handouts/Strahd's Invitation.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 0.5 - Introduction": {
+      "children": [
+        "Images/Chapter 0.5 - Introduction/Strahd Portrait.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 1 - Into the Mists": {
+      "children": [
+        "Images/Chapter 1 - Into the Mists/Tarokka Reading Layout.png",
+        "Images/Chapter 1 - Into the Mists/Using Regular Playing Cards as a Tarokka Deck.png",
+        "Images/Chapter 1 - Into the Mists/Vistani Storyteller - Hook.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 2 - The Lands of Barovia": {
+      "children": [
+        "Images/Chapter 2 - The Lands of Barovia/Barovia Map.jpg",
+        "Images/Chapter 2 - The Lands of Barovia/Barovian Names.png",
+        "Images/Chapter 2 - The Lands of Barovia/Barovians.png",
+        "Images/Chapter 2 - The Lands of Barovia/Daytime Random Encounters.png",
+        "Images/Chapter 2 - The Lands of Barovia/Gates of Barovia.jpg",
+        "Images/Chapter 2 - The Lands of Barovia/Nighttime Random Encounters.png",
+        "Images/Chapter 2 - The Lands of Barovia/Tser Encampment Treasure Random Table.png",
+        "Images/Chapter 2 - The Lands of Barovia/Tser Pool Encampment Map.jpg",
+        "Images/Chapter 2 - The Lands of Barovia/Vistani.jpg"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 3 - The Village of Barovia": {
+      "children": [
+        "Images/Chapter 3 - The Village of Barovia/Doru.jpg",
+        "Images/Chapter 3 - The Village of Barovia/Father Donavich.png",
+        "Images/Chapter 3 - The Village of Barovia/Ireena Kolyana.png",
+        "Images/Chapter 3 - The Village of Barovia/Ismark.jpg",
+        "Images/Chapter 3 - The Village of Barovia/Mad Mary.jpg",
+        "Images/Chapter 3 - The Village of Barovia/Village of Barovia Art.jpg",
+        "Images/Chapter 3 - The Village of Barovia/Village of Barovia Church Map.jpg",
+        "Images/Chapter 3 - The Village of Barovia/Village of Barovia Map.jpg",
+        "Images/Chapter 3 - The Village of Barovia/Village of Barovia Random Encounter Table.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 4 - Castle Ravenloft": {
+      "children": [
+        "Images/Chapter 4 - Castle Ravenloft/Blinksy Toy Random Table.png",
+        "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Court of the Count Map.jpg",
+        "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Elevator Trap Map.jpg",
+        "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Heights.jpg",
+        "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Larders and Dungeon Map.jpg",
+        "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Main Floor Map.jpg",
+        "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft North Tower Map.jpg",
+        "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Random Encounter Table.png",
+        "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Rooms of Weeping Map.jpg",
+        "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Spires Map.jpg",
+        "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Study Random Table.png",
+        "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Teleportation Brazier Table.png",
+        "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Torture Chamber Strahd Zombies.png",
+        "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Traps in area K73 Map.jpg",
+        "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Walls Map.png",
+        "Images/Chapter 4 - Castle Ravenloft/Cyrus Bellview.jpg",
+        "Images/Chapter 4 - Castle Ravenloft/Emil Toranescu.png",
+        "Images/Chapter 4 - Castle Ravenloft/Escher and the Three Brides.png",
+        "Images/Chapter 4 - Castle Ravenloft/Gertruda.jpg",
+        "Images/Chapter 4 - Castle Ravenloft/Giant Spider Cocoon Random Table.png",
+        "Images/Chapter 4 - Castle Ravenloft/King Barov and Queen Ravenovia.jpg",
+        "Images/Chapter 4 - Castle Ravenloft/King's Accountant Random Encounter Table.png",
+        "Images/Chapter 4 - Castle Ravenloft/Lief Lipsiege.jpg",
+        "Images/Chapter 4 - Castle Ravenloft/Portrait of Strahd.jpg",
+        "Images/Chapter 4 - Castle Ravenloft/Rahadin Random Encounter Table.png",
+        "Images/Chapter 4 - Castle Ravenloft/Strahd at the Organ.png",
+        "Images/Chapter 4 - Castle Ravenloft/Tatyana.png",
+        "Images/Chapter 4 - Castle Ravenloft/The Heart of Sorrow.png",
+        "Images/Chapter 4 - Castle Ravenloft/Unseen Servant Random Table.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 5 - The Town of Vallaki": {
+      "children": [
+        "Images/Chapter 5 - The Town of Vallaki/Blue Water Inn Map.jpg",
+        "Images/Chapter 5 - The Town of Vallaki/Burgomaster's Mansion Map.jpg",
+        "Images/Chapter 5 - The Town of Vallaki/Coffin Maker's Shop Map.jpg",
+        "Images/Chapter 5 - The Town of Vallaki/Fiona Wachter and Majesto.jpg",
+        "Images/Chapter 5 - The Town of Vallaki/Heinrik.png",
+        "Images/Chapter 5 - The Town of Vallaki/Luvash and Arrigal.jpg",
+        "Images/Chapter 5 - The Town of Vallaki/Milijov.png",
+        "Images/Chapter 5 - The Town of Vallaki/Rictavio's Wagon.jpg",
+        "Images/Chapter 5 - The Town of Vallaki/The Martikov Family.png",
+        "Images/Chapter 5 - The Town of Vallaki/Vallaki House Occupants Random Table.png",
+        "Images/Chapter 5 - The Town of Vallaki/Vallaki Map.jpg",
+        "Images/Chapter 5 - The Town of Vallaki/Vallakovich Family.png",
+        "Images/Chapter 5 - The Town of Vallaki/Vistani Camp.jpg",
+        "Images/Chapter 5 - The Town of Vallaki/Wachterhaus.jpg",
+        "Images/Chapter 5 - The Town of Vallaki/Wolf Hunters Szoldar Szoldarovich and Yevgeni Krushkin.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 6 - Old Bonegrinder": {
+      "children": [
+        "Images/Chapter 6 - Old Bonegrinder/Morgantha.jpg",
+        "Images/Chapter 6 - Old Bonegrinder/Old Bonegrinder Front View.jpg",
+        "Images/Chapter 6 - Old Bonegrinder/Old Bonegrinder Map.jpg"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 7 - Argynvostholt": {
+      "children": [
+        "Images/Chapter 7 - Argynvostholt/Argynvost Statue.png",
+        "Images/Chapter 7 - Argynvostholt/Argynvostholt Lower Floors Map.jpg",
+        "Images/Chapter 7 - Argynvostholt/Argynvostholt Upper Floors Map.jpg",
+        "Images/Chapter 7 - Argynvostholt/Revenants of Barovia Table.png",
+        "Images/Chapter 7 - Argynvostholt/Sir Godfrey Gwilym.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 8 - The Village of Krezk": {
+      "children": [
+        "Images/Chapter 8 - The Village of Krezk/Baron and Baroness Krezkov.jpg",
+        "Images/Chapter 8 - The Village of Krezk/Clovin.png",
+        "Images/Chapter 8 - The Village of Krezk/Krezk Map.jpg",
+        "Images/Chapter 8 - The Village of Krezk/Krezk Side View.png",
+        "Images/Chapter 8 - The Village of Krezk/Otto and Zygfrek Belview.png",
+        "Images/Chapter 8 - The Village of Krezk/The Abbey of St. Markovia Ground Floor Map.jpg",
+        "Images/Chapter 8 - The Village of Krezk/The Abbey of St. Markovia Upper Floor and Cellar Map.jpg"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 9 - Tsolenka Pass": {
+      "children": [
+        "Images/Chapter 9 - Tsolenka Pass/Roc.png",
+        "Images/Chapter 9 - Tsolenka Pass/Tsolenka Pass Map.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 10 - The Ruins of Berez": {
+      "children": [
+        "Images/Chapter 10 - The Ruins of Berez/Baba Lysaga's Creeping Hut Map.jpg",
+        "Images/Chapter 10 - The Ruins of Berez/Berez Map.jpg"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 11 - Van Richten's Tower": {
+      "children": [
+        "Images/Chapter 11 - Van Richten's Tower/Ezmerelda's Wagon.jpg",
+        "Images/Chapter 11 - Van Richten's Tower/Khazan's Door.png",
+        "Images/Chapter 11 - Van Richten's Tower/Van Richten's Tower Front View.jpg",
+        "Images/Chapter 11 - Van Richten's Tower/Van Richten's Tower Map.jpg"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 12 - The Wizard of Wines": {
+      "children": [
+        "Images/Chapter 12 - The Wizard of Wines/Davian Martikov.jpg",
+        "Images/Chapter 12 - The Wizard of Wines/Fight Outside Winery Table.png",
+        "Images/Chapter 12 - The Wizard of Wines/The Wizard of Wines Winery Map.jpg",
+        "Images/Chapter 12 - The Wizard of Wines/Twig Blight.jpg",
+        "Images/Chapter 12 - The Wizard of Wines/Wintersplinter.jpg"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 13 - The Amber Temple": {
+      "children": [
+        "Images/Chapter 13 - The Amber Temple/Amber Golem.png",
+        "Images/Chapter 13 - The Amber Temple/Amber Sarcophagi.png",
+        "Images/Chapter 13 - The Amber Temple/Amber Temple Lower Level Map.jpg",
+        "Images/Chapter 13 - The Amber Temple/Amber Temple Upper Level Map.jpg",
+        "Images/Chapter 13 - The Amber Temple/Vilinus and Quasit.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 14 - Yester Hill": {
+      "children": [
+        "Images/Chapter 14 - Yester Hill/Yester Hill Map.jpg"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Chapter 15 - Werewolf Den": {
+      "children": [
+        "Images/Chapter 15 - Werewolf Den/Kiril Stoyanovich.jpg",
+        "Images/Chapter 15 - Werewolf Den/Werewold Den Map.jpg",
+        "Images/Chapter 15 - Werewolf Den/Zuleika Toranescu.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/DM": {
+      "children": [
+        "Images/DM/Player Barovia Map.png",
+        "Images/DM/Pasted image 20260223021534.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Images/Epilogue": {
+      "children": [
+        "Images/Epilogue/Strahd on Bucephalus.png"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
