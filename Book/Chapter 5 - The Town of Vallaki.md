@@ -4,7 +4,7 @@ vah-lah-key) seems like a safe haven against the evils of the Svalich Woods, if 
 quickly realize that there is no happiness here, only false hope-which Strahd himself cultivates.
 
 Vallaki was founded not long after Strahd's armies conquered the valley by an ancestor of the town's current burgomaster, Baron Vargas Vallakovich. The Vallakoviches have royal blood in their veins and have long believed themselves superior to the Zarovich line. Baron Vallakovich has deluded himself into believing that hope and happiness are the keys to Vallaki's salvation. If he
-can make everyone in Vallaki happy, the burgomaster thinks that the town will somehow escape Strahd's grasp and return to the forgotten world whence it came. He stages one festival after another to bolster the spirits of the townsfolk, but most Vallakians consider these festivals to be pointless, meaningless affairs more likely to incur Strahd's wrath than to provide any hope for the future.a
+can make everyone in Vallaki happy, the burgomaster thinks that the town will somehow escape Strahd's grasp and return to the forgotten world whence it came. He stages one festival after another to bolster the spirits of the townsfolk, but most Vallakians consider these festivals to be pointless, meaningless affairs more likely to incur Strahd's wrath than to provide any hope for the future.
 
 In the last festival, Baron Vallakovich had townsfolk parade through the streets with the severed heads of wolves on pikes. His next event, which the burgomaster has dubbed the Festival of the Blazing Sun, is soon to get under way (see the "Special Events" section at the end of this chapter). Weatherworn garlands from previous festivals still hang from the eaves of Vallaki's buildings, and work has begun on a large wicker sun, to be  set ablaze in the town square on the day of the festival. In the days leading up to the festival, Baron Vallakovich has begun arresting local malcontents and throwing them in the stocks so that his efforts aren't ruined by "those of little hope or faith."
 
@@ -535,7 +535,7 @@ Lady Wachter's latest scheme to gain control of Vallaki is far more diabolical. 
 
 Another secret of Fiona's is that she sleeps with the corpse of her dead husband, Nikolai, who died of sickness nearly three years ago and whom Fiona cherished. Lady Wachter casts *gentle repose* spells on the corpse to keep it from deteriorating.
 
-If the characters come to Wachterhaus looking for help to overthrow the burgomaster, Lady Wachter is all henchman, Izek Strazni. She's happy to take care of the rest. If they come looking for a way to defeat Strahd, Lady Wachter turns them away, stating in no uncertain terms that she is not, nor ever will be, Strahd's enemy.
+If the characters come to Wachterhaus looking for help to overthrow the burgomaster, Lady Wachter is all ears and suggests they start by killing the baron's evil henchman, Izek Strazni. She's happy to take care of the rest. If they come looking for a way to defeat Strahd, Lady Wachter turns them away, stating in no uncertain terms that she is not, nor ever will be, Strahd's enemy.
 
 Lady Wachter has a different list of prepared spells from that of the priest in the Monster Manual:
 Cantrips (at will): *light, mending, thaumaturgy*
