@@ -66,10 +66,15 @@
     },
     "DM Stuff": {
       "children": [
+        "DM Stuff/Custom Worldbuilding",
         "DM Stuff/Notes.md",
         "DM Stuff/Party Configuration.md",
         "DM Stuff/Tarot Card Readings.md"
       ],
+      "sortOrder": "custom"
+    },
+    "DM Stuff/Custom Worldbuilding": {
+      "children": [],
       "sortOrder": "custom"
     },
     "Images": {

@@ -13,30 +13,45 @@ https://docs.google.com/document/d/1IbTfYh_JFRB7c3g00gFibamS7SzeoOdC0sxLWzSWiJQ/
 
 
 
-### Demiplanes of Dread
-- The Demiplanes of Dread
-    - Once upon a time, there was an entire dimension called the Core as big and wondrous as Faerun. But, over the course of time, this dimension was split into a multitude of small, isolated dimensions. Demiplanes, to be more precise. Barovia is one of these demiplanes.
-    - [Click here](http://www.fraternityofshadows.com/PortraitHall/JesterMaps/CoreMistyBordersPoster.png) for a nice map of the Core, complete with misty borders. Barovia is near the middle bottom.
-- The Dark Powers
-    - Why did the big dimension get split up? Because of the Dark Powers.
-    - The Dark Powers are essentially a pantheon of old, dark gods. They’re very powerful, usually sinister beings.
-    - Each demiplane has a ruling Dark Power. That god basically owns that particular mini world. However, these gods cannot actually own a plane just by wanting it. Instead, they choose a champion amongst mortals and form a sort of pact with them. That mortal becomes the Dark Power’s anchor to that particular demiplane.
-    - The Dark Powers are always at war with one another, essentially fighting for real estate. It’s possible for one Dark Power to supplant another as ruler of a particular demiplane, provided they too have a chosen champion in that plane.
-    - They feed on mortal souls. However, those souls only exist in realms in which they can't live. Sure, they can enter a mortal realm for a short time, but they can never stay. Every so often, they can reach out and corrupt a soul ripe for stealing, but it's hard work and doesn't happen consistently. Collecting souls through a champion (a shark) is a much better method of finding food.
-    - Each Dark Power has a specific sort of soul to collect to feed their hunger, usually based on their representative power. Fekre, Queen of Poxes, collects the souls of those who die from her pox. Delban, Star of Ice and Hate, collects souls who freeze to death.
-    
+### The Dark Powers 
+- The Dark Powers are a pantheon of old, dark gods. They’re very powerful, usually sinister beings.
+- They feed on souls.
+	- Dark Powers employ a darklord as an overseer of their territory from which they feast 
+	- Each Dark Power has a specific sort of soul to collect to feed their hunger, usually based on their representative power. Fekre, Queen of Poxes, collects the souls of those who die from her pox. Delban, Star of Ice and Hate, collects souls who freeze to death.
+	- Every Dark Power is eternally hungry, and is gluttonous, and always wants more souls.
+	- As a result, when there isn't enough souls to go around, they start waging wars against each other to take territory
+- They leave vestiges at every crook and cranny
+	- As a backup plan and as a way to spread influence, the dark powers leave a fragment of their consciousness in vestiges, scattered all over the Core realms, and anywhere they can find.
+	- Through vestiges, they can form pacts with the darklords that can help them control domains, which they need to feed.
+
+#### Demiplanes of Dread ([Map](http://www.fraternityofshadows.com/PortraitHall/JesterMaps/CoreMistyBordersPoster.png)) 
+- Dark Powers control certain regions through their darklords, who are their apostles and overseers of the region.
+- These regions, once established, separate from the material plane and reappears connected to a huge landmass called the Core, which consists of various territories owned by various dark powers, all connected by separated by a mist that they can choose to turn on to stop the residents from leaving or neighbors to come in.
+- Once the darklord is slain, the region becomes free of the dark power's control, and its mists evaporate.
+	- The land, however, does not return back to its place of origin, it instead stays in the Core, where it is trapped for eternity.
+	- The only benefit is that now you can visit the neighboring lands who might have kinder dark powers who opens up their borders.
+	- The freed up land is up for grabs by any dark power, and is usually quickly done so.
+- Dark Powers supplant each other all the time
+	- due to their gluttony, the dark powers constantly wage wars and take over each other through their darklords.
+
 #### Vampyr
 - The Dark Power that rules over Barovia is named Vampyr. 
-    - Vampyr is trapped in a vestige at the Amber Temple.
+    - Vampyr has a vestige at the Amber Temple.
     - Strahd is Vampyr’s chosen champion to rule over Barovia, therefore giving Vampyr dominion over this demiplane.
-	
     - Vampyr collects the souls of those who die from insanguination (extreme blood loss). So, a champion who quite literally needs to drink blood is an excellent way to collect. Basically, anybody who dies in Barovia by vampire bite looses their soul to Vampyr.
 	- The Soulless
 	    - While there were once a plethora of souls in the valley - so many so that there weren't enough physical bodies to house them all at any given time - now there simply aren't enough. Those who have died to the vampires in Barovia over the many centuries have lost their souls to Vampyr and the mists prevent any new souls from entering the land.
-    
+	
     - During their time in Barovia, your players should start attracting the attention of Vampyr.
     - Vampyr will adapt to the PC best friend persona if they deem PC worthy and wants them to become the successor.
     - If there comes a time when one of your players is in a pretty dire situation and happens to die, you can have Vampyr come to their aid. After all, an evil god probably doesn’t want to loose its chosen plaything. Players can temporarily enter a Beast Mode version of themselves as they’re overwhelmed with the ability of the Dark Power. They can then use their temporary power to crush their enemies before becoming drained again.
+
+#### Tenebrous
+- The Dark Power that rules over Lamordia is named Tenebrous
+- 
+
+### Lamordia
+
 
 ### Druidic Tribes
 - Druidic Tribes

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 13 - The Amber Temple.md",
+                "file": "DM Stuff/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 13 - The Amber Temple"
+              "title": "Notes"
             }
           },
           {
@@ -33,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "Notes"
+            }
+          },
+          {
+            "id": "af4189ebd9096aae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Chapter 13 - The Amber Temple.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 13 - The Amber Temple"
             }
           }
         ]
@@ -127,11 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DM Stuff/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Notes"
             }
           },
           {
@@ -205,12 +220,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,10 +241,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "396bbdaea4875ea5",
+  "active": "ddc65591b2489b90",
   "lastOpenFiles": [
-    "DM Stuff/Notes.md",
+    "DM Stuff/Custom Worldbuilding",
     "Book/Chapter 13 - The Amber Temple.md",
+    "DM Stuff/Notes.md",
     "Book/Appendix D - Monsters and NPCs/Izek Strazni.md",
     "Book/Chapter 5 - The Town of Vallaki.md",
     "Book/Chapter 6 - Old Bonegrinder.md",
@@ -264,7 +279,6 @@
     "Book/Appendix D - Monsters and NPCs/Strahd's Animated Armor.md",
     "Book/Appendix D - Monsters and NPCs/Strahd Zombie.md",
     "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
-    "Book/Appendix D - Monsters and NPCs/Rictavio - Rudolph van Richten.md",
     "Images/DM",
     "DM Stuff",
     "Archive/Stat Blocks",
