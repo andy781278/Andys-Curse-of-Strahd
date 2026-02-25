@@ -257,7 +257,8 @@ When one or more characters approach within 10 feet of the fireplace, add:
 
 ==A small, hissing dragon made of ash and smoke erupts from the fireplace, filling the room with soot as it beats its wings.==
 
-The smoky dragonet has the statistics of a **smoke mephit** but fights only in self-defense. If left alone, it flies out of the room at a speed of 30 feet, up the spiral stairs case (area [[#Q17. WEST STAIRCASES]]), through the curtain at area [[#Q30. CURTAINED STAIRCASE]], over the rubble in area [[#Q33. COLLAPSED CEILING]], and into area [[#Q36. DRAGON'S AUDIENCE HALL]]. Once there, it lands on the back of Vladimir's throne and disappears.
+	The smoky dragonet has the statistics of a **smoke mephit** but fights only in self-defense. If left alone, it flies out of the room at a speed of 30 feet, up the spiral stairs case (area [[#Q17. WEST STAIRCASES]]), through the curtain at area [[#Q30. CURTAINED STAIRCASE]], over the rubble in area [[#Q33. COLLAPSED CEILING]], and into area [[#Q36. DRAGON'S AUDIENCE HALL]]. Once there, it lands on the back of Vladimir's throne and disappears.
+![[Argynvostholt Upper Floors Map.jpg]]
 
 ## Q27. KNIGHTS' QUARTERS
 This room is littered with the wreckage of ancient bunk beds. Five dirt-caked windows allow precious little light to enter, and between them are four empty armor stands. Empty torch sconces line the walls.
@@ -357,6 +358,7 @@ One of the revenants, Sir Godfrey Gwilym, is a spellcaster with a challenge rati
 Characters who inspect the fireplace notice a shield-shaped patch on the wall above the mantelpiece. A magic shield once hung there, but it was taken when Strahd's soldiers plundered the mansion. It now rests in Castle Ravenloft's treasury ([[Chapter 4 - Castle Ravenloft#K41. TREASURY]]).
 
 DEVELOPMENT
+![[Sir Godfrey Gwilym.png]]
 Sir Godfrey can sense that the spirit of Argynvost isn't at rest and isn't happy that the order has been reduced to such a state. If the characters petition the revenants for aid, Sir Godfrey (speaking in a scratchy voice) relates all the information presented at the start of the chapter concerning Argynvost and the rise and fall of the Order of the Silver Dragon. Neither he nor the other revenants can help the characters in any meaningful way, however, because of the oaths they have sworn to Vladimir Horngaard.
 
 FORTUNES OF RAVENLOFT

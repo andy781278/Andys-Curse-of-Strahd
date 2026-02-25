@@ -27,8 +27,7 @@ of hungry flies (use the **swarm of insects** (wasps)) stat block in the *Monste
 Seven **scarecrows** stand guard in the marsh. They appear to be ordinary, nonmagical scarecrows stuffed with raven feathers until one or more of them are attacked, until Baba Lysaga commands them to attack, or until someone activates the howling skulls that surround Baba Lysaga's goat pen (see area [[#U2. ULRICH MANSION]]).
 
 # AREAS OF BEREZ
-
-![[Berez Map.jpg]]
+![[Berez Map Labeled.png]]
 
 ## U1. ABANDONED COTTAGES
 ==As you approach this cluster of ruined cottages separated by low stone walls, you see a short stretch of dirt road that has remained intact.==
@@ -90,7 +89,7 @@ The child and the crib are illusions created by Baba Lysaga using a *programmed 
 
 Beneath the hut's rotting floorboards is a 3-foot-deep cavity containing the magic, green-glowing gem that Baba Lysaga took from the Wizard of the Wines winery. This gem animates the hut (see "[[#CREEPING HUT]]" in the "Special Events" section below). The floorboards can be ripped up or smashed with a successful DC 14 Strength check. Characters can also break through the floor by dealing 10 damage to it. The hut doesn't give up the gemstone easily, however (see [[Baba Lysaga's Creeping Hut]]). If the gem is destroyed or removed from the cavity, the hut becomes incapacitated.
 
-Baba Lysaga keeps soiled robes in the wardrobe and assorted spell components in the wicker cabinet. The tub is where she ritually bathes in blood to prevent aging (see "Gifts of Mother Night" in [[Baba Lysaga]]). If the characters approach the hut at an appropriate time without being noticed, they can see Baba Lysaga bathing.
+Baba Lysaga keeps soiled robes in the wardrobe and assorted spell components in the wicker cabinet. The tub is where she ritually bathes in blood to prevent aging (see "Gifts of Mother Night" in [[Baba Lysaga]] section in appendix D). If the characters approach the hut at an appropriate time without being noticed, they can see Baba Lysaga bathing.
 
 TREASURE
 The wooden chest in the hut is protected by a *glyph of warding* that requires a successful DC 17 Intelligence (Investigation) check to find. The glyph deals 5d8 thunder damage when triggered. Opening the lid releases four **crawling claws** that fight until destroyed. Also contained in the chest are various items that Baba Lysaga has taken from dead adventurers over the years:

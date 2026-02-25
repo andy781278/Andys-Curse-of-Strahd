@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "396bbdaea4875ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Chapter 13 - The Amber Temple.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 13 - The Amber Temple"
+            }
+          },
+          {
             "id": "0e2c8ee8a37d6b95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 5 - The Town of Vallaki.md",
+                "file": "DM Stuff/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 5 - The Town of Vallaki"
-            }
-          },
-          {
-            "id": "e41d20411bfdfea4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Chapter 2 - The Lands of Barovia/Barovia Map.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Barovia Map"
-            }
-          },
-          {
-            "id": "226bf15a0339dfb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Stuff/Tarot Card Readings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tarot Card Readings"
+              "title": "Notes"
             }
           }
         ]
@@ -79,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "izek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,43 +227,44 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0e2c8ee8a37d6b95",
+  "active": "396bbdaea4875ea5",
   "lastOpenFiles": [
+    "DM Stuff/Notes.md",
+    "Book/Chapter 13 - The Amber Temple.md",
     "Book/Appendix D - Monsters and NPCs/Izek Strazni.md",
     "Book/Chapter 5 - The Town of Vallaki.md",
-    "DM Stuff/Tarot Card Readings.md",
-    "Images/Chapter 2 - The Lands of Barovia/Barovia Map.jpg",
-    "Book/Chapter 4 - Castle Ravenloft.md",
-    "Book/Chapter 3 - The Village of Barovia.md",
-    "DM Stuff/Notes.md",
-    "Book/Chapter 0.5 - Introduction.md",
-    "Images/Chapter 0.5 - Introduction/Strahd Portrait.png",
-    "Book/Chapter 1 - Into the Mists.md",
-    "Book/Chapter 2 - The Lands of Barovia.md",
-    "Images/Chapter 3 - The Village of Barovia/Village of Barovia Random Encounter Table.png",
-    "Book/Chapter 13 - The Amber Temple.md",
-    "Images/DM/Player Barovia Map.png",
-    "DM Stuff/Party Configuration.md",
-    "Book/Chapter 15 - Werewolf Den.md",
-    "Book/Chapter 14 - Yester Hill.md",
-    "Book/Epilogue.md",
-    "Book/Chapter 12 - The Wizard of Wines.md",
-    "Book/Chapter 11 - Van Richten's Tower.md",
-    "Book/Chapter 10 - The Ruins of Berez.md",
-    "Book/Chapter 9 - Tsolenka Pass.md",
-    "Book/Chapter 8 -  The Village of Krezk.md",
-    "Book/Chapter 7 - Argynvostholt.md",
     "Book/Chapter 6 - Old Bonegrinder.md",
-    "Book/Appendix D - Monsters and NPCs/Rahadin.md",
-    "Book/Appendix D - Monsters and NPCs/Ezmerelda d'Avenir.md",
-    "Book/Appendix D - Monsters and NPCs/Barovian Witch.md",
-    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft North Tower Map.jpg",
-    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Main Floor Map.jpg",
-    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Larders and Dungeon Map.jpg",
-    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Heights.jpg",
-    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Elevator Trap Map.jpg",
-    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Court of the Count Map.jpg",
+    "Book/Appendix D - Monsters and NPCs.md",
+    "Images/Chapter 5 - The Town of Vallaki/Blue Water Inn Map.jpg",
+    "Images/Chapter 5 - The Town of Vallaki/Wolf Hunters Szoldar Szoldarovich and Yevgeni Krushkin.png",
+    "Images/Chapter 5 - The Town of Vallaki/Burgomaster's Mansion Map.jpg",
+    "Images/Chapter 5 - The Town of Vallaki/Coffin Maker's Shop Map.jpg",
+    "Images/Chapter 5 - The Town of Vallaki/Fiona Wachter and Majesto.jpg",
+    "Images/Chapter 5 - The Town of Vallaki/Heinrik.png",
+    "Images/Chapter 5 - The Town of Vallaki/Luvash and Arrigal.jpg",
+    "Images/Chapter 5 - The Town of Vallaki/Milijov.png",
+    "Images/Chapter 5 - The Town of Vallaki/Rictavio's Wagon.jpg",
+    "Images/Chapter 5 - The Town of Vallaki/The Martikov Family.png",
+    "Book/Chapter 0.5 - Introduction.md",
+    "Book/Chapter 3 - The Village of Barovia.md",
+    "DM Stuff/Party Configuration.md",
+    "Book/Appendix C - Treasures.md",
+    "Book/Appendix B - Death House.md",
+    "Book/Chapter 0.0 - Foreword - Ravenloft Revisited.md",
+    "Book/Appendix F - Handouts.md",
+    "Book/Appendix E - Tarokka Deck.md",
+    "Book/Appendix A - Character Options.md",
+    "Book/Chapter 14 - Yester Hill.md",
+    "Book/Chapter 15 - Werewolf Den.md",
+    "DM Stuff/Tarot Card Readings.md",
+    "Book/Appendix D - Monsters and NPCs/Wereraven.md",
+    "Book/Appendix D - Monsters and NPCs/Vladmir Horngaard.md",
+    "Book/Appendix D - Monsters and NPCs/Tree Blight.md",
+    "Book/Appendix D - Monsters and NPCs/The Abbot.md",
+    "Book/Appendix D - Monsters and NPCs/Strahd's Animated Armor.md",
+    "Book/Appendix D - Monsters and NPCs/Strahd Zombie.md",
     "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
+    "Book/Appendix D - Monsters and NPCs/Rictavio - Rudolph van Richten.md",
     "Images/DM",
     "DM Stuff",
     "Archive/Stat Blocks",

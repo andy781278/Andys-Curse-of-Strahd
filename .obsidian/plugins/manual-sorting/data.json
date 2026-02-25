@@ -384,6 +384,7 @@
     "Images/DM": {
       "children": [
         "Images/DM/Player Barovia Map.png",
+        "Images/DM/Berez Map Labeled.png",
         "Images/DM/Pasted image 20260223021534.png"
       ],
       "sortOrder": "custom"
