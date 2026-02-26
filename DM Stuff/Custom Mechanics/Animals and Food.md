@@ -1,0 +1,26 @@
+- Woods
+	- **Predators:** Wolves, Boar, Bears, Lynx, Foxes
+	- **Game:** Deer, Rabbits, Squirrels, Mice
+	- **Birds:** Ravens, Owls, Falcons, Larks, Jackdaws, Pheasant, Doves, Thrush
+	- **Other:** Rats, Bats
+- Swamps
+	- **Predators:** Wolves, Boar, Snakes
+	- **Game:** Muskrats
+	- **Birds:** Ravens, Owls, Larks, Jackdaws, Thrush
+	- **Other:** Rats, Bats, Frogs/Toads
+- Mountains
+	- **Predators:** Wolves, Bears, Lynx, Foxes
+	- **Game:** Rabbits, Mountain Goats, Squirrels
+	- **Birds:** Ravens, Owls, Falcons,
+	- **Other:** Rats, Bats
+- Domestic Environments: Or, animals that live in towns through widespread domestication but are not commonly found in the wild.
+	- **Food Production:** Sheep, Goats, Chickens, Domestic Boar (basically hairy pigs)
+	- **Pets/Labor Animals:** Dogs, Cats, Horses, Mules
+    - Fish
+        - I know the book says there aren't fish in Lake Zarovich. Fine. But there are still plenty of rivers and other small lakes where Barovians can fish.
+        - There are likely Carp, Perch, Pike, and Trout in Barovia.
+- Farming and Edibles
+    - most of these crops usually have darker leaves and vines from the lack of sunlight.  Also remember that most of products of these crops will be smaller and under-grown from the lack of sunlight.
+    - Barovian Crops: Carrots, turnips, beets, potatoes, radishes, cabbage, mustard greens, kale, and collards.
+- Wine
+	- There is only wine, no other beverages, no beer, no mead, no whisky

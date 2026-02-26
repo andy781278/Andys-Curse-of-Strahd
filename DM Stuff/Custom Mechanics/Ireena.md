@@ -1,0 +1,7 @@
+- And Lastly, Ireena
+    - Ireena is a PC
+        - If you can somehow transfer Ireena's narrative function to a PC, eliminating her as an NPC altogether, that'd be ideal. Now, Strahd is after a PC because that player is his reincarnated love. This makes things _very_ personal to the players and makes them the center of the plot.
+        - If this option is of interest to you, I highly recommend checking out my [Village of Barovia](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/) chapter. It details this process more thoroughly.
+    - Ireena as an NPC Doesn't get a Happy Ending
+        - I'll detail this more in a later post, but know that Ireena is pretty much doomed. I have some of this written in my [Village of Barovia Post](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/) and will include much more in a future post on the Shrine of the White Sun in Kresk.
+        - Forcing Ireena into a sad ending basically makes her a martyr for the narrative. Her death or other sad fall is no different from that obligatory parent murder in the beginning of so many action movies. Tragedy breeds heroes.

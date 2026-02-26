@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Notes.md",
+                "file": "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "The Fanes of Barovia"
             }
           },
           {
@@ -27,16 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Notes.md",
+                "file": "DM Stuff/Custom Worldbuilding/Vampyr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Vampyr"
             }
           },
           {
-            "id": "af4189ebd9096aae",
+            "id": "ff0b74b74bc45182",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Notes.md",
+                "file": "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline of The Fanes of Barovia"
             }
           },
           {
@@ -241,11 +241,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ddc65591b2489b90",
+  "active": "396bbdaea4875ea5",
   "lastOpenFiles": [
-    "DM Stuff/Custom Worldbuilding",
+    "DM Stuff/Custom Worldbuilding/Druidic Tribes.md",
+    "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
+    "DM Stuff/Custom Worldbuilding/Tenebrous.md",
+    "DM Stuff/Custom Worldbuilding/Vampyr.md",
+    "DM Stuff/Custom Worldbuilding/The Dark Powers.md",
+    "DM Stuff/Custom Mechanics/Legendary Items.md",
+    "DM Stuff/Custom Mechanics/Ireena.md",
     "Book/Chapter 13 - The Amber Temple.md",
     "DM Stuff/Notes.md",
+    "DM Stuff/Custom Worldbuilding/Lamordia.md",
+    "DM Stuff/Custom Mechanics/Death.md",
+    "DM Stuff/Custom Mechanics/Animals and Food.md",
+    "DM Stuff/Custom Mechanics",
+    "DM Stuff/Custom Worldbuilding/Demiplanes of Dread.md",
+    "Images/DM/Lamordia Map.png",
+    "DM Stuff/Custom Worldbuilding",
     "Book/Appendix D - Monsters and NPCs/Izek Strazni.md",
     "Book/Chapter 5 - The Town of Vallaki.md",
     "Book/Chapter 6 - Old Bonegrinder.md",
@@ -259,7 +272,6 @@
     "Images/Chapter 5 - The Town of Vallaki/Luvash and Arrigal.jpg",
     "Images/Chapter 5 - The Town of Vallaki/Milijov.png",
     "Images/Chapter 5 - The Town of Vallaki/Rictavio's Wagon.jpg",
-    "Images/Chapter 5 - The Town of Vallaki/The Martikov Family.png",
     "Book/Chapter 0.5 - Introduction.md",
     "Book/Chapter 3 - The Village of Barovia.md",
     "DM Stuff/Party Configuration.md",
@@ -269,16 +281,6 @@
     "Book/Appendix F - Handouts.md",
     "Book/Appendix E - Tarokka Deck.md",
     "Book/Appendix A - Character Options.md",
-    "Book/Chapter 14 - Yester Hill.md",
-    "Book/Chapter 15 - Werewolf Den.md",
-    "DM Stuff/Tarot Card Readings.md",
-    "Book/Appendix D - Monsters and NPCs/Wereraven.md",
-    "Book/Appendix D - Monsters and NPCs/Vladmir Horngaard.md",
-    "Book/Appendix D - Monsters and NPCs/Tree Blight.md",
-    "Book/Appendix D - Monsters and NPCs/The Abbot.md",
-    "Book/Appendix D - Monsters and NPCs/Strahd's Animated Armor.md",
-    "Book/Appendix D - Monsters and NPCs/Strahd Zombie.md",
-    "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
     "Images/DM",
     "DM Stuff",
     "Archive/Stat Blocks",
@@ -287,8 +289,6 @@
     "Images/Chapter 15 - Werewolf Den",
     "Images/New folder",
     "Images/Chapter 13 - The Amber Temple",
-    "Images/Chapter 12 - The Wizard of Wines",
-    "Images/Chapter 14 - Yester Hill",
     "Untitled.canvas"
   ]
 }

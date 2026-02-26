@@ -67,14 +67,32 @@
     "DM Stuff": {
       "children": [
         "DM Stuff/Custom Worldbuilding",
+        "DM Stuff/Custom Mechanics",
         "DM Stuff/Notes.md",
         "DM Stuff/Party Configuration.md",
         "DM Stuff/Tarot Card Readings.md"
       ],
       "sortOrder": "custom"
     },
+    "DM Stuff/Custom Mechanics": {
+      "children": [
+        "DM Stuff/Custom Mechanics/Legendary Items.md",
+        "DM Stuff/Custom Mechanics/Ireena.md",
+        "DM Stuff/Custom Mechanics/Animals and Food.md",
+        "DM Stuff/Custom Mechanics/Death.md"
+      ],
+      "sortOrder": "custom"
+    },
     "DM Stuff/Custom Worldbuilding": {
-      "children": [],
+      "children": [
+        "DM Stuff/Custom Worldbuilding/The Dark Powers.md",
+        "DM Stuff/Custom Worldbuilding/Demiplanes of Dread.md",
+        "DM Stuff/Custom Worldbuilding/Vampyr.md",
+        "DM Stuff/Custom Worldbuilding/Tenebrous.md",
+        "DM Stuff/Custom Worldbuilding/Lamordia.md",
+        "DM Stuff/Custom Worldbuilding/Druidic Tribes.md",
+        "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md"
+      ],
       "sortOrder": "custom"
     },
     "Images": {
@@ -388,6 +406,7 @@
     },
     "Images/DM": {
       "children": [
+        "Images/DM/Lamordia Map.png",
         "Images/DM/Player Barovia Map.png",
         "Images/DM/Berez Map Labeled.png",
         "Images/DM/Pasted image 20260223021534.png"

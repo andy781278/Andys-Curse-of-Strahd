@@ -1,0 +1,9 @@
+- ([Map](http://www.fraternityofshadows.com/PortraitHall/JesterMaps/CoreMistyBordersPoster.png)) 
+- Dark Powers control certain regions through their darklords, who are their apostles and overseers of the region.
+- These regions, once established, separate from the material plane and reappears connected to a huge landmass called the Core, which consists of various territories owned by various dark powers, all connected by separated by a mist that they can choose to turn on to stop the residents from leaving or neighbors to come in.
+- Once the darklord is slain, the region becomes free of the dark power's control, and its mists evaporate.
+	- The land, however, does not return back to its place of origin, it instead stays in the Core, where it is trapped for eternity.
+	- The only benefit is that now you can visit the neighboring lands who might have kinder dark powers who opens up their borders.
+	- The freed up land is up for grabs by any dark power, and is usually quickly done so.
+- Dark Powers supplant each other all the time
+	- due to their gluttony, the dark powers constantly wage wars and take over each other through their darklords.
