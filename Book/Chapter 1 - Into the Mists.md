@@ -490,8 +490,17 @@ The characters are asked to deliver Duchess Morwen's message immediately after d
 
 The travelers are camped on the hill outside the gates of Daggerford, near the road. Guards atop the walls watch the camp closely at all hours.
 
-When the characters approach the camp, read:
-==As the evening grows dark, you see a dozen men and women gathered around a crackling bonfire. The folk are in good spirits. A few of them sing and dance around the fire while others find happiness in their flasks and wineskins. Three barrel-topped wagons are parked at odd angles. Tied to a nearby tree, grazing, are half a dozen draft horses wearing bright coats with bangles and tassels.== 
+# Start
+==It is just like any other ordinary night, you are in your own bed, trying to sleep. Maybe you had a long harsh day of work, maybe you were just fucking around, doing nothing useful. But for whatever you did, you are exhausted, and ready to sleep.
+But as you lay on your bed, flipping back and forth, something stirs in the back your mind, like it's stuck to you, a thought you can't quite get out of your head. Visions of a bygone era, in a far away land.
+The night is quiet. The air grows colder.  A cool autumn breeze moves across their skin, though no window is open.
+Mist drifts through the cracks of your room.
+When you open your eyes, you are no longer home, on the comfort of your bed. You are instead sitting down, at a fallen wooden log.
+All around you, you see a dozen men and women gathered around a crackling bonfire. The folk are in good spirits. A few of them sing and dance around the fire while others find happiness in their flasks and wineskins. Three barrel-topped wagons are parked at odd angles. Tied to a nearby tree, grazing, are half a dozen draft horses wearing bright coats with bangles and tassels.
+Next to you, are each other, all sitting down next to the bonfire.
+an old frail man sit In front of all of you, behind the bonfire
+"Hello adventurers, my name is Stanimir, and welcome to my camp."
+"Don't worry, I'm not here to kill you, I have but a humble request. Listen to my story. First you listen, then you can go."== 
 
 The men and women are Vistani. They have no interest
 in Daggerford. Their orders are to deliver the characters
@@ -533,7 +542,7 @@ If the characters agree to hear Stanimir's story, he invites them to gather arou
 ![[Vistani Storyteller - Hook.png]]
 These Vistani refuse to speak the name of their "dread lord" and provide no additional information. If the characters press them for details, the Vistani reply, "Madam Eva has the answers you seek."
 
-If the characters agree to accompany the Vistani, the Vistani lead them south along the Trade Way. After several days of uneventful travel, the mists of Ravenloft engulf the caravan, transporting the characters and the Vistani to Barovia. The Vistani then lead the party safely to their leader, Madam Eva, at area G (see [[Chapter 2 - The Lands of Barovia#G. TSER POOL ENCAMPMENT]]). The characters arrive at area A and are taken through areas B, E, and F on the way to Madam Eva's camp. If the characters rid themselves of their Vistani hosts before reaching Madam Eva's camp, they're on the own.
+If the characters agree to accompany the Vistani,~~the Vistani lead them south along the Trade Way. After several days of uneventful travel, the mists of Ravenloft engulf the caravan, transporting the characters and the Vistani to Barovia. The Vistani then lead the party safely to their leader, Madam Eva, at area G (see [[Chapter 2 - The Lands of Barovia#G. TSER POOL ENCAMPMENT]]). The characters arrive at area A and are taken through areas B, E, and F on the way to Madam Eva's camp. If the characters rid themselves of their Vistani hosts before reaching Madam Eva's camp~~, they're on the own.
 
 If the characters decline Stanimir's invitation, the Vistani are disappointed but leave as promised. A day or two later, use the "Creeping Fog" adventure hook or some variation of it to draw the characters into Barovia.
 

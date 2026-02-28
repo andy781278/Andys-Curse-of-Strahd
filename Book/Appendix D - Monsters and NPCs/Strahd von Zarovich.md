@@ -1,5 +1,4 @@
-
-![[Strahd Stat Block.png]]
+![[CR20 Strahd.png]]
 With his mind sharp and his heart dark, Strahd von Zarovich is a formidable foe. Courage and lives beyond measure have been lost to him. Reread [[Chapter 1 - Into the Mists]] to understand his personality and goals.
 
 Although Strahd can be encountered almost anywhere in his domain, the vampire is always encountered in the place indicated by the card reading in chapter 1, unless he has been forced into his tomb in the catacombs of Castle Ravenloft.

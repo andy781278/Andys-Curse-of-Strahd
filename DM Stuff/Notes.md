@@ -11,3 +11,7 @@ https://www.reddit.com/r/CurseofStrahd/comments/9pbka6/fleshing_out_curse_of_str
 link to player doc
 https://docs.google.com/document/d/1IbTfYh_JFRB7c3g00gFibamS7SzeoOdC0sxLWzSWiJQ/edit?tab=t.0
 
+audio:
+https://tabletopaudio.com/
+
+https://www.youtube.com/watch?v=y8mXIudRlsk&list=PLcnvkahJI9vmLV8MF5mb4_WPp_bz3ZZaE
