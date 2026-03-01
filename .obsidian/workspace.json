@@ -8,17 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a889b7196c64c1db",
+            "id": "991b20c9e3cc3b1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 2 - The Lands of Barovia.md",
+                "file": "Book/Chapter 7 - Argynvostholt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - The Lands of Barovia"
+              "title": "Chapter 7 - Argynvostholt"
+            }
+          },
+          {
+            "id": "292bc70050940c81",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Chapter 7 - Argynvostholt/Argynvostholt Lower Floors Map.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Argynvostholt Lower Floors Map"
             }
           },
           {
@@ -36,19 +48,35 @@
             }
           },
           {
-            "id": "fabf5bed6f240b00",
+            "id": "58f1b74f1a77e450",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Chapter 2 - The Lands of Barovia/Barovia Map.jpg"
+                "file": "Book/Chapter 2 - The Lands of Barovia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Barovia Map"
+              "icon": "lucide-file",
+              "title": "Chapter 2 - The Lands of Barovia"
+            }
+          },
+          {
+            "id": "145956e1a8b9c4f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Chapter 5 - The Town of Vallaki.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 5 - The Town of Vallaki"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 328.5
   },
   "right": {
     "id": "3b1b051cf0e921f3",
@@ -114,6 +142,7 @@
       {
         "id": "db5570bc8608711a",
         "type": "tabs",
+        "dimension": 53.44444444444445,
         "children": [
           {
             "id": "f1be62bcdf1fbb59",
@@ -140,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Stuff/Notes.md",
+                "file": "Book/Chapter 2 - The Lands of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notes"
+              "title": "Outgoing links from Chapter 2 - The Lands of Barovia"
             }
           },
           {
@@ -169,23 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Notes.md",
+                "file": "Book/Chapter 2 - The Lands of Barovia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
-            }
-          },
-          {
-            "id": "fe2642278659234a",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "title": "Outline of Chapter 2 - The Lands of Barovia"
             }
           },
           {
@@ -217,9 +236,57 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "60bcec9484731f5a",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "b7acbd7f70a77110",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
+      },
+      {
+        "id": "a6a8de0d91a61341",
+        "type": "tabs",
+        "dimension": 46.55555555555556,
+        "children": [
+          {
+            "id": "46d7ab96047d3e3a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          },
+          {
+            "id": "fe2642278659234a",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,18 +307,28 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "af9a528e5dc87dda",
+  "active": "58f1b74f1a77e450",
   "lastOpenFiles": [
-    "Book/Chapter 12 - The Wizard of Wines.md",
+    "Book/Chapter 5 - The Town of Vallaki.md",
     "Book/Chapter 2 - The Lands of Barovia.md",
-    "Images/Chapter 2 - The Lands of Barovia/Barovia Map.jpg",
-    "Book/Chapter 10 - The Ruins of Berez.md",
     "DM Stuff/Notes.md",
-    "Book/Chapter 3 - The Village of Barovia.md",
+    "Book/Chapter 7 - Argynvostholt.md",
+    "Images/Chapter 7 - Argynvostholt/Argynvostholt Lower Floors Map.jpg",
+    "![[Argynvostholt Lower Floors Map.jpg.md",
+    "Book/Appendix C - Treasures.md",
     "Book/Chapter 1 - Into the Mists.md",
-    "Book/Chapter 0.5 - Introduction.md",
+    "Images/Chapter 7 - Argynvostholt/Argynvost Statue.png",
     "DM Stuff/Tarot Card Readings.md",
+    "Book/Chapter 3 - The Village of Barovia.md",
+    "Book/Chapter 4 - Castle Ravenloft.md",
+    "Book/Chapter 6 - Old Bonegrinder.md",
+    "Book/Chapter 8 -  The Village of Krezk.md",
     "DM Stuff/Party Configuration.md",
+    "Images/Appendix F - Handouts/Kolyan Indirovich's Letter (Version 2).png",
+    "Images/Chapter 2 - The Lands of Barovia/Barovia Map.jpg",
+    "Book/Chapter 12 - The Wizard of Wines.md",
+    "Book/Chapter 10 - The Ruins of Berez.md",
+    "Book/Chapter 0.5 - Introduction.md",
     "Images/DM/CR20 Strahd.png",
     "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
     "Book/Chapter 13 - The Amber Temple.md",
@@ -262,23 +339,13 @@
     "DM Stuff/Custom Mechanics/Legendary Items.md",
     "DM Stuff/Custom Mechanics/Ireena.md",
     "DM Stuff/Custom Worldbuilding/Lamordia.md",
-    "DM Stuff/Custom Mechanics/Death.md",
-    "DM Stuff/Custom Mechanics/Animals and Food.md",
     "DM Stuff/Custom Mechanics",
-    "DM Stuff/Custom Worldbuilding/Demiplanes of Dread.md",
     "Images/DM/Lamordia Map.png",
     "DM Stuff/Custom Worldbuilding",
-    "Book/Appendix D - Monsters and NPCs/Izek Strazni.md",
-    "Book/Chapter 5 - The Town of Vallaki.md",
-    "Book/Chapter 6 - Old Bonegrinder.md",
-    "Book/Appendix D - Monsters and NPCs.md",
     "Images/Chapter 5 - The Town of Vallaki/Blue Water Inn Map.jpg",
     "Images/Chapter 5 - The Town of Vallaki/Wolf Hunters Szoldar Szoldarovich and Yevgeni Krushkin.png",
     "Images/Chapter 5 - The Town of Vallaki/Burgomaster's Mansion Map.jpg",
     "Images/Chapter 5 - The Town of Vallaki/Coffin Maker's Shop Map.jpg",
-    "Images/Chapter 5 - The Town of Vallaki/Fiona Wachter and Majesto.jpg",
-    "Images/Chapter 5 - The Town of Vallaki/Heinrik.png",
-    "Images/Chapter 5 - The Town of Vallaki/Luvash and Arrigal.jpg",
     "Images/DM",
     "DM Stuff",
     "Archive/Stat Blocks",
