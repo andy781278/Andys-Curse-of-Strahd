@@ -381,8 +381,7 @@ This room once served as a bedchamber for Sir Vladimir Horngaard and Sir Godfrey
 
 Strahd's soldiers forced open the iron door that once sealed Argynvost's vault (area [[#Q41. DRAGON'S VAULT]]). They also took every book in this study but one. (Many of the books taken from here can be found in Strahd's study in Castle Ravenloft.)
 
-The sole remaining volume lies on the floor behind the overturned chair. Titled *The Oath Celestial*, the book has been partially burned, and its cover was slashed by a sword. Leafing through the crumbling book reveals that it is a devotional text for knights from a place called the Holy Empire of Valentia. Most of the knights who joined Argynvost against Strahd came from that empire-
-now lost beyond the mists.
+The sole remaining volume lies on the floor behind the overturned chair. Titled *The Oath Celestial*, the book has been partially burned, and its cover was slashed by a sword. Leafing through the crumbling book reveals that it is a devotional text for knights from a place called the Holy Empire of Valentia. Most of the knights who joined Argynvost against Strahd came from that empire-now lost beyond the mists. Spring and Vasily came form the Holy Empire of Valentia
 
 JOURNAL PAGE
 As the characters cross the room, read:
@@ -507,6 +506,8 @@ A cart pulled by a **draft horse** and driven by a mad Vistana named Kolya (CN m
 
 The coffin was made in Vallaki by the local coffin maker, Henrik van der Voort (see [[Chapter 5 - The Town of Vallaki#N6. COFFIN MAKER'S SHOP]]). It has the name of one of the characters (determined randomly) neatly chiseled into its lid. Opening the coffin releases a **swarm of bats** from within. The swarm attacks the character whose name is engraved on the coffin. If that character isn't in sight, the swarm flies away.
 
+The coffin was made by Strahd as a troll, Strahd convinced Henrik to make the coffin, then asked Kolya to deliver it. Strahd has never spoken to Kolya before this demand, Kolya is generally loyal to Strahd but still values his life more than Strahd. If he is going to die, he instead lies for his survival, saying he can get them a meeting with Strahd, even though Strahd would happily oblige with a meeting anyways. He then takes them back to Vistani camp outside Vallaki then calls everyone out to murder the gang.
+
 ## ARRIGAL'S HUNT
 [[Ezmerelda d'Avenir]] arrives at Argynvostholt on the back of a riding horse stolen from the Vistani camp outside Vallaki ([[Chapter 5 - The Town of Vallaki#N9. VISTANI CAMP]]). She has heard that the  reportedly haunted mansion might harbor enemies of Strahd and contain secrets to the vampire's destruction.
 
@@ -515,3 +516,5 @@ Once she arrives, Ezmerelda releases the horse (which flees back to its camp) an
 Hot on Ezmerelda's trail are the Vistani leader Arrigal (NE male human **assassin**) and two Vistani bodyguards (CE female **bandits**). Arrigal rides a black **riding horse**, while the bandits ride two **dire wolves**. These dire wolves are servants of Strahd and can't be charmed or frightened.
 
 Arrigal is determined to capture Ezmerelda and haul her back to the Vistani camp to face punishment for horse theft. He does nothing to antagonize the characters, however, and returns to the Vistani camp if he can't convince them to give up Ezmerelda. For more information on Arrigal, see [[Chapter 5 - The Town of Vallaki#N9C. VISTANI TENT]].
+
+Ezmerelda meets the gang, exchanges information, says she'll be at the tower, and does not accompany the characters.

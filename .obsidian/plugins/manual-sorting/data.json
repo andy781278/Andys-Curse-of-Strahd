@@ -2,7 +2,6 @@
   "customOrder": {
     "/": {
       "children": [
-        "![[Argynvostholt Lower Floors Map.jpg.md",
         "Book",
         "DM Stuff",
         "Images"
@@ -70,6 +69,7 @@
         "DM Stuff/Custom Worldbuilding",
         "DM Stuff/Custom Mechanics",
         "DM Stuff/Notes.md",
+        "DM Stuff/Folklore.md",
         "DM Stuff/Party Configuration.md",
         "DM Stuff/Tarot Card Readings.md"
       ],
