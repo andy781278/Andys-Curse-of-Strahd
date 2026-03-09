@@ -1,4 +1,4 @@
-![[CR20 Strahd.png]]
+![[CR24 Strahd.png]]
 With his mind sharp and his heart dark, Strahd von Zarovich is a formidable foe. Courage and lives beyond measure have been lost to him. Reread [[Chapter 1 - Into the Mists]] to understand his personality and goals.
 
 Although Strahd can be encountered almost anywhere in his domain, the vampire is always encountered in the place indicated by the card reading in chapter 1, unless he has been forced into his tomb in the catacombs of Castle Ravenloft.
@@ -26,13 +26,5 @@ The effect of the protection afforded by the Heart of Sorrow can be chilling to 
 
 The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an *antimagic field*.
 
-### LAIR ACTIONS
-While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated.
-
-On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:
-- Until initiative count 20 of the next round, Strahd can pass through solid walls, doors, ceilings, and floors as if they weren't there.
-- Strahd targets any number of doors and windows that he can see, causing each one to either open or close as he wishes. Closed doors can be magically locked (needing a successful DC 20 Strength check to force open) until Strahd chooses to end the effect, or until Strahd uses this lair action again.
-- Strahd summons the angry spirit of one who has died in the castle. The apparition appears next to a hostile creature that Strahd can see, makes an attack against that creature, and then disappears. The apparition has the statistics of a **specter**.
-- Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma saving throw, its shadow detaches from it and becomes a **shadow** that obeys Strahd's commands, acting on initiative count 20. A *greater restoration* spell or a *remove curse* spell cast on the target  restores its natural shadow, but only if its undead shadow has been destroyed.
 
 ![[Strahd's Crest.png]]

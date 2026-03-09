@@ -514,7 +514,7 @@ Victor has tested his circle on two reluctant servants (compelled by his *sugges
 
 Treasure. Victor's spellbook contains all the spells Victor has prepared (see the **mage** stat block in the *Monster Manual*) as well as the following spells: *acid splash*, *animate dead*, *blight*, *cloudkill*, *darkvision*, *glyph of warding*, *levitate*, *mending*, *remove curse*, and *thunderwave*.
 
-### N4. WACHTERHAUS
+## N4. WACHTERHAUS
 ![[Wachterhaus.jpg]]
 
 ==This house seems disgusted with itself. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. As you study the house's  sullen countenance, you hear the edifice actually groan. Only then do you realize the extent to which the house hates what it has become.==

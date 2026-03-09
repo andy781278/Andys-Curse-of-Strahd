@@ -1,48 +1,35 @@
-![[Barovia Map.jpg]]
-make the map bigger, 1 hex = 4 miles
-
-![[Player Barovia Map.png]]
-https://www.reddit.com/r/CurseofStrahd/comments/1ioh7x1/barovia_in_the_year_374/#lightbox
-map to show to the players
-
-link to extended mod:
-https://www.reddit.com/r/CurseofStrahd/comments/9pbka6/fleshing_out_curse_of_strahd_master_table_of/
-
-link to player doc
-https://docs.google.com/document/d/1IbTfYh_JFRB7c3g00gFibamS7SzeoOdC0sxLWzSWiJQ/edit?tab=t.0
-
-audio:
-https://tabletopaudio.com/
-
-https://www.youtube.com/watch?v=y8mXIudRlsk&list=PLcnvkahJI9vmLV8MF5mb4_WPp_bz3ZZaE
-
-
-Art for all places - https://jamesrpgart.com/scenes/curse-of-strahd
-
-
 ### Current Objectives
 - Finish reading Castle Ravenloft
-- Finish rereading Vallaki
-- Come up with a timeline for Strahd's events
+- ~~Finish rereading Vallaki~~
+- Come up with a timeline for Strahd's events/goals
 - Come up with a reason and link to go to every place
 
 ### Future Objectives
 - Come up with a way to interwoven the fanes
 
-### Session 2
+### Ongoing Events
 - Finish Argynvostholt
 	- Revvy is Godfrey, but he does not remember until he sees Vladimir, his lover
 	- He does not gain spellcasting until his memories are returned
 	- He urges the players to go to the Castle Ravenloft, take the skull of Argynvost, return it to this place, and lay these souls to rest, then he will join the team in the fight against Strahd.
-	- do the special events
-- ~~Night 1 - Strahd's spy sneakily sneaks up on the gang while they're in rest, then tries to take an item from them.~~
-	- Successfully took Spring's cross without anyone noticing
+	- **If the players were to go to Castle Ravenloft before coming back to Argynvostholt, Revvy will write a letter to the party, using a raven to deliver it, saying that if they were to go the castle, to help find and retrieve the skull of Argynvost**
 
-### Session 3
-- Strahd wants Ireena, and seeing as she's with the gang, who also intrigues him, he pays a visit to the gang at long rest. He also wants to invite them over for dinner.
-	- Strahd says hi, but kind of going through the motions, he points out the adventurer's traits, albeit in a condescending way.
-	- "Hello. You all know who I am. No need for introductions."
-	- "I'm here to say hi, and, welcome to my eternal kingdom, and your eternal rest."
+
+### Planned Events
+- Next Long Rest - Strahd meeting
+	- Strahd wants Ireena, and seeing as she's with the gang, who also intrigues him, he pays a visit to the gang at long rest. He also wants to invite them over for dinner.
+	- The players will hear bats in the swarms of thousands, all of them start hitting the door/window until the entire room is engulfed in darkness, and the only thing the players see is the sometimes flickering moonlight from the thousands of countless bats swarming the building, slamming against it. The sound is deafening, full of screeching and thumping. The ground shakes slightly.
+	- Then, its gone. All gone. And the night grows quiet, until a subtle knock on the door.
+	- No Open Door: You see the doorknob gets yanked out with little resistance, then the door slowly creaks open, revealing him.
+	- You see a middle aged long haired man with cape and a dark prestigious outfit. 
+	- "Hello. May I come in?"
+	- Who are you : "You know who I am. You all know who I am."
+		- "What is my name?"
+		- Insult : charms a character and forces them to say "you are Strahd Von Zarovich, eternal king of Barovia"
+	- You may not come in / slams door : breaks open the door, and steps inside
+		- how can you enter without premission : "Oh that old tale? Listen dear, I'm not like your ordinary vampires. Rules don't apply to me. I'm beyond rules."
+	- He comes in, always moves via transforming into a gas, move, then reform, he never walks.
+	- "I just want to say, welcome, to my eternal kingdom, and your eternal home."
 	- "So let's see, what have we got this time..."
 	- He eyes you all up and down, one by one, and points to you, starting from Hunter.
 		- Hunter - a short feral monkey
@@ -53,5 +40,22 @@ Art for all places - https://jamesrpgart.com/scenes/curse-of-strahd
 	- "Seems like nothing out of the ordinary, pity."
 	- "Or maybe I'm wrong, maybe one of you can change my mind."
 	- "I'm in the lookout for a successor, you see. One of you, one out of all of you adventurers that ever come through here, one of you will replace me. But whether or not you are good enough, are up to my judgement. If I deem you worthy, well, we'll cross that bridge when we get there."
-	- "But for now, we have heaps of time, lucky for all of you, we have an eternity to spend together, so why don't you come down to my castle, be my guest? And bring my dear Ireena along with you, why not, she's destined to be mine anyways, you'll just be doing me a favor of getting her to me a little faster"
-	- "Well, It's been nice, I'll see you at the castle, I hope, tootles!"
+	- "But for now, we have heaps of time, lucky for all of you, we have an eternity to spend together, so why don't you come down to my castle, have dinner with me, be my guest?"
+	- "And as for my dear Ireena, I shall be taking her now, you see, she's destined to be mine, she has the soul of my past lover, she just doesn't know it yet."
+		- Ismark will then get angry and antagonize Strahd, who then immediately cuts off his head with a wave of his hand.
+		- Ireena cries out in anguish, she collapses, Strahd lifts up her face and wipes her tears, leaving a slight cut, "Oh my poor girl, don't you see, he was not strong enough to protect you. You will never have to worry about that again."
+		- Strahd charms Ireena, who instantly calms down, "Yes, you're right, he was weak...Thank you..."
+	- If any players want to engage in combat with him, he'll happily oblige, saying "You wanna play? Sure, I'll play."
+		- He ridicules the players, showing off all sorts of tricks, kills one of the players, leaves the rest on 1 hp just to show dominance, and leaves, saying everyone's still invited, if they still wanted to go, "this was fun."
+	- Strahd takes Ireena by hand, then walks out of the house
+	- "I'll be waiting."
+	- And with that they are enshrouded in darkness and flies to Castle Ravenloft with a speed of 120 ft per round
+		- Esmeralda is enraged, and chases him without hesitation, cursing, and won't stop and wait for the players
+		- try your best to make the players lose her
+		- maybe give them some of Esmeralda's items that she left behind in a hurry
+		- We won't see her again until maybe in Castle Ravenloft or in Van Richten's  Tower
+
+- Go to Van Richton's Tower with Esmeralda
+- Ireena and Ismark stay?
+
+- Esmeralda gives another tarot card reading, this time giving the players the directions to restore the three fanes
