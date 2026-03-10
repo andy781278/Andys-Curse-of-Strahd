@@ -1,0 +1,3 @@
+
+- _Long_ before Strahd's reign and any official settlement, the valley was once home to a collection of nomadic, druidic tribes. These folk lived entirely off the land and were completely unsettled. They are, in fact, the ancient ancestors of the druids and barbarians found in the book.
+- In addition, there were also groups of forest folk (druids) that lived in the wilds and didn't settle. The settled people and the forest folk have had a famously tumultuous relationship over the centuries, with periods of hate and periods of peace scattered across history.

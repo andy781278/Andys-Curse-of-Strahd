@@ -21,3 +21,6 @@ https://tabletopaudio.com/
 
 Art for all places
 https://jamesrpgart.com/scenes/curse-of-strahd
+
+Handouts in plaintext
+https://5e.tools/adventure.html#cos,23

@@ -90,12 +90,12 @@ When home, KiriI Stoyanovich sleeps here in wolf form.
 
 Behind the ghastly curtain of stitched flesh is a 10-foot-high, 10-foot-wide tunnel with rough-hewn stairs leading up, interspersed with landings. The tunnel ends at a secret door, beyond which lies area [[#Z8. RING OF STONE]]. The secret door is easy to spot from inside the tunnel (no ability check required).
 
-## Z7. SHRINE OF MOTHER NIGHT
+## Z7. SHRINE OF Huntress of the Mountain Fane
 ==Rough-hewn stairs lead down to a torchlit cave and a bizarre sight: wide-eyed children stand behind wooden bars and stare at you in terrified silence. The cave holds six wooden cages, their lids held shut with heavy rocks. Two of the cages are empty, and each of the others holds a pair of frightened children.==
 
 ==A crude wooden statue stands between the cages. It bears the rough likeness of a wolf-headed woman draped in garlands of vines and night flowers. Piled around the statue's base is an incredible amount of treasure. A woman in shredded clothes kneels before the statue. Behind the statue, two maggot-ridden corpses hang from iron shackles bolted to the wall.==
 
-The ceiling here is 20 feet high. The statue is a crude depiction of Mother Night. Kneeling before it is a **werewolf** in human form named Zuleika Toranescu, who is the wife of Emil (see [[Chapter 4 - Castle Ravenloft#K75A. PRISONER]]). Believing her mate to be dead by Strahd's hand, she prays to Mother Night for guidance, hoping that the goddess might hold enough sway over Strahd to persuade him to free her beloved.
+The ceiling here is 20 feet high. The statue is a crude depiction of Huntress of the Mountain Fane. Kneeling before it is a **werewolf** in human form named Zuleika Toranescu, who is the wife of Emil (see [[Chapter 4 - Castle Ravenloft#K75A. PRISONER]]). Believing her mate to be dead by Strahd's hand, she prays to the Huntress for guidance, hoping that the goddess might hold enough sway over Strahd to persuade him to free her beloved.
 
 ![[Zuleika Toranescu.png]]
 

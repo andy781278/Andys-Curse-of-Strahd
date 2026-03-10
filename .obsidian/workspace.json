@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a32a92086e7b8d7c",
+        "id": "20c1a94183975066",
         "type": "tabs",
         "children": [
           {
-            "id": "53629760abf21f00",
+            "id": "09e924b39f4a263b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 11 - Van Richten's Tower.md",
+                "file": "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 11 - Van Richten's Tower"
-            }
-          },
-          {
-            "id": "c2b5626305c96ddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Stuff/Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
-          {
-            "id": "4df9645a1a607627",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/Appendix D - Monsters and NPCs/Ezmerelda d'Avenir.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ezmerelda d'Avenir"
+              "title": "The Fanes of Barovia"
             }
           }
         ]
@@ -115,7 +87,7 @@
       {
         "id": "db5570bc8608711a",
         "type": "tabs",
-        "dimension": 53.55769230769231,
+        "dimension": 64.51923076923077,
         "children": [
           {
             "id": "f1be62bcdf1fbb59",
@@ -171,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Chapter 11 - Van Richten's Tower.md",
+                "file": "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 11 - Van Richten's Tower"
+              "title": "Outline of The Fanes of Barovia"
             }
           },
           {
@@ -236,7 +208,7 @@
       {
         "id": "a6a8de0d91a61341",
         "type": "tabs",
-        "dimension": 46.44230769230769,
+        "dimension": 35.48076923076923,
         "children": [
           {
             "id": "46d7ab96047d3e3a",
@@ -262,7 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,44 +251,44 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "53629760abf21f00",
+  "active": "09e924b39f4a263b",
   "lastOpenFiles": [
-    "DM Stuff/Notes.md",
-    "Book/Chapter 11 - Van Richten's Tower.md",
-    "Book/Appendix D - Monsters and NPCs/Ezmerelda d'Avenir.md",
-    "Book/Chapter 15 - Werewolf Den.md",
-    "Images/Chapter 15 - Werewolf Den/Werewold Den Map.jpg",
-    "Images/Chapter 15 - Werewolf Den/Zuleika Toranescu.png",
-    "Images/Chapter 15 - Werewolf Den/Kiril Stoyanovich.jpg",
+    "DM Stuff/Custom Worldbuilding/Lamordia.md",
+    "Book/Chapter 13 - The Amber Temple.md",
     "Book/Chapter 12 - The Wizard of Wines.md",
-    "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
-    "DM Stuff/Custom Worldbuilding/Vampyr.md",
-    "Images/Chapter 5 - The Town of Vallaki/Blue Water Inn Map.jpg",
-    "Images/DM/CR24 Strahd.png",
-    "Images/DM/CR20 Strahd.png",
-    "DM Stuff/Custom Worldbuilding/Tenebrous.md",
-    "Images/DM/Pasted image 20260223021534.png",
-    "Images/Appendix D - Monsters and NPCs/Strahd Stat Block.png",
-    "Images/Appendix D - Monsters and NPCs/Rictavio Stat Block.png",
-    "Images/Appendix D - Monsters and NPCs/Strahd Zombie Stat Block.png",
+    "Book/Chapter 10 - The Ruins of Berez.md",
     "Book/Chapter 5 - The Town of Vallaki.md",
-    "Book/Appendix D - Monsters and NPCs/Rictavio - Rudolph van Richten.md",
-    "Book/Appendix D - Monsters and NPCs/Pidlwick II.md",
-    "DM Stuff/Folklore.md",
-    "DM Stuff/Links.md",
-    "Book/Appendix D - Monsters and NPCs/Kasimir Velikov.md",
-    "Book/Appendix D - Monsters and NPCs/Izek Strazni.md",
-    "Book/Appendix D - Monsters and NPCs.md",
-    "Book/Chapter 2 - The Lands of Barovia.md",
-    "Book/Chapter 7 - Argynvostholt.md",
-    "Book/Chapter 8 -  The Village of Krezk.md",
-    "Book/Chapter 6 - Old Bonegrinder.md",
     "Book/Chapter 4 - Castle Ravenloft.md",
-    "Book/Chapter 1 - Into the Mists.md",
-    "Book/Chapter 3 - The Village of Barovia.md",
-    "Book/Appendix D - Monsters and NPCs/Phantom Warrior.md",
-    "Book/Appendix D - Monsters and NPCs/Vladmir Horngaard.md",
-    "![[Argynvostholt Lower Floors Map.jpg.md",
+    "Book/Chapter 2 - The Lands of Barovia.md",
+    "Book/Appendix D - Monsters and NPCs/Baba Lysaga's Creeping Hut.md",
+    "Book/Appendix D - Monsters and NPCs.md",
+    "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
+    "Book/Chapter 15 - Werewolf Den.md",
+    "DM Stuff/Notes.md",
+    "DM Stuff/Links.md",
+    "DM Stuff/Custom Worldbuilding/The Forest Folk.md",
+    "DM Stuff/Custom Worldbuilding/Tenebrous.md",
+    "DM Stuff/Custom Worldbuilding/Vampyr.md",
+    "DM Stuff/Custom Worldbuilding/Demiplanes of Dread.md",
+    "DM Stuff/Custom Worldbuilding/The Dark Powers.md",
+    "DM Stuff/Tarot Card Readings.md",
+    "Book/Epilogue.md",
+    "Book/Chapter 0.5 - Introduction.md",
+    "Book/Chapter 0.0 - Foreword - Ravenloft Revisited.md",
+    "Book/Appendix F - Handouts.md",
+    "Book/Appendix E - Tarokka Deck.md",
+    "Book/Appendix C - Treasures.md",
+    "Book/Appendix B - Death House.md",
+    "Images/Chapter 12 - The Wizard of Wines/The Wizard of Wines Winery Map.jpg",
+    "Images/DM/CR24 Strahd.png",
+    "Images/DM/Pasted image 20260223021534.png",
+    "Images/DM/Berez Map Labeled.png",
+    "Images/DM/Player Barovia Map.png",
+    "Images/DM/CR20 Strahd.png",
+    "Images/DM/Lamordia Map.png",
+    "Images/Chapter 11 - Van Richten's Tower/Khazan's Door.png",
+    "Images/Chapter 11 - Van Richten's Tower/Van Richten's Tower Map.jpg",
+    "Images/Chapter 11 - Van Richten's Tower/Ezmerelda's Wagon.jpg",
     "DM Stuff/Custom Mechanics",
     "DM Stuff/Custom Worldbuilding",
     "Images/DM",
