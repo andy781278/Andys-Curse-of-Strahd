@@ -59,6 +59,7 @@ People who knows how to reinstate the fanes:
 	- Strahd
 
 ## The Heart of the Ladies
+- https://www.dndbeyond.com/magic-items/11319919-gem-of-the-fanes
 - Each lady harbors a gem that represents a fraction of their power. These gems were given as gifts to those who earned it, but the gems trade hands at lands in evil ones.
 - Each gem is a different color, but same size and shape
 - The gems can grant life to a deceased entity, no matter the size or the origin, so even like a fungus.
@@ -94,8 +95,10 @@ People who knows how to reinstate the fanes:
 	- Swamp Fane: Strahd regenerates 20 health per action, bonus action, or legendary action it takes, and this effect is not altered by radiant damage or running water.
 	- With the combined control of all three Fanes, he controls the waters, winds, and wildlife in the valley. The only of Strahd's environmental powers that does _not_ come from the Fanes is the ever overcast sky. That comes from Vampyr.
 
-## Reinstating the Ladies
-- To reconsecrate the shrines and therefore bring back the Ladies of the Wood, certain rituals will have to be performed. You have to take their gem back to their dedicated shrine, then honor the ladies by name.
+## Reconsecrate the Ladies
+- To reconsecrate the shrines and therefore bring back the Ladies of the Wood, you have to take their gem back to their dedicated shrine, then honor the ladies by name.
+- After reconsecration, the ladies wish for the gems to be used for the good and protection of the people of Barovia, but don't care about who gets it specifically.
+### Swamp Fane Reinstatement
 > [!cite] Swamp Fane Reinstatement
 > Turning Back Time
 > - You stand in the center of the stone circle, the gem in your outstretched hand. For a moment, you feel like a fool. But just as you're about to give up, to try something else, you notice a change in the light.
@@ -127,4 +130,26 @@ People who knows how to reinstate the fanes:
 > - When time finally stops again, you're surprised to see Baba Lysaga standing before you. She seems out of place in this bright, serene world of ages passed. But... she's different. She's not a memory! She sees you! Baba stalks towards (player who was originally holding the heart) and you are so taken aback that you don't react in time!
 > - Just as she's about to reach you, (player), an arm bursts through Baba's chest! It's clutching the old witch's rotten heart. You blink and find that your own hand is still outstretched, meeting the new appendage in the middle.
 > - Baba Lysaga's form melts away. Behind where she stood, holding her heart, is a young woman with yellow tinged skin, her black hair drifting about her brow as if floating underwater. Her lips stretch up to reveal a cheshire grin made up of rows of sharpened teeth. The woman brings the heart to her grinning lips... and takes a bite.
-> 
+- A little shorter and sprite-like in appearance. She has a giggly, playful air about her. The Weaver has yellow-green skin that's a bit more reminiscent of bile and her dark hair floats around her head as if perpetually underwater. Her mouth sports two rows of sharp, shark-like teeth.
+- "you did it!"
+- Players receive a boon
+	- Once per long rest, one player can invoke the Weaver, touch any object, person, or location and concentrates, they witness a vision of its most significant moment in the past. 
+
+### Mountain Fane Reinstatement
+> [!cite] Mountain Fane Reinstatement
+> The players see all the creatures/people they've ever killed, from least to most significance, players can get a short exchange with anyone of them
+> Then she shows up. Tall and chiseled with grey skin like that of a drow. Her physique is well toned, like that of an Amazonian woman and her long, white hair sits upon her shoulders like snow on the cold stone of a mountain top. She has a pair of enormous, stag antlers growing from her temples, adding significantly to her height.
+- "At ease, soldier"
+- Players receive a boon
+	- Once per long rest, one player can invoke the Huntress, concentrate on a creature, object, or location in Barovia, they get a vision of its current location, what it's doing, etc
+
+### Forest Fane Reinstatement
+> [!cite] Forest Fane Reinstatement
+> Players go blind, then they see a good future, and then a bad future, describe in detail all the good and bad things, including their dreams come true, and everyone sucking
+> A tall, angular woman with ebony skin that is almost completely black, making her look more like a moving shadow. The Seeker has white eyes, without irises or pupils, and a mane of raven feathers where her hair should be.
+> She shows up, and says that both outcomes are possible, and the choice is up to the players
+- "Congratulations"
+- Players receive a boon
+	- Once per long rest, one player can invoke the Seeker, and can explore a potential future and receive its results
+
+When the last fane is reconsecrated, they all show up to congratulate and thank the players, saying that Strahd is much weaker now without them. The fog dims a little, moonlight is brighter, and all wildlife of barovia are thankful to the players.

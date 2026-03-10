@@ -49,8 +49,7 @@
               "title": "Chapter 10 - The Ruins of Berez"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
+                "file": "DM Stuff/Progression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Fanes of Barovia"
+              "title": "Outline of Progression"
             }
           },
           {
@@ -280,10 +279,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ed0b2be1f300772e",
+  "active": "ddc65591b2489b90",
   "lastOpenFiles": [
-    "DM Stuff/Progression.md",
     "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
+    "DM Stuff/Progression.md",
     "Book/Chapter 10 - The Ruins of Berez.md",
     "Book/Chapter 8 -  The Village of Krezk.md",
     "Book/Chapter 4 - Castle Ravenloft.md",
