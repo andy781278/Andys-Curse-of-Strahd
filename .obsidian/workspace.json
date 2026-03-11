@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 10 - The Ruins of Berez.md",
+                "file": "Book/Chapter 14 - Yester Hill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 10 - The Ruins of Berez"
+              "title": "Chapter 14 - Yester Hill"
             }
           }
         ],
@@ -282,10 +282,11 @@
   },
   "active": "ed0b2be1f300772e",
   "lastOpenFiles": [
+    "Book/Chapter 14 - Yester Hill.md",
+    "Book/Chapter 10 - The Ruins of Berez.md",
+    "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
     "DM Stuff/Notes.md",
     "DM Stuff/Progression.md",
-    "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
-    "Book/Chapter 10 - The Ruins of Berez.md",
     "Book/Chapter 8 -  The Village of Krezk.md",
     "Book/Chapter 4 - Castle Ravenloft.md",
     "Book/Chapter 5 - The Town of Vallaki.md",
@@ -307,7 +308,6 @@
     "DM Stuff/Tarot Card Readings.md",
     "Book/Epilogue.md",
     "Book/Chapter 0.5 - Introduction.md",
-    "Book/Chapter 0.0 - Foreword - Ravenloft Revisited.md",
     "Images/Chapter 12 - The Wizard of Wines/The Wizard of Wines Winery Map.jpg",
     "Images/DM/CR24 Strahd.png",
     "Images/DM/Pasted image 20260223021534.png",

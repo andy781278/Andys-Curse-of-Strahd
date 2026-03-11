@@ -101,8 +101,20 @@ Players should see visions in their sleep from the ladies, one at a time, at som
 - After reconsecration, the ladies wish for the gems to be used for the good and protection of the people of Barovia, but don't care about who gets it specifically.
 ### Weaver
 
-> [!cite] Weaver Vision
-> - You stand in a dark dank swamp, r
+> [!cite] Weaver Vision (Spring)
+> - dirt, algae, and blood. All of it swirls around your muddy, clouded vision
+> - Distant screams brings along a sense of panic, something tells you you should be panicking right now, but you don't remember why
+> - Pain jolts down your body, everything hurts, you try to scream, but nothing comes out
+> - Worst of all, you don't know which way is up, you're underwater
+> - what do you do?
+> 	- (nothing) A thundering roar from somewhere distant brings a sudden push, you tumble and twist and turn until...
+> 	- (get out of the water) do a little check
+> - You burst out of the water, gasping for air, you clean your vision and orient yourself, water is everywhere. You see a village before you, entirely flooded, filled with screams and pain, water pushes villagers out of their houses, flinging them far away. Lifeless corpses float atop the waters, their backs against the sky.
+> - You see in the middle of it all, Strahd, screaming and yelling as he flings his arms back and forth, commanding the water to crush and push and destroying anything in its path. You've never seen him this angry before
+> - You are pulled back into the water, as you tumble some more, you suddenly see a young woman. 
+> - A little shorter and sprite-like in appearance. She has a giggly, playful air about her. The Weaver has yellow-green skin that's a bit more reminiscent of bile and her dark hair floats around her head as if perpetually underwater. Her mouth sports two rows of sharp, shark-like teeth.
+> - She says nothing, but with her expression, you can tell with absolute certainty that she's asking you for help.
+> - Then, everything fades.
 
 > [!cite] Weaver Reinstatement
 > Turning Back Time
@@ -141,7 +153,25 @@ Players should see visions in their sleep from the ladies, one at a time, at som
 	- Once per long rest, one player can invoke the Weaver, touch any object, person, or location and concentrates, they witness a vision of its most significant moment in the past. 
 
 ### Huntress
-> [!cite] Mountain Fane Reinstatement
+
+> [!cite] Hunteress Vision (Hunter)
+> You open your eyes, to see a gladiator ring. Wooden stakes mark out the boundaries, dirty dirt floor, and spectators shouting for violence, shouting for fight! Mist surrounds everything, you can't see beyond the stakes, you can't make out the faces of the audience.
+> in front of you, you see a woman:
+> - Tall and chiseled with grey skin like that of a drow. Her physique is well toned, like that of an Amazonian woman and her long, white hair sits upon her shoulders like snow on the cold stone of a mountain top. She has a pair of enormous, stag antlers growing from her temples, adding significantly to her height.
+> "Give them what they want!" Said the woman, readying her fists
+> 
+> (fight) you enter a bloody brawl, bare knuckles to knuckles, everything's on the table
+> (no fight) "You have no choice, you don't fight, you lose them!"
+> - You see beside you, to your right, just outside the ring, your friends, all on a noose, and an executioner with the level, about to pull
+> - To your left, your family, cornered by human soldiers with spears, crying for help, awoooooooo
+> - Again, the audience riles and screams, begging to fight, begging for violence
+> (win) You gain the upper hand, delivered an awful haymaker, and she falls to the floor
+> (lose) You are overwhelmed by her attacks, she breaks your jaw, then inverts your spine
+> You look around and see the mist fading, you see audience's faces, they were all bare-chested and tattooed warriors. You're on a hill, and to your left, you see a white fortress on a hill above a great city. The city appears quite distant, maybe a mile away. The fog obscures all detail, but you can hear what sounds like the echo of a church bell.
+> You look back and see the woman, she says, "The fight is not over"
+> And suddenly you're jolted awake, not noticing that you're in your werewolf form
+
+> [!cite] Hunter Reinstatement
 > The players see all the creatures/people they've ever killed, from least to most significance, players can get a short exchange with anyone of them
 > Then she shows up. Tall and chiseled with grey skin like that of a drow. Her physique is well toned, like that of an Amazonian woman and her long, white hair sits upon her shoulders like snow on the cold stone of a mountain top. She has a pair of enormous, stag antlers growing from her temples, adding significantly to her height.
 - "At ease, soldier"
