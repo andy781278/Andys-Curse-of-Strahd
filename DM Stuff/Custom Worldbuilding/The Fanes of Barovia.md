@@ -96,10 +96,15 @@ People who knows how to reinstate the fanes:
 	- With the combined control of all three Fanes, he controls the waters, winds, and wildlife in the valley. The only of Strahd's environmental powers that does _not_ come from the Fanes is the ever overcast sky. That comes from Vampyr.
 
 ## Reconsecrate the Ladies
+Players should see visions in their sleep from the ladies, one at a time, at some point during the early sessions. Spring shall see the Weaver, Hunter shall see the Huntress, and Soren shall see the Seeker.
 - To reconsecrate the shrines and therefore bring back the Ladies of the Wood, you have to take their gem back to their dedicated shrine, then honor the ladies by name.
 - After reconsecration, the ladies wish for the gems to be used for the good and protection of the people of Barovia, but don't care about who gets it specifically.
-### Swamp Fane Reinstatement
-> [!cite] Swamp Fane Reinstatement
+### Weaver
+
+> [!cite] Weaver Vision
+> - You stand in a dark dank swamp, r
+
+> [!cite] Weaver Reinstatement
 > Turning Back Time
 > - You stand in the center of the stone circle, the gem in your outstretched hand. For a moment, you feel like a fool. But just as you're about to give up, to try something else, you notice a change in the light.
 > - You all look up to the sky and see the distant light of the sun - obscured by layers of cloud cover - as it moves much more quickly than usual. More than that, it seems to be moving West to East. Backwards. Wrong. Suddenly it's dawn. And then it is the darkness of midnight And then it dusk and then it is yesterday.
@@ -135,7 +140,7 @@ People who knows how to reinstate the fanes:
 - Players receive a boon
 	- Once per long rest, one player can invoke the Weaver, touch any object, person, or location and concentrates, they witness a vision of its most significant moment in the past. 
 
-### Mountain Fane Reinstatement
+### Huntress
 > [!cite] Mountain Fane Reinstatement
 > The players see all the creatures/people they've ever killed, from least to most significance, players can get a short exchange with anyone of them
 > Then she shows up. Tall and chiseled with grey skin like that of a drow. Her physique is well toned, like that of an Amazonian woman and her long, white hair sits upon her shoulders like snow on the cold stone of a mountain top. She has a pair of enormous, stag antlers growing from her temples, adding significantly to her height.
@@ -143,7 +148,7 @@ People who knows how to reinstate the fanes:
 - Players receive a boon
 	- Once per long rest, one player can invoke the Huntress, concentrate on a creature, object, or location in Barovia, they get a vision of its current location, what it's doing, etc
 
-### Forest Fane Reinstatement
+### Seeker
 > [!cite] Forest Fane Reinstatement
 > Players go blind, then they see a good future, and then a bad future, describe in detail all the good and bad things, including their dreams come true, and everyone sucking
 > A tall, angular woman with ebony skin that is almost completely black, making her look more like a moving shadow. The Seeker has white eyes, without irises or pupils, and a mane of raven feathers where her hair should be.
@@ -152,4 +157,4 @@ People who knows how to reinstate the fanes:
 - Players receive a boon
 	- Once per long rest, one player can invoke the Seeker, and can explore a potential future and receive its results
 
-When the last fane is reconsecrated, they all show up to congratulate and thank the players, saying that Strahd is much weaker now without them. The fog dims a little, moonlight is brighter, and all wildlife of barovia are thankful to the players.
+When the last fane is reconsecrated, they all show up to congratulate and thank the players, saying that Strahd is much weaker now without them. The fog dims a little, moonlight is brighter, and all wildlife of Barovia are thankful to the players.

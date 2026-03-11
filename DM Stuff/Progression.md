@@ -10,12 +10,14 @@ Get the tome of strahd
 ### Symbol of Ravenkind
 Get the symbol of Ravenkind
 
-### Surviving Castle Ravenloft 1st Time
+### Castle Ravenloft 1st Time
+Surviving and leaving Castle Ravenloft after dinner party with Strahd
 
+### Amber Temple
+Finish exploring the amber temple
 
-### Finish exploring the Amber Temple
-
-
+### Argynvostholt
+Finish Argynvostholt and reinstate the skull
 
 ### Reinstating Swamp Fane
 - Kill Baba Lysaga
