@@ -171,7 +171,7 @@ Players should see visions in their sleep from the ladies, one at a time, at som
 > You look back and see the woman, she says, "The fight is not over"
 > And suddenly you're jolted awake, not noticing that you're in your werewolf form
 
-> [!cite] Hunter Reinstatement
+> [!cite] Hunter Reconsecration
 > The players see all the creatures/people they've ever killed, from least to most significance, players can get a short exchange with anyone of them
 > Then she shows up. Tall and chiseled with grey skin like that of a drow. Her physique is well toned, like that of an Amazonian woman and her long, white hair sits upon her shoulders like snow on the cold stone of a mountain top. She has a pair of enormous, stag antlers growing from her temples, adding significantly to her height.
 - "At ease, soldier"
@@ -179,7 +179,9 @@ Players should see visions in their sleep from the ladies, one at a time, at som
 	- Once per long rest, one player can invoke the Huntress, concentrate on a creature, object, or location in Barovia, they get a vision of its current location, what it's doing, etc
 
 ### Seeker
-> [!cite] Forest Fane Reinstatement
+
+
+> [!cite] Seeker Reconsecration
 > Players go blind, then they see a good future, and then a bad future, describe in detail all the good and bad things, including their dreams come true, and everyone sucking
 > A tall, angular woman with ebony skin that is almost completely black, making her look more like a moving shadow. The Seeker has white eyes, without irises or pupils, and a mane of raven feathers where her hair should be.
 > She shows up, and says that both outcomes are possible, and the choice is up to the players
