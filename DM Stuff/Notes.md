@@ -1,8 +1,5 @@
 ### Current Objectives
-- Finish reading Castle Ravenloft
-- ~~Finish rereading Vallaki~~
 - Come up with a timeline for Strahd's events/goals
-- Come up with a reason and link to go to every place
 
 ### Future Objectives
 - Come up with a way to interwoven the fanes
@@ -45,8 +42,9 @@
 		- Ismark will then get angry and antagonize Strahd, who then immediately cuts off his head with a wave of his hand.
 		- Ireena cries out in anguish, she collapses, Strahd lifts up her face and wipes her tears, leaving a slight cut, "Oh my poor girl, don't you see, he was not strong enough to protect you. You will never have to worry about that again."
 		- Strahd charms Ireena, who instantly calms down, "Yes, you're right, he was weak...Thank you..."
-	- If any players want to engage in combat with him, he'll happily oblige, saying "You wanna play? Sure, I'll play."
-		- He ridicules the players, showing off all sorts of tricks, kills one of the players, leaves the rest on 1 hp just to show dominance, and leaves, saying everyone's still invited, if they still wanted to go, "this was fun."
+		
+	- If any players want to engage in combat with him, he'll want to wait until the castle, saying "Please, hold on to your horses, we'll have plenty little game at the castle."
+		- All damage done to him is instantly healed, status affects against him don't work (legendary resistance)
 	- Strahd takes Ireena by hand, then walks out of the house
 	- "I'll be waiting."
 	- And with that they are enshrouded in darkness and flies to Castle Ravenloft with a speed of 120 ft per round
@@ -55,7 +53,42 @@
 		- maybe give them some of Esmeralda's items that she left behind in a hurry
 		- We won't see her again until maybe in Castle Ravenloft or in Van Richten's  Tower
 
-- Go to Van Richton's Tower with Esmeralda
-- Ireena and Ismark stay?
+happily oblige, saying "You wanna play? Sure, I'll play."
+
+He ridicules the players, showing off all sorts of tricks, kills one of the players, leaves the rest on 1 hp just to show dominance, and leaves, saying everyone's still invited, if they still wanted to go, "this was fun."
+
+- After this, there's no way the players don't go to Castle Ravenloft
+	- Unless they fight, in which case I suppose the fight should be at Castle Ravenloft instead, bc if they fight outside it, they would be too scared to go to the castle
+- Go to Van Richten's Tower to find Esmeralda
 
 - Esmeralda gives another tarot card reading, this time giving the players the directions to restore the three fanes
+
+##### Reason and link to go to every place
+- Castle Ravenloft
+	- Invitation by Strahd
+	- many quests point to here
+- Vallaki
+	- Kill the burgomaster
+	- Get food/lodging
+	- Fiona Wachter's Minions shadowing the gang
+- Bonegrinder
+	- A vision from the seeker to this location
+	- come to reconsecrate the seeker
+- Argynvostholt
+	- Already got it
+- Krezk
+	- Come to revive friends
+- Tsolenka
+	- To go to amber temple
+- Berez
+	- Vision from Weaver
+- Van Richten's Tower
+	- See Esmeralda
+- Wineyard
+	- Everywhere is missing wine
+- Amber Temple
+	- Some people knows this is the key to defeat strahd
+- Yester Hill
+	- Retrieve the gem stolen from Wineyard
+- Werewolf Den
+	- Vision from Huntress
