@@ -1,5 +1,9 @@
 ### Current Objectives
 - Come up with a timeline for Strahd's events/goals
+	- Get Ireena
+	- Amuse the players
+	- Stop Van Richten
+	- Retrieve the Tome of Strahd
 
 ### Future Objectives
 - Come up with a way to interwoven the fanes
@@ -47,18 +51,16 @@
 		- All damage done to him is instantly healed, status affects against him don't work (legendary resistance)
 	- Strahd takes Ireena by hand, then walks out of the house
 	- "I'll be waiting."
-	- And with that they are enshrouded in darkness and flies to Castle Ravenloft with a speed of 120 ft per round
-		- Esmeralda is enraged, and chases him without hesitation, cursing, and won't stop and wait for the players
-		- try your best to make the players lose her
+	- And with that the bats return, fills everyone's vision, blocks out the sky, they are enshrouded in darkness as Strahd transforms and flies to Castle Ravenloft, hidden amongst the other bats.
+		- SKILL CHALLENGE: The party then fights a substantial amount of bats, need 3 success to not get completely engulfed and bitten to death. Each failure deals 2d4 piercing damage to all allies
+			- The party is blind and can't see by any means as everything is physically blocked by flying bats
+		- Esmeralda is enraged, and chases him without hesitation, cursing, and won't stop and wait for the players, she is engulfed by the bats
+		- When the bats leave, she is gone (went to Castle Ravenloft)
+			- She won't be at the tower yet if the players go there to see if she's there, if the player waits at the tower for 3 days, she'll return
 		- maybe give them some of Esmeralda's items that she left behind in a hurry
-		- We won't see her again until maybe in Castle Ravenloft or in Van Richten's  Tower
+	- At the castle, during the dinner, he can fight the players, "You wanna play? Sure, I'll play." He ridicules the players, showing off all sorts of tricks, kills one of the players, leaves the rest on 1 hp just to show dominance, and leaves
 
-happily oblige, saying "You wanna play? Sure, I'll play."
 
-He ridicules the players, showing off all sorts of tricks, kills one of the players, leaves the rest on 1 hp just to show dominance, and leaves, saying everyone's still invited, if they still wanted to go, "this was fun."
-
-- After this, there's no way the players don't go to Castle Ravenloft
-	- Unless they fight, in which case I suppose the fight should be at Castle Ravenloft instead, bc if they fight outside it, they would be too scared to go to the castle
 - Go to Van Richten's Tower to find Esmeralda
 
 - Esmeralda gives another tarot card reading, this time giving the players the directions to restore the three fanes
