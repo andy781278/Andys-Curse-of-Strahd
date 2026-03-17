@@ -6,7 +6,7 @@
 	- Retrieve the Tome of Strahd
 
 ### Future Objectives
-- Come up with a way to interwoven the fanes
+- 
 
 ### Ongoing Events
 - Finish Argynvostholt
@@ -60,10 +60,12 @@
 		- maybe give them some of Esmeralda's items that she left behind in a hurry
 	- At the castle, during the dinner, he can fight the players, "You wanna play? Sure, I'll play." He ridicules the players, showing off all sorts of tricks, kills one of the players, leaves the rest on 1 hp just to show dominance, and leaves
 
-
 - Go to Van Richten's Tower to find Esmeralda
 
-- Esmeralda gives another tarot card reading, this time giving the players the directions to restore the three fanes
+- Esmeralda gives another tarot card reading, this time giving the players the directions to the three gems. She does not know what these mean, she merely did it because she has some trippy psychic predicting powers, and it might be useful to the team. Words come to her when she does these readings, and she does not know why. Some trippy Vistani BS.
+	- The past - **The Weaver** — _"A rotting hut in the swamp, and inside it, a heart that was never hers to keep."_
+	- the present - **The Huntress** — _"A giant with a red heart that isn't his, rooted to a hill that weeps lightning."_
+	- the future - **The Seer** — _"A shadow with one blue eye, walking stone corridors, unhurried."_
 
 ##### Reason and link to go to every place
 - Castle Ravenloft
