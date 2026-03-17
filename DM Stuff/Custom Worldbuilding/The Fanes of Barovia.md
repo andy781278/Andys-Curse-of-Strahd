@@ -180,6 +180,8 @@ Players should see visions in their sleep from the ladies, one at a time, at som
 
 ### Seeker
 
+> [!cite] Seeker Vision (Soren)
+> Contents
 
 > [!cite] Seeker Reconsecration
 > Players go blind, then they see a good future, and then a bad future, describe in detail all the good and bad things, including their dreams come true, and everyone sucking
