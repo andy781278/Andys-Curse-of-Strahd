@@ -257,16 +257,40 @@ The staircase leads down to area [[#K61. ELEVATOR TRAP]] and up to area [[#K30. 
 ## K10. DINING HALL
 The first time the characters enter this room, read:
 
-==Three enormous crystal chandeliers brilliantly illuminate this magnificent chamber. Pillars of stone stand against dull white marble walls, supporting the ceiling. In the center of the room, a long, heavy table is covered with a fine white satin cloth. The table is laden with many delectable foods: roasted beast basted in a savory sauce, roots and herbs of every taste, and sweet fruits and vegetables. Places are set for each of you with fine, delicate china and silver. At each place is a crystal goblet filled with an amber liquid with a delicate, tantalizing fragrance.==
+==Three enormous crystal chandeliers overhangs, illuminating brilliantly. Pillars of stone stand against white marble walls. In the center, a long long table is covered with white cloth. tons of delicious foods: roasted meat covered in sauce, roots and herbs of every taste, and sweet fruits and vegetables. Exactly enough seats for all of you, each with a drink. Ismark sits down at one of the chairs, eating some meat, looking very pleased and content. When he notice the party he waves and smiles, saying "you all made it! I'm so glad!" He's under the impression that Strahd is his good friend, so he'll take care of him and Ireena, and he supports Strahd taking her in, because he trusts Strahd, and believes this is the best for Ireena. He believes things will be smooth riding from here, and he'll stay at the castle until charm runs out.==
 
-==At the center of the far west wall, between floor-to-ceiling mirrors, stands a massive organ. Its pipes blare out a thunderous melody that speaks in its tone of greatness and despair. Seated at the organ, facing away from you, a single caped figure pounds the keys in raptured ecstasy. The figure suddenly stops, and as a deep silence falls over the dining hall, it slowly turns toward you.==
+==At the far end wall, floor-to-ceiling mirrors, and a massive organ. It's playing majestically. Seated, facing away from you at the organ, a caped figure pounds the keys in raptured ecstasy. The figure suddenly stops, and as a deep silence falls over the dining hall, it slowly turns toward you.==
 
-The figure is an illusion of Strahd. It welcomes the characters and invites them to dine. The illusion acts like Strahd and plays the part of the gracious host, speaking kindly and telling the characters that they're free to explore the castle. "Strahd" might talk about his family or shed light on the castle's history, but the illusion provides no useful information about the castle's inhabitants, treasures, or dangers other than to say that the castle doesn't receive many guests. The illusory
-vampire converses with the characters for no more than 3 rounds, never moving from the organ bench. When the time is up, or if the illusion is attacked, it simply disappears with a mocking laugh.
+"Welcome, everyone! I've been waiting for you all."
+"I so rarely have company that isn't already dead. You'll have to forgive me if I've forgotten how to be a proper host. I'll do my best."
+"Eat. Drink. I have both in abundance and I have an eternity to share."
 
-The moment the figure disappears, a fierce, bone-chilling wind rises up and roars through the hall,
-putting out all open flames. The characters hear the screech of ancient hinges and the solid thud of many heavy doors slamming shut, one after another, into the distance. They also hear the portcullis clang shut and the tired groan of the aged drawbridge pulling up. Finally, unless the doors to this room are being held open, they slam shut (but do not lock). If the characters open
-the doors, they see that all the torches in areas [[#K7. ENTRY]], [[#K8. GREAT ENTRY]], and [[#K9. GUESTS' HALL]] have gone out.
+"Please, explore freely. every hall, every tower, every dark corner you're brave enough to wander into. I insist. The castle keeps no secrets from welcomed guests."
+
+"My family built these walls before your grandparents' grandparents drew their first breath. I'd love to tell you about them. They were remarkable people. Most of them."
+
+"My father built these walls. Proud man. Conqueror. He wanted a fortress that would outlast empires — and here we are, empires gone, walls standing."
+
+"I had a younger brother, Sergei. He was my parents' favorite — younger, kinder, holier. Everyone loved Sergei."
+_He smiles into his wine glass._
+"I loved him too."
+
+"When I claimed this land it was nothing. Mud and forest and frightened villages. I gave it order. Roads. Law. A name."
+
+"Four hundred years I have watched this land. Watched families rise, collapse, rise again. The same names, the same faces, the same mistakes. Barovia is a patient teacher. None of 
+her students ever graduate."
+
+Strahd wants the players to tell a story: "But what about you all, you're adventurers! You've all came all this way to kill me, you must have some good stories, I would like to hear some!"
+
+Strahd can fight the players, "You wanna play? Sure, I'll play." He ridicules the players, showing off all sorts of tricks, using the heart to regenerate all damage instantly, trying to show he's a god of this land.
+
+Ireena just wants to get her brother and get out, but it seems like Ismark does not want to leave. Strahd notices: "Oh, this poor boy? He is without a soul. I took it, and put it somewhere in this castle. If you want to look for him, I won't stop you."
+
+Strahd: "This has been fun, but I shall take my leave now. Do try not to die before we get to know each other better. That would be such a waste."
+
+Then he turns into a fart cloud and quickly flies away.
+
+The moment the Strahd leaves, a fierce, bone-chilling wind rises up and roars through the hall, putting out all open flames. The characters hear the screech of ancient hinges and the solid thud of many heavy doors slamming shut, one after another, into the distance. They also hear the portcullis clang shut and the tired groan of the aged drawbridge pulling up. Finally, unless the doors to this room are being held open, they slam shut (but do not lock). If the characters open the doors, they see that all the torches in areas [[#K7. ENTRY]], [[#K8. GREAT ENTRY]], and [[#K9. GUESTS' HALL]] have gone out.
 
 The organ appears locked in place and immovable, but a character who makes a successful DC 20 Wisdom (Perception) check notices scratch marks on the floor that suggest that the organ can be slid outward. A character who tries pushing various keys and pedals discovers that one of the pedals, when depressed, causes the organ to slide outward about 2 feet, allowing access to a secret door in the back wall that swings open into area [[#K11. SOUTH ARCHERS' POST]]. Because this secret door is hidden behind the organ, it can't be found and opened until the organ is moved out of the way.
 

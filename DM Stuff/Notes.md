@@ -17,8 +17,12 @@
 
 
 ### Planned Events
+- Ismark disappears
+	- Before the long rest, unless the players explicitly ask for Ismark, he disappears
+	- At the long rest, Ireena notices and asks everyone if they've seen him, no one's seen him
+	
 - Next Long Rest - Strahd meeting
-	- Strahd wants Ireena, and seeing as she's with the gang, who also intrigues him, he pays a visit to the gang at long rest. He also wants to invite them over for dinner.
+	- Strahd wants Ireena, and he has captured Ismark and plans to use him to lure the players to his castle. He pays a visit to the gang at long rest, inviting them over for dinner.
 	- The players will hear bats in the swarms of thousands, all of them start hitting the door/window until the entire room is engulfed in darkness, and the only thing the players see is the sometimes flickering moonlight from the thousands of countless bats swarming the building, slamming against it. The sound is deafening, full of screeching and thumping. The ground shakes slightly.
 	- Then, its gone. All gone. And the night grows quiet, until a subtle knock on the door.
 	- No Open Door: You see the doorknob gets yanked out with little resistance, then the door slowly creaks open, revealing him.
@@ -33,32 +37,31 @@
 	- "I just want to say, welcome, to my eternal kingdom, and your eternal home."
 	- "So let's see, what have we got this time..."
 	- He eyes you all up and down, one by one, and points to you, starting from Hunter.
-		- Hunter - a short feral monkey
-		- Spring - a pitiful devil praying to repent for her existence
-		- Soren - A little lizard playing magic tricks with his mommy's powers
-		- Vasily - A man who can't decide if he wanted to be a fighter, or a paladin
+		- Hunter - a short feral savage
+		- Spring - a sacrilegious devil
+		- Soren - a little nepo baby lizard
+		- Vasily - a half-baked man
 		- Adelaide - and you, I just don't like you, you look like a nerd. I hate nerds.
 	- "Seems like nothing out of the ordinary, pity."
 	- "Or maybe I'm wrong, maybe one of you can change my mind."
 	- "I'm in the lookout for a successor, you see. One of you, one out of all of you adventurers that ever come through here, one of you will replace me. But whether or not you are good enough, are up to my judgement. If I deem you worthy, well, we'll cross that bridge when we get there."
 	- "But for now, we have heaps of time, lucky for all of you, we have an eternity to spend together, so why don't you come down to my castle, have dinner with me, be my guest?"
-	- "And as for my dear Ireena, I shall be taking her now, you see, she's destined to be mine, she has the soul of my past lover, she just doesn't know it yet."
-		- Ismark will then get angry and antagonize Strahd, who then immediately cuts off his head with a wave of his hand.
-		- Ireena cries out in anguish, she collapses, Strahd lifts up her face and wipes her tears, leaving a slight cut, "Oh my poor girl, don't you see, he was not strong enough to protect you. You will never have to worry about that again."
-		- Strahd charms Ireena, who instantly calms down, "Yes, you're right, he was weak...Thank you..."
-		
-	- If any players want to engage in combat with him, he'll want to wait until the castle, saying "Please, hold on to your horses, we'll have plenty little game at the castle."
-		- All damage done to him is instantly healed, status affects against him don't work (legendary resistance)
-	- Strahd takes Ireena by hand, then walks out of the house
+	- "Oh, and your friend — Ismark, was it? He's already made himself at home in my castle. Do come collect him."
+		- Ireena panics, "What did you do with him! You monster!"
+		- Strahd: "Don't worry, my sweet Ireena, I've done nothing to him, not yet. And I promise to do nothing, so long as you all attend my dinner."
+	- Strahd teleports just outside the house
 	- "I'll be waiting."
 	- And with that the bats return, fills everyone's vision, blocks out the sky, they are enshrouded in darkness as Strahd transforms and flies to Castle Ravenloft, hidden amongst the other bats.
-		- SKILL CHALLENGE: The party then fights a substantial amount of bats, need 3 success to not get completely engulfed and bitten to death. Each failure deals 2d4 piercing damage to all allies
-			- The party is blind and can't see by any means as everything is physically blocked by flying bats
+		- ~~SKILL CHALLENGE: The party then fights a substantial amount of bats, need 3 success to not get completely engulfed and bitten to death. Each failure deals 2d4 piercing damage to all allies~~
+		- The party is blind and can't see by any means until the bats leave
 		- Esmeralda is enraged, and chases him without hesitation, cursing, and won't stop and wait for the players, she is engulfed by the bats
 		- When the bats leave, she is gone (went to Castle Ravenloft)
 			- She won't be at the tower yet if the players go there to see if she's there, if the player waits at the tower for 3 days, she'll return
 		- maybe give them some of Esmeralda's items that she left behind in a hurry
-	- At the castle, during the dinner, he can fight the players, "You wanna play? Sure, I'll play." He ridicules the players, showing off all sorts of tricks, kills one of the players, leaves the rest on 1 hp just to show dominance, and leaves
+	- Ireena cries and weeps, and wants to go to the castle to get back her brother, she will not be convinced.
+	
+	- If any players want to engage in combat with him, he'll want to wait until the castle, saying "Please, if you want to play, we'll have plenty of fun in my castle."
+		- All damage done to him is instantly healed, status affects against him don't work (legendary resistance)
 
 - Go to Van Richten's Tower to find Esmeralda
 
@@ -66,6 +69,12 @@
 	- The past - **The Weaver** — _"A rotting hut in the swamp, and inside it, a heart that was never hers to keep."_
 	- the present - **The Huntress** — _"A giant with a red heart that isn't his, rooted to a hill that weeps lightning."_
 	- the future - **The Seer** — _"A shadow with one blue eye, walking stone corridors, unhurried."_
+
+##### Abandoned Plotline
+- And as for my dear Ireena, I shall be taking her now, you see, she's destined to be mine, she has the soul of my past lover, she just doesn't know it yet."
+	- Ismark will then get angry and antagonize Strahd, who then immediately cuts off his head with a wave of his hand.
+	- Ireena cries out in anguish, she collapses, Strahd lifts up her face and wipes her tears, leaving a slight cut, "Oh my poor girl, don't you see, he was not strong enough to protect you. You will never have to worry about that again."
+	- Strahd charms Ireena, who instantly calms down, "Yes, you're right, he was weak...Thank you..."
 
 ##### Reason and link to go to every place
 - Castle Ravenloft
