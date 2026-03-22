@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Notes.md",
+                "file": "DM Stuff/Progression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Progression"
             }
           },
           {
-            "id": "b6abf7103957c00c",
+            "id": "32ec1eb827fee107",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +34,22 @@
               "icon": "lucide-file",
               "title": "Chapter 4 - Castle Ravenloft"
             }
+          },
+          {
+            "id": "92267396b751df0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strahd von Zarovich"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
       {
         "id": "db5570bc8608711a",
         "type": "tabs",
-        "dimension": 64.51923076923077,
+        "dimension": 49.71153846153846,
         "children": [
           {
             "id": "f1be62bcdf1fbb59",
@@ -158,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Chapter 4 - Castle Ravenloft.md",
+                "file": "DM Stuff/Progression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 4 - Castle Ravenloft"
+              "title": "Outline of Progression"
             }
           },
           {
@@ -218,12 +231,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "a6a8de0d91a61341",
         "type": "tabs",
-        "dimension": 35.48076923076923,
+        "dimension": 50.28846153846154,
         "children": [
           {
             "id": "46d7ab96047d3e3a",
@@ -249,7 +262,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,44 +279,44 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b6abf7103957c00c",
+  "active": "09e924b39f4a263b",
   "lastOpenFiles": [
-    "DM Stuff/Notes.md",
     "Book/Chapter 4 - Castle Ravenloft.md",
+    "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
+    "DM Stuff/Progression.md",
+    "DM Stuff/Notes.md",
+    "Book/Appendix D - Monsters and NPCs/Barovian Witch.md",
+    "Images/Chapter 4 - Castle Ravenloft/Cyrus Bellview.jpg",
+    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Walls Map.png",
+    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Spires Map.jpg",
+    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Study Random Table.png",
+    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Teleportation Brazier Table.png",
+    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Torture Chamber Strahd Zombies.png",
+    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Random Encounter Table.png",
+    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Rooms of Weeping Map.jpg",
+    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft North Tower Map.jpg",
+    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Larders and Dungeon Map.jpg",
+    "Book/Chapter 5 - The Town of Vallaki.md",
     "Book/Chapter 2 - The Lands of Barovia.md",
+    "Book/Appendix D - Monsters and NPCs/Kasimir Velikov.md",
+    "DM Stuff/Folklore.md",
+    "DM Stuff/Custom Worldbuilding/The Dark Powers.md",
+    "DM Stuff/Custom Worldbuilding/Demiplanes of Dread.md",
+    "DM Stuff/Custom Worldbuilding/Vampyr.md",
+    "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
+    "DM Stuff/Custom Worldbuilding/The Forest Folk.md",
+    "DM Stuff/Custom Worldbuilding/Lamordia.md",
+    "DM Stuff/Custom Worldbuilding/Tenebrous.md",
+    "Book/Appendix D - Monsters and NPCs/Rictavio - Rudolph van Richten.md",
     "Book/Chapter 1 - Into the Mists.md",
     "Book/Chapter 14 - Yester Hill.md",
     "Book/Chapter 15 - Werewolf Den.md",
-    "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
-    "Book/Chapter 5 - The Town of Vallaki.md",
     "Book/Chapter 10 - The Ruins of Berez.md",
-    "DM Stuff/Progression.md",
     "Book/Chapter 8 -  The Village of Krezk.md",
     "Book/Chapter 6 - Old Bonegrinder.md",
     "Book/Appendix D - Monsters and NPCs/Wereraven.md",
-    "DM Stuff/Custom Worldbuilding/Lamordia.md",
     "Book/Chapter 13 - The Amber Temple.md",
     "Book/Chapter 12 - The Wizard of Wines.md",
-    "Book/Appendix D - Monsters and NPCs/Baba Lysaga's Creeping Hut.md",
-    "Book/Appendix D - Monsters and NPCs.md",
-    "DM Stuff/Links.md",
-    "DM Stuff/Custom Worldbuilding/The Forest Folk.md",
-    "DM Stuff/Custom Worldbuilding/Tenebrous.md",
-    "DM Stuff/Custom Worldbuilding/Vampyr.md",
-    "DM Stuff/Custom Worldbuilding/Demiplanes of Dread.md",
-    "DM Stuff/Custom Worldbuilding/The Dark Powers.md",
-    "DM Stuff/Tarot Card Readings.md",
-    "Book/Epilogue.md",
-    "Images/Chapter 12 - The Wizard of Wines/The Wizard of Wines Winery Map.jpg",
-    "Images/DM/CR24 Strahd.png",
-    "Images/DM/Pasted image 20260223021534.png",
-    "Images/DM/Berez Map Labeled.png",
-    "Images/DM/Player Barovia Map.png",
-    "Images/DM/CR20 Strahd.png",
-    "Images/DM/Lamordia Map.png",
-    "Images/Chapter 11 - Van Richten's Tower/Khazan's Door.png",
-    "Images/Chapter 11 - Van Richten's Tower/Van Richten's Tower Map.jpg",
-    "Images/Chapter 11 - Van Richten's Tower/Ezmerelda's Wagon.jpg",
     "DM Stuff/Custom Mechanics",
     "DM Stuff/Custom Worldbuilding",
     "Images/DM",

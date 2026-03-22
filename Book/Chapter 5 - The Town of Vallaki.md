@@ -994,7 +994,7 @@ If he's still in power, the burgomaster conducts an investigation to find out wh
 
 After the burgomaster learns that the tiger belongs to Rictavio, he commands his guards to arrest the mysterious bard. If Rictavio thinks the characters can help him, he asks them to distract the burgomaster and the guards while he gathers his horse, wagon, and tiger (in that order). If the characters ask Rictavio where he plans to go, he tells them about an old tower to the west where he can lie low (see [[Chapter 11 - Van Richten's Tower]]).
 
-LADYWACHTER'S WISH
+## LADYWACHTER'S WISH
 Ernst Larnak (see area [[#N4. WACHTERHAUS]]) begins shadowing the characters. Characters who have a passive Wisdom (Perception) score of 14 9r higher notice him doing so. If they confront him, he claims that he keeps a watchful eye on all strangers, though he doesn't mention the name of his employer. If the characters threaten him, he backs off and reports to Lady Wachter after he believes he's not being watched or pursued.
 
 Lady Wachter is looking for powerful allies to help her oust the burgomaster. If Ernst tells her that he thinks the characters fit the bill, Lady Wachter has Ernst or her sons invite the characters to a private dinner at Wachterhaus. During the dinner, Lady Wachter determines whether the  characters have the ability and the resolve to crush the baron.

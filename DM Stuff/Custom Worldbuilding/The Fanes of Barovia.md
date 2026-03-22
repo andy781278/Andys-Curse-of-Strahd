@@ -6,7 +6,7 @@ aliases:
 https://www.reddit.com/r/CurseofStrahd/comments/9l5zfh/fleshing_out_curse_of_strahd_the_fanes_and_the/
 
 - The Ladies Three, Ladies of the Wood, or The Fanes of Barovia.
-- The Ladies were extremely powerful archfeys/goddesses who watched over the valley
+- The Ladies were extremely powerful archfey/goddesses who watched over the valley
 
 ## The Fanes
 

@@ -287,7 +287,7 @@ Strahd can fight the players, "You wanna play? Sure, I'll play." He ridicules th
 Ireena just wants to get her brother and get out, but it seems like Ismark does not want to leave. Strahd notices: "Oh, this poor boy? He is without a soul. I took it, and put it somewhere in this castle. If you want to look for him, I won't stop you."
 
 Strahd: "This has been fun, but I shall take my leave now. Do try not to die before we get to know each other better. That would be such a waste."
-
+	
 Then he turns into a fart cloud and quickly flies away.
 
 The moment the Strahd leaves, a fierce, bone-chilling wind rises up and roars through the hall, putting out all open flames. The characters hear the screech of ancient hinges and the solid thud of many heavy doors slamming shut, one after another, into the distance. They also hear the portcullis clang shut and the tired groan of the aged drawbridge pulling up. Finally, unless the doors to this room are being held open, they slam shut (but do not lock). If the characters open the doors, they see that all the torches in areas [[#K7. ENTRY]], [[#K8. GREAT ENTRY]], and [[#K9. GUESTS' HALL]] have gone out.
