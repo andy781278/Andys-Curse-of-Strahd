@@ -49,7 +49,8 @@
               "title": "Strahd von Zarovich"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Progression.md",
+                "file": "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Progression"
+              "title": "Outline of Strahd von Zarovich"
             }
           },
           {
@@ -262,7 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,11 +280,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "09e924b39f4a263b",
+  "active": "bc767578d615c4d7",
   "lastOpenFiles": [
     "Book/Chapter 4 - Castle Ravenloft.md",
-    "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
     "DM Stuff/Progression.md",
+    "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
     "DM Stuff/Notes.md",
     "Book/Appendix D - Monsters and NPCs/Barovian Witch.md",
     "Images/Chapter 4 - Castle Ravenloft/Cyrus Bellview.jpg",
