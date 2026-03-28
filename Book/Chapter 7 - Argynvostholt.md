@@ -488,10 +488,9 @@ The beacon can be seen in Vallaki ([[Chapter 5 - The Town of Vallaki]]), Krezk (
 
 The beacon's light can be "felt'' even by creatures that are blind. The light allows good-aligned creatures to experience glimmers of hope and joy while evil creatures find the light disconcerting.
 
-**Beacon of Protection.** While the beacon shines, characters and other creatures that oppose Strahd gain a +1 bonus to AC and saving throws for as long as they remain in Barovia.
+**Beacon of Protection.** When the beacon first shines, the pcs all gain a permeant feat. ~~While the beacon shines, characters and other creatures that oppose Strahd gain a +1 bonus to AC and saving throws for as long as they remain in Barovia.~~
 
-**Revenants at Rest.** Vladimir Horngaard and the other revenants that haunt Barovia see the light as a reminder of all that was once good and noble about the knightly order to which they once belonged. They let go of their hatred and their corporeal bodies, leaving corpses behind as their spirits find rest at long last. Henceforth, any random encounter with a revenant should be treated
-as no encounter.
+**Revenants at Rest.** Vladimir Horngaard and the other revenants that haunt Barovia see the light as a reminder of all that was once good and noble about the knightly order to which they once belonged. They let go of their hatred and their corporeal bodies, leaving corpses behind as their spirits find rest at long last. Henceforth, any random encounter with a revenant should be treated as no encounter.
 
 FORTUNES OF RAVENLOFT
 If your card reading reveals that a treasure is here, it's resting on the west windowsill.

@@ -609,6 +609,7 @@ The drawbridge appears sturdy, but a few of its boards are missing and it creaks
 
 GREEN SLIME
 A patch of green slime (see "Dungeon Hazards" in chapter 5 of the *Dungeon Master's Guide*) clings to the portcullis in the entry tunnel, and can be spotted with a successful DC 20 Wisdom (Perception) check. The slime will not fall on characters entering the castle, but it does fall on the first character who leaves by this route.
+https://www.5esrd.com/gamemastering/hazards/green-slime/
 
 ## K. CASTLE RAVENLOFT
 [[Chapter 4 - Castle Ravenloft]] explores Castle Ravenloft, lair of the vampire Strahd von Zarovich.
