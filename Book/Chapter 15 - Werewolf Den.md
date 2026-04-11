@@ -49,8 +49,7 @@ If the characters arrive here with Emil Toranescu (see [[Chapter 4 - Castle Rave
 Aziana and Davanka, two **werewolves** in human form, stand guard on the ledge. They sound the alarm when they spot intruders. Any loud noise here can be heard throughout the den, bringing quick reinforcements from areas [[#Z3. WOLF DEN]] and [[#Z5. DEEP CAVES]]. The werewolves fight to the death.
 
 ## Z3. WOLF DEN
-Nine **wolves** and a **werewolf** in human form are here. The werewolf, Skennis, has 36 hit points and is too old to hunt. Left undisturbed, he plays an electrum flute (see "Treasure" below), though not very well. The wolves are huddled behind him and go where he goes. Though well past his prime, he fights to the death to defend the den, and he takes umbrage at anyone who kills any of his
-wolf allies.
+Nine **wolves** and a **werewolf** in human form are here. The werewolf, Skennis, has 36 hit points and is too old to hunt. Left undisturbed, he plays an electrum flute (see "Treasure" below), though not very well. The wolves are huddled behind him and go where he goes. Though well past his prime, he fights to the death to defend the den, and he takes umbrage at anyone who kills any of his wolf allies.
 
 ==A five-foot-high stone ledge overlooks this large cave, which has a smoldering campfire at the far west end. The floor is covered with gnawed bones.==
 
@@ -93,7 +92,7 @@ Behind the ghastly curtain of stitched flesh is a 10-foot-high, 10-foot-wide tun
 ## Z7. SHRINE OF Huntress of the Mountain Fane
 ==Rough-hewn stairs lead down to a torchlit cave and a bizarre sight: wide-eyed children stand behind wooden bars and stare at you in terrified silence. The cave holds six wooden cages, their lids held shut with heavy rocks. Two of the cages are empty, and each of the others holds a pair of frightened children.==
 
-==A crude wooden statue stands between the cages. It bears the rough likeness of a wolf-headed woman draped in garlands of vines and night flowers. Piled around the statue's base is an incredible amount of treasure. A woman in shredded clothes kneels before the statue. Behind the statue, two maggot-ridden corpses hang from iron shackles bolted to the wall.==
+==A crude wooden statue stands between the cages. Tall and chiseled. Her physique is well toned, like that of an Amazonian woman and her long, white hair sits upon her shoulders like snow on the cold stone of a mountain top. She has a pair of enormous, stag antlers growing from her temples, adding significantly to her height. Draped in garlands of vines and night flowers. Piled around the statue's base is an incredible amount of treasure. A woman in shredded clothes kneels before the statue. Behind the statue, two maggot-ridden corpses hang from iron shackles bolted to the wall.==
 
 The ceiling here is 20 feet high. The statue is a crude depiction of Huntress of the Mountain Fane. Kneeling before it is a **werewolf** in human form named Zuleika Toranescu, who is the wife of Emil (see [[Chapter 4 - Castle Ravenloft#K75A. PRISONER]]). Believing her mate to be dead by Strahd's hand, she prays to the Huntress for guidance, hoping that the goddess might hold enough sway over Strahd to persuade him to free her beloved.
 

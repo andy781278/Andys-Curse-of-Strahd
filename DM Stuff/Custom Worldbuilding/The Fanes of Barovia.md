@@ -100,7 +100,6 @@ Players should see visions in their sleep from the ladies, one at a time, at som
 - To reconsecrate the shrines and therefore bring back the Ladies of the Wood, you have to take their gem back to their dedicated shrine, then honor the ladies by name.
 - After reconsecration, the ladies wish for the gems to be used for the good and protection of the people of Barovia, but don't care about who gets it specifically.
 ### Weaver
-
 > [!cite] Weaver Vision (Spring)
 > - dirt, algae, and blood. All of it swirls around your muddy, clouded vision
 > - Distant screams brings along a sense of panic, something tells you you should be panicking right now, but you don't remember why

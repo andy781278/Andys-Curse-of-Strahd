@@ -1,41 +1,6 @@
 ### Ongoing Events
-- Escape Castle Ravenloft
-	- When they get to the chasm, and have a plan to class and have at least half of the party crossed, have the 4 dragon wyrmling come out, and roll initiative
-	- The dragon wyrmling do not attack the players, but rather they try to kidnap Ireena, then take her back into the castle
-	- When they are all through the chasm, and are on their carriage, running away, have Strahd fly and appear behind the pcs in the sky, he says "Keep the boy, he's a parting gift from me." Then he forms a blood spear in his hands, and throws it directly at Ismark, which instantly decapitates him and kills him.
-		- One of the players can succeed a DC 15 Athletics/Acrobatics check to put themselves in front of Ismark, they will take the damage for them, the damage is 39 Necrotic damage.
 
-- Finish Argynvostholt
-	- ~~Revvy is Godfrey, but he does not remember until he sees Vladimir, his lover~~
-	- ~~He does not gain spellcasting until his memories are returned~~
-	- ~~He urges the players to go to the Castle Ravenloft, take the skull of Argynvost, return it to this place, and lay these souls to rest, then he will join the team in the fight against Strahd.~~
-	- ~~**If the players were to go to Castle Ravenloft before coming back to Argynvostholt, Revvy will write a letter to the party, using a raven to deliver it, saying that if they were to go the castle, to help find and retrieve the skull of Argynvost**~~
-	
-- Revisiting Argynvostholt
-	- Revvy will be waiting by the statue of Argynvost, looking at the statue and pondering.
-	- When the pcs approach with the skull, he will be ecstatic, "Yes! You found the skull of Argynvost! You did it!"
-	- He hurries the pcs to the graveyard, where the Mausoleum is located.
-	- Vladimir appears from behind the Mausoleum, and stands in the pcs way
-	- He refuses to let the pcs reinstate the beacon, he thinks that by doing this, it gives the land of Barovia hope, but he wants a hell for Strahd to be stuck in, even if its residents will suffer for eternity, it will still fulfil the vengeance he seeks, the suffering if Strahd is all he cares about.
-		- "You want to give them hope. And hope makes them endure. And endurance makes this land livable. And a livable Barovia is exactly what _he_ wants."
-		- "I have made this place a wound that won't close. Every year he sits in that castle and watches his kingdom rot. That is the only revenge left to us. And you want to take it from me."
-	- The players can have 1 person roll to convince Vlad to stand down, DC 27.
-	- If fail:
-	- Vlad starts to engage with the pcs, roll initiative
-	- Revvy loves Vlad too much to intervene.
-		- Revvy: "Please Vlad! You have to let go! This hatred, it's destroyed you, and all of what this order once stood for!"
-		- anguished recognition shines in Vladimir's eyes, but he squints it out, and keeps on fighting
-	- The first time Vladimir takes damage, six [[Phantom Warrior]] materialize and join the fray, coming to his defense.
-	- The pcs can try to open the mausoleum and put the skull in. But the mausoleum door is magically sealed, and needs a dispel magic or knock to open, and then an athletics DC 20 with an action. Then they'll just need to drag the skull in, which needs movement and that they can carry it.
-	- If the pcs are about to lose, Revvy will finally step in and help
-		- Alternatively, a pc can spend an action to roll to convince Revvy to help fight Vlad, DC 15
-	- TREASURE
-		- Vladimir Horngaard wields a +2 *greatsword*.
-		- Vladimir wears [amulet of the devout](https://www.dndbeyond.com/magic-items/2411862-amulet-of-the-devout-2) around his neck, underneath his half plate armor.
-	- After this is all done, and the beacon is lit, the revenants calm down, sees the beacon, and admits guilt and regret for their actions.
-	- Vladimir recognizes Godfrey and they share a romantic kiss
-	- Half of the revenants/soldiers dissipate and you see dozens of spirits rise up and disappear
-	- Vlad thanks the group for helping him have hope again. He and Revvy now wishes to stay in Argynvost, have some peaceful time and catch up and chill. Vlad gives Spring his rare [amulet of the devout](https://www.dndbeyond.com/magic-items/2411862-amulet-of-the-devout-2), saying that when they need him and Godfrey, to use the amulet and think of them, and they'll come to their aid.
+
 
 ### Planned Events
 - Go to Van Richten's Tower to find Esmeralda
@@ -102,7 +67,41 @@
 	
 	- If any players want to engage in combat with him, he'll want to wait until the castle, saying "Please, if you want to play, we'll have plenty of fun in my castle."
 		- All damage done to him is instantly healed, status affects against him don't work (legendary resistance)
-
+- Escape Castle Ravenloft
+	- When they get to the chasm, and have a plan to class and have at least half of the party crossed, have the 4 dragon wyrmling come out, and roll initiative
+	- The dragon wyrmling do not attack the players, but rather they try to kidnap Ireena, then take her back into the castle
+	- When they are all through the chasm, and are on their carriage, running away, have Strahd fly and appear behind the pcs in the sky, he says "Keep the boy, he's a parting gift from me." Then he forms a blood spear in his hands, and throws it directly at Ismark, which instantly decapitates him and kills him.
+		- One of the players can succeed a DC 15 Athletics/Acrobatics check to put themselves in front of Ismark, they will take the damage for them, the damage is 39 Necrotic damage.
+- Finish Argynvostholt
+	- ~~Revvy is Godfrey, but he does not remember until he sees Vladimir, his lover~~
+	- ~~He does not gain spellcasting until his memories are returned~~
+	- ~~He urges the players to go to the Castle Ravenloft, take the skull of Argynvost, return it to this place, and lay these souls to rest, then he will join the team in the fight against Strahd.~~
+	- ~~**If the players were to go to Castle Ravenloft before coming back to Argynvostholt, Revvy will write a letter to the party, using a raven to deliver it, saying that if they were to go the castle, to help find and retrieve the skull of Argynvost**~~
+- Revisiting Argynvostholt
+	- Revvy will be waiting by the statue of Argynvost, looking at the statue and pondering.
+	- When the pcs approach with the skull, he will be ecstatic, "Yes! You found the skull of Argynvost! You did it!"
+	- He hurries the pcs to the graveyard, where the Mausoleum is located.
+	- Vladimir appears from behind the Mausoleum, and stands in the pcs way
+	- He refuses to let the pcs reinstate the beacon, he thinks that by doing this, it gives the land of Barovia hope, but he wants a hell for Strahd to be stuck in, even if its residents will suffer for eternity, it will still fulfil the vengeance he seeks, the suffering if Strahd is all he cares about.
+		- "You want to give them hope. And hope makes them endure. And endurance makes this land livable. And a livable Barovia is exactly what _he_ wants."
+		- "I have made this place a wound that won't close. Every year he sits in that castle and watches his kingdom rot. That is the only revenge left to us. And you want to take it from me."
+	- The players can have 1 person roll to convince Vlad to stand down, DC 27.
+	- If fail:
+	- Vlad starts to engage with the pcs, roll initiative
+	- Revvy loves Vlad too much to intervene.
+		- Revvy: "Please Vlad! You have to let go! This hatred, it's destroyed you, and all of what this order once stood for!"
+		- anguished recognition shines in Vladimir's eyes, but he squints it out, and keeps on fighting
+	- The first time Vladimir takes damage, six [[Phantom Warrior]] materialize and join the fray, coming to his defense.
+	- The pcs can try to open the mausoleum and put the skull in. But the mausoleum door is magically sealed, and needs a dispel magic or knock to open, and then an athletics DC 20 with an action. Then they'll just need to drag the skull in, which needs movement and that they can carry it.
+	- If the pcs are about to lose, Revvy will finally step in and help
+		- Alternatively, a pc can spend an action to roll to convince Revvy to help fight Vlad, DC 15
+	- TREASURE
+		- Vladimir Horngaard wields a +2 *greatsword*.
+		- Vladimir wears [amulet of the devout](https://www.dndbeyond.com/magic-items/2411862-amulet-of-the-devout-2) around his neck, underneath his half plate armor.
+	- After this is all done, and the beacon is lit, the revenants calm down, sees the beacon, and admits guilt and regret for their actions.
+	- Vladimir recognizes Godfrey and they share a romantic kiss
+	- Half of the revenants/soldiers dissipate and you see dozens of spirits rise up and disappear
+	- Vlad thanks the group for helping him have hope again. He and Revvy now wishes to stay in Argynvost, have some peaceful time and catch up and chill. Vlad gives Spring his rare [amulet of the devout](https://www.dndbeyond.com/magic-items/2411862-amulet-of-the-devout-2), saying that when they need him and Godfrey, to use the amulet and think of them, and they'll come to their aid.
 ##### Abandoned Plotline
 - And as for my dear Ireena, I shall be taking her now, you see, she's destined to be mine, she has the soul of my past lover, she just doesn't know it yet."
 	- Ismark will then get angry and antagonize Strahd, who then immediately cuts off his head with a wave of his hand.

@@ -16,8 +16,8 @@ Get the symbol of Ravenkind
 ### Amber Temple
 Finish exploring the amber temple
 
-### Argynvostholt
-Finish Argynvostholt and reinstate the skull
+### ~~Argynvostholt~~
+~~Finish Argynvostholt and reinstate the skull~~
 
 ### Reinstating Swamp Fane
 - Kill Baba Lysaga
