@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c7c1b89496ac0e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Stuff/Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
-          {
-            "id": "32ec1eb827fee107",
+            "id": "a204ef8bc49f777c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,77 +22,20 @@
             }
           },
           {
-            "id": "d7be5c703b241fda",
+            "id": "aec07814e2044eb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 15 - Werewolf Den.md",
+                "file": "DM Stuff/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 15 - Werewolf Den"
-            }
-          },
-          {
-            "id": "70d6ec52c404d32f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Fanes of Barovia"
-            }
-          },
-          {
-            "id": "dad64f9283a5318d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/Chapter 7 - Argynvostholt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 7 - Argynvostholt"
-            }
-          },
-          {
-            "id": "355e40c976617b7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Stuff/Progression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Progression"
-            }
-          },
-          {
-            "id": "dc0d133e93b01cbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strahd von Zarovich"
+              "title": "Notes"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +101,7 @@
       {
         "id": "db5570bc8608711a",
         "type": "tabs",
-        "dimension": 76.25,
+        "dimension": 50.480769230769226,
         "children": [
           {
             "id": "f1be62bcdf1fbb59",
@@ -228,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
+                "file": "Book/Chapter 2 - The Lands of Barovia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Strahd von Zarovich"
+              "title": "Outline of Chapter 2 - The Lands of Barovia"
             }
           },
           {
@@ -258,12 +187,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "a6a8de0d91a61341",
         "type": "tabs",
-        "dimension": 23.75,
+        "dimension": 49.519230769230774,
         "children": [
           {
             "id": "46d7ab96047d3e3a",
@@ -289,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.5
+    "width": 492.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,18 +235,28 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ddc65591b2489b90",
+  "active": "fa5f98a60f41d9af",
   "lastOpenFiles": [
+    "DM Stuff/Notes.md",
+    "Book/Chapter 2 - The Lands of Barovia.md",
+    "Book/Chapter 5 - The Town of Vallaki.md",
+    "Book/Chapter 11 - Van Richten's Tower.md",
+    "Book/Appendix D - Monsters and NPCs/Rictavio - Rudolph van Richten.md",
+    "Book/Appendix D - Monsters and NPCs/Ezmerelda d'Avenir.md",
+    "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
+    "Book/Appendix D - Monsters and NPCs/Strahd Zombie.md",
+    "Book/Appendix D - Monsters and NPCs/Strahd's Animated Armor.md",
+    "Book/Appendix D - Monsters and NPCs/Tree Blight.md",
+    "Book/Appendix D - Monsters and NPCs/Vladmir Horngaard.md",
+    "Book/Appendix D - Monsters and NPCs/The Abbot.md",
+    "Book/Appendix D - Monsters and NPCs/Pidlwick II.md",
+    "Book/Appendix D - Monsters and NPCs/Rahadin.md",
+    "DM Stuff/Links.md",
+    "Book/Chapter 15 - Werewolf Den.md",
+    "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
     "DM Stuff/Progression.md",
     "Book/Chapter 7 - Argynvostholt.md",
-    "DM Stuff/Notes.md",
-    "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
-    "Book/Chapter 15 - Werewolf Den.md",
-    "Book/Chapter 2 - The Lands of Barovia.md",
     "Book/Chapter 4 - Castle Ravenloft.md",
-    "DM Stuff/Links.md",
-    "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
-    "Book/Appendix D - Monsters and NPCs/Vladmir Horngaard.md",
     "Book/Appendix D - Monsters and NPCs/Phantom Warrior.md",
     "DM Stuff/Custom Worldbuilding/The Forest Folk.md",
     "DM Stuff/Custom Worldbuilding/Demiplanes of Dread.md",
@@ -334,16 +273,6 @@
     "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Rooms of Weeping Map.jpg",
     "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft North Tower Map.jpg",
     "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Larders and Dungeon Map.jpg",
-    "Book/Chapter 5 - The Town of Vallaki.md",
-    "Book/Appendix D - Monsters and NPCs/Kasimir Velikov.md",
-    "DM Stuff/Folklore.md",
-    "DM Stuff/Custom Worldbuilding/Vampyr.md",
-    "DM Stuff/Custom Worldbuilding/Lamordia.md",
-    "DM Stuff/Custom Worldbuilding/Tenebrous.md",
-    "Book/Appendix D - Monsters and NPCs/Rictavio - Rudolph van Richten.md",
-    "Book/Chapter 1 - Into the Mists.md",
-    "Book/Chapter 14 - Yester Hill.md",
-    "Book/Chapter 10 - The Ruins of Berez.md",
     "DM Stuff/Custom Mechanics",
     "DM Stuff/Custom Worldbuilding",
     "Images/DM",
