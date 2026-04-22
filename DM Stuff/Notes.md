@@ -1,5 +1,5 @@
 ### Ongoing Events
-- Spring wears Animated Armor
+- Vallaki is ruined because of the lady Watchter
 
 
 ### Planned Events

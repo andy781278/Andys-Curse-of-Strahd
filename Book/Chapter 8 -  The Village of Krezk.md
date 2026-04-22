@@ -149,7 +149,7 @@ The ring is a *ring of regeneration.*
 ## S8. GARDEN GATEHOUSE
 ==A gatehouse stands at the entrance to the abbey gardens.==
 
-The gatehouse is empty. 
+The gatehouse is empty.
 
 ## S9. GARDENS
 ==Nestled between rising and plunging cliffs are four rectangular garden plots enclosed by a five-foot-high wall of mortared stones. White rabbits nibble on turnips uprooted by the cold. Two lifeless scarecrows with stuffed gullets and sackcloth heads hang from wooden crosses pounded into the cold, hard earth.==

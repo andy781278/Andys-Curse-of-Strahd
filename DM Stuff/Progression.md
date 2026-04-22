@@ -7,7 +7,7 @@ They go from 4-13
 ### Tome of Strahd
 Get the tome of strahd
 
-### Symbol of Ravenkind
+### ~~Symbol of Ravenkind~~
 Get the symbol of Ravenkind
 
 ### ~~Castle Ravenloft 1st Time~~

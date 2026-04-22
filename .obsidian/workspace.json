@@ -8,17 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a204ef8bc49f777c",
+            "id": "4d7dcdb7549b6d97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 2 - The Lands of Barovia.md",
+                "file": "Book/Chapter 8 -  The Village of Krezk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 - The Lands of Barovia"
+              "title": "Chapter 8 -  The Village of Krezk"
+            }
+          },
+          {
+            "id": "36517f32e820baab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Appendix D - Monsters and NPCs/The Abbot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Abbot"
+            }
+          },
+          {
+            "id": "7ac491851c66a9aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Chapter 8 -  The Village of Krezk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 8 -  The Village of Krezk"
+            }
+          },
+          {
+            "id": "cef25aa59daba37b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Appendix D - Monsters and NPCs/Mongrelfolk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mongrelfolk"
             }
           },
           {
@@ -33,6 +75,34 @@
               },
               "icon": "lucide-file",
               "title": "Notes"
+            }
+          },
+          {
+            "id": "b571bccafd4d9c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Chapter 2 - The Lands of Barovia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2 - The Lands of Barovia"
+            }
+          },
+          {
+            "id": "79cdbedf4917c285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Appendix C - Treasures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Appendix C - Treasures"
             }
           }
         ]
@@ -101,7 +171,7 @@
       {
         "id": "db5570bc8608711a",
         "type": "tabs",
-        "dimension": 50.480769230769226,
+        "dimension": 65,
         "children": [
           {
             "id": "f1be62bcdf1fbb59",
@@ -157,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Chapter 2 - The Lands of Barovia.md",
+                "file": "Book/Chapter 8 -  The Village of Krezk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 2 - The Lands of Barovia"
+              "title": "Outline of Chapter 8 -  The Village of Krezk"
             }
           },
           {
@@ -187,12 +257,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "a6a8de0d91a61341",
         "type": "tabs",
-        "dimension": 49.519230769230774,
+        "dimension": 35,
         "children": [
           {
             "id": "46d7ab96047d3e3a",
@@ -214,11 +284,12 @@
               "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 435.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,11 +306,22 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fa5f98a60f41d9af",
+  "active": "4d7dcdb7549b6d97",
   "lastOpenFiles": [
-    "DM Stuff/Notes.md",
     "Book/Chapter 2 - The Lands of Barovia.md",
+    "Book/Appendix C - Treasures.md",
+    "DM Stuff/Notes.md",
+    "Book/Appendix D - Monsters and NPCs/Mongrelfolk.md",
+    "Book/Chapter 8 -  The Village of Krezk.md",
+    "Book/Appendix D - Monsters and NPCs/The Abbot.md",
+    "Book/Appendix D - Monsters and NPCs.md",
+    "DM Stuff/Progression.md",
+    "DM Stuff/Links.md",
+    "DM Stuff/Folklore.md",
+    "DM Stuff/Tarot Card Readings.md",
+    "DM Stuff/Party Configuration.md",
     "Book/Chapter 5 - The Town of Vallaki.md",
+    "Book/Chapter 3 - The Village of Barovia.md",
     "Book/Chapter 11 - Van Richten's Tower.md",
     "Book/Appendix D - Monsters and NPCs/Rictavio - Rudolph van Richten.md",
     "Book/Appendix D - Monsters and NPCs/Ezmerelda d'Avenir.md",
@@ -248,21 +330,10 @@
     "Book/Appendix D - Monsters and NPCs/Strahd's Animated Armor.md",
     "Book/Appendix D - Monsters and NPCs/Tree Blight.md",
     "Book/Appendix D - Monsters and NPCs/Vladmir Horngaard.md",
-    "Book/Appendix D - Monsters and NPCs/The Abbot.md",
     "Book/Appendix D - Monsters and NPCs/Pidlwick II.md",
     "Book/Appendix D - Monsters and NPCs/Rahadin.md",
-    "DM Stuff/Links.md",
     "Book/Chapter 15 - Werewolf Den.md",
     "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
-    "DM Stuff/Progression.md",
-    "Book/Chapter 7 - Argynvostholt.md",
-    "Book/Chapter 4 - Castle Ravenloft.md",
-    "Book/Appendix D - Monsters and NPCs/Phantom Warrior.md",
-    "DM Stuff/Custom Worldbuilding/The Forest Folk.md",
-    "DM Stuff/Custom Worldbuilding/Demiplanes of Dread.md",
-    "DM Stuff/Custom Worldbuilding/The Dark Powers.md",
-    "Book/Chapter 3 - The Village of Barovia.md",
-    "Book/Appendix D - Monsters and NPCs/Barovian Witch.md",
     "Images/Chapter 4 - Castle Ravenloft/Cyrus Bellview.jpg",
     "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Walls Map.png",
     "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Spires Map.jpg",
