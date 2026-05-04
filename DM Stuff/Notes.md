@@ -1,15 +1,9 @@
 ### Ongoing Events
-- Vallaki is ruined because of the lady Watchter
+- Dream Pastries
 
 
 ### Planned Events
-- Go to Van Richten's Tower to find Esmeralda
-	- She'll be arriving a few minutes after the players get there, the players will have the opportunity to explore the wagon and the tower, and have them try the traps first, it's more fun that way
-	- When they do reunite, Esmeralda says that something tells her that she should give the players another card reading, it just feels right to do it, like some sixth sense.
-		- Esmeralda gives another tarot card reading, this time giving the players the directions to the three gems. She does not know what these mean, she merely did it because she has some trippy psychic predicting powers, and it might be useful to the team. Words come to her when she does these readings, and she does not know why. Some trippy Vistani BS.
-			- The past - **The Weaver** — _"A rotting hut in the swamp, and inside it, a heart that was never hers to keep."_
-			- the present - **The Huntress** — _"A giant with a red heart that isn't his, rooted to a hill that weeps lightning."_
-			- the future - **The Seer** — _"A shadow with one blue eye, walking stone corridors, unhurried."_
+
 
 ### Current Objectives
 - Come up with a timeline for Strahd's events/goals
@@ -102,6 +96,14 @@
 	- Vladimir recognizes Godfrey and they share a romantic kiss
 	- Half of the revenants/soldiers dissipate and you see dozens of spirits rise up and disappear
 	- Vlad thanks the group for helping him have hope again. He and Revvy now wishes to stay in Argynvost, have some peaceful time and catch up and chill. Vlad gives Spring his rare [amulet of the devout](https://www.dndbeyond.com/magic-items/2411862-amulet-of-the-devout-2), saying that when they need him and Godfrey, to use the amulet and think of them, and they'll come to their aid.
+	
+	- Go to Van Richten's Tower to find Esmeralda
+	- She'll be arriving a few minutes after the players get there, the players will have the opportunity to explore the wagon and the tower, and have them try the traps first, it's more fun that way
+	- When they do reunite, Esmeralda says that something tells her that she should give the players another card reading, it just feels right to do it, like some sixth sense.
+		- Esmeralda gives another tarot card reading, this time giving the players the directions to the three gems. She does not know what these mean, she merely did it because she has some trippy psychic predicting powers, and it might be useful to the team. Words come to her when she does these readings, and she does not know why. Some trippy Vistani BS.
+			- The past - **The Weaver** — _"A rotting hut in the swamp, and inside it, a heart that was never hers to keep."_
+			- the present - **The Huntress** — _"A giant with a red heart that isn't his, rooted to a hill that weeps lightning."_
+			- the future - **The Seer** — _"A shadow with one blue eye, walking stone corridors, unhurried."_
 ##### Abandoned Plotline
 - And as for my dear Ireena, I shall be taking her now, you see, she's destined to be mine, she has the soul of my past lover, she just doesn't know it yet."
 	- Ismark will then get angry and antagonize Strahd, who then immediately cuts off his head with a wave of his hand.
