@@ -437,11 +437,12 @@ to raise their son from the dead. He claims that the "gods of light" want the Kr
 The characters can try to interfere in the raising of Ilya Krezkov. Otherwise, the burgomaster digs up his son's corpse. Without needing the requisite material components, the Abbot casts a *raise dead*, returning Ilya to life with 1 hit point. Anna Krezkova praises the Abbot and Saint Markovia for this generous act before tending to her son. The burgomaster, his grief dispelled, fears that he has misjudged the Abbot and has no way to repay him for this supreme act of kindness.
 
 DEVELOPMENT
-Ilya Krezkov returns to life with a random form of indefinite madness (see "Madness Effects" in chapter 8, "Running the Game," of the *Dungeon Master's Guide*). The Abbot uses the raising of Ilya as leverage to get the burgomaster to undertake an unusual quest (see "Something Borrowed" below).
+Ilya Krezkov returns to life with a random form of indefinite madness
+(Being drunk keeps me sane)
+The Abbot uses the raising of Ilya as leverage to get the burgomaster to undertake an unusual quest (see "Something Borrowed" below).
 
 ## SOMETHING NEW
-The characters learn that a Krezkite woman named Dimira Yolensky (LG female human noncombatant) is about to give birth. A local midwife named Kretyana Dolvof (LG female human **commoner**) is summoned to the mother's cottage to deliver the newborn. In the absence of a priest, the burgomaster's wife, Anna Krezkova, is called upon to supervise the blessed event and
-offer prayers for the health of the mother and the child.
+The characters learn that a Krezkite woman named Dimira Yolensky (LG female human noncombatant) is about to give birth. A local midwife named Kretyana Dolvof (LG female human **commoner**) is summoned to the mother's cottage to deliver the newborn. In the absence of a priest, the burgomaster's wife, Anna Krezkova, is called upon to supervise the blessed event and offer prayers for the health of the mother and the child.
 
 Dimira gives birth to a healthy baby boy, but the baby doesn't cry. While the mother coddles the infant, characters who succeed on a DC 10 Wisdom (Insight) check can see that Kretyana is deeply troubled. If the characters question the midwife, she tells them in confidence, "That child has no soul. Very sad."
 
