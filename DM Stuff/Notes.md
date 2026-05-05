@@ -5,8 +5,14 @@
 ### Planned Events
 - Dream Pastries
 - Tenny exerting more control over Adelaide
-- Reveal of Adelaide's backstory
-	- Adelaide, Tenny or Tenebrous created Adelaide
+- Adelaide's story
+	- Adelaide, Tenny or Tenebrous created Adelaide?
+- Soren's story
+	- Soren's mom visiting
+	- Soren's mom dies
+	- Soren's mom revived by that one guy
+- Vasily's story
+	- 
 
 ### Current Objectives
 - Come up with a timeline for Strahd's events/goals
