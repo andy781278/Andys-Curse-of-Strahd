@@ -1,9 +1,12 @@
 ### Ongoing Events
-- Dream Pastries
+
 
 
 ### Planned Events
-
+- Dream Pastries
+- Tenny exerting more control over Adelaide
+- Reveal of Adelaide's backstory
+	- Adelaide, Tenny or Tenebrous created Adelaide
 
 ### Current Objectives
 - Come up with a timeline for Strahd's events/goals

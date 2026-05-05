@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 6 - Old Bonegrinder.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 6 - Old Bonegrinder"
-            }
-          },
-          {
-            "id": "b571bccafd4d9c43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "DM Stuff/Notes.md",
                 "mode": "source",
                 "source": false
@@ -157,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Chapter 6 - Old Bonegrinder.md",
+                "file": "DM Stuff/Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 6 - Old Bonegrinder"
+              "title": "Outline of Notes"
             }
           },
           {
@@ -219,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,12 +224,14 @@
   },
   "active": "366676683640b852",
   "lastOpenFiles": [
+    "DM Stuff/Notes.md",
+    "DM Stuff/Links.md",
+    "Book/Chapter 6 - Old Bonegrinder.md",
     "Book/Chapter 9 - Tsolenka Pass.md",
     "Book/Chapter 12 - The Wizard of Wines.md",
     "Book/Chapter 13 - The Amber Temple.md",
     "Book/Chapter 14 - Yester Hill.md",
     "Book/Chapter 15 - Werewolf Den.md",
-    "DM Stuff/Notes.md",
     "DM Stuff/Progression.md",
     "Book/Chapter 11 - Van Richten's Tower.md",
     "Book/Chapter 8 -  The Village of Krezk.md",
@@ -251,7 +239,6 @@
     "Book/Chapter 5 - The Town of Vallaki.md",
     "Book/Chapter 3 - The Village of Barovia.md",
     "Book/Chapter 2 - The Lands of Barovia.md",
-    "Book/Chapter 6 - Old Bonegrinder.md",
     "Book/Chapter 1 - Into the Mists.md",
     "Book/Chapter 10 - The Ruins of Berez.md",
     "Book/Chapter 4 - Castle Ravenloft.md",
@@ -263,7 +250,6 @@
     "Book/Appendix D - Monsters and NPCs/Mongrelfolk.md",
     "DM Stuff/Custom Worldbuilding/Tenebrous.md",
     "DM Stuff/Custom Worldbuilding/Lamordia.md",
-    "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
     "Images/Chapter 4 - Castle Ravenloft/Cyrus Bellview.jpg",
     "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Walls Map.png",
     "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Spires Map.jpg",
