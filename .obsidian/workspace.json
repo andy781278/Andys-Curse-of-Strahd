@@ -101,7 +101,7 @@
       {
         "id": "db5570bc8608711a",
         "type": "tabs",
-        "dimension": 65,
+        "dimension": 26.609029779058595,
         "children": [
           {
             "id": "f1be62bcdf1fbb59",
@@ -192,7 +192,7 @@
       {
         "id": "a6a8de0d91a61341",
         "type": "tabs",
-        "dimension": 35,
+        "dimension": 19.21229586935639,
         "children": [
           {
             "id": "46d7ab96047d3e3a",
@@ -216,10 +216,27 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7d1c8afc9636a06e",
+        "type": "tabs",
+        "dimension": 54.17867435158501,
+        "children": [
+          {
+            "id": "d5c725d7cfd5f755",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 443.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,7 +253,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "366676683640b852",
+  "active": "d5c725d7cfd5f755",
   "lastOpenFiles": [
     "DM Stuff/Notes.md",
     "DM Stuff/Backstories.md",

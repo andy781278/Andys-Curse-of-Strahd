@@ -63,20 +63,34 @@ idk
 tenny stuff
 
 ### Soren
-Soren sees signs of a green dragon -> Syltharaxis visits Soren -> Syltharaxis visits Soren again -> Strahd comes and fights pcs -> Syltharaxis sacrifices herself to get them to safety
+Soren sees signs of a green dragon -> Syltharaxis visits Soren -> Strahd comes and fights pcs -> Syltharaxis sacrifices herself to get them to safety
 
 ##### Soren sees signs of a green dragon
  - While traveling, the players come across a broken tree in their way
  - besides the broken tree, many more broken tree with claw marks the size of entire people
  - Into the forest, there's patch of wide flattened circle of vegetation where something enormous rested
+ - (18) there's a green scale the size of someone's head buried beneath the dirt, it's hard af and someone can make a shield out of it if they roll well and spend a week of long rests working on it.
+
+##### Syltharaxis casts scrying on Soren
+- Soren makes a wisdom saving throw DC 16
+- If Soren fails, then Syltharaxis looks and gathers some info about the party
 
 ##### Syltharaxis visits Soren
-- When the party returns to Argynvostholt, Revvy will note that there's a visitor waiting for Soren, a women wearing green robes.
-- They find her in Argynvostholt, Soren recognizes immediately that this is his mother
+- When the party returns to Argynvostholt, or during long rest a few days after [[#Soren sees signs of a green dragon]], Syltharaxis will appear when Soren is alone.
+- She is in a human disguise, to others she is a middle-aged women wearing green robes with a bunch of well adorned jewels.
 - She says nothing, and simply looks at him, waiting for him to say something
 - "You've got fatter"
-- She starts to go around everyone, looking at them up and down
-- "Are these the kind of people you're traveling with? Come on, you can do better than that."
+- "so I've heard you've been traveling, how's that going for you? Did you have fun?"
+- She looks at the direction of the players
+- "And are those the kind of people you're traveling with? Come on, you can do better than that."
+- "And what are you doing here anyways? What's the end goal? Are you gonna kill Strahd? You?"
+- "Look, I'm not asking you to give up. If anything, I'm happy that you're having fun, but let's look at the big picture here."
+- "Sure, you've built a small army, but it's not like that's not been done before, what makes you think you all are so special, that you can take him down, while hundreds to thousands of others before you tried and failed?"
+- She sighs, and comes up to Soren and hugs him
+- "I miss you, alright? You've been gone for so long, and the house just feels so empty..."
+- A single tear drops from her eye
+- "Look, if something were to happen to you, I will never forgive myself, so please, come home..."
+- 
 
 #### Syltharaxis, the Hoarder
-Syltharaxis was enraged to see her son missing, and set out to find him and bring him home. After some searching, she heard from some Vistani that her son is stuck in Barovia, so she did some research, and came to Barovia to find him.
+Syltharaxis was enraged to see her son missing, and set out to find him and bring him home. After some searching, she heard from some Vistani that her son is stuck in Barovia, so she did some research, and came to Barovia to find him. She got here because of her friend's friend, who is a Vistani. Syltharaxis loves her son, but she is also manipulative and overcontrolling. She will try her best to guilt trip her son or any other necessary means to get her son back home, even if that's kind of evil. 
