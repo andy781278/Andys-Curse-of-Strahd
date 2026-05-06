@@ -90,6 +90,12 @@ Soren sees signs of a green dragon -> Syltharaxis visits Soren -> Strahd comes a
 - "I miss you, alright? You've been gone for so long, and the house just feels so empty..."
 - A single tear drops from her eye
 - "Look, if something were to happen to you, I will never forgive myself, so please, come home..."
+- Soren will say no, and Syltharaxis will walk away
+
+##### Strahd comes and fights pcs
+For whatever reason, but probably the following:
+- Party got the tome of Strahd
+- Party is somehow close to getting Ireena to permeant safety / escape from Barovia
 - 
 
 #### Syltharaxis, the Hoarder
