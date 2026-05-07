@@ -50,11 +50,14 @@ Story beats: Gets recognized -> Find Vasili -> Conversation
 	- "Take their gems back to their shrine, reconsecrate them, and Strahd will be mortal once more."
 	- "And you, Vasily, fate has brought you here, you are one of us, you are a Barovians, and you're destined to come back, slay Strahd, and free your people, free Barovia."
 
-#### Backstory: The Knight of All Barovians
+#### Vasili Von Holtz: The Knight of All Barovians
 Vasili Von Holtz, born in the Village of Barovia, was a kind lad. He befriended a Vistani, one of the only good ones, called Radu Cala. Radu experienced tragedy because of Strahd, and swore to never work for him again. They teamed up and hatched a scheme to outsmart Strahd by luring him with Marina, one of Ireena's past reincarnations. They distracted him while bringing dozens of Barovian refugees outside the mist, giving them freedom, one of which is Vasili's lover, who carried his child. Vasili could have gone too, but he chose to remain, as he realized there is a method to kill Strahd once and for all, and had to investigate it. He went to all the consecrated sites of the fanes, spoke to them in his dreams, and discovered the truth: that reconsecrating the fanes shall remove Strahd of his godly status, and make him vulnerable. He used the stones of sending to tell Radu that he found something critical, but didn't specify what, cause not enough words. But alas, Strahd returned and killed him before he could tell this to anyone. He is revered as a hero by all Barovians, and is named the Knight of All Barovians. They made him a sarcophagi, and put him in the basement of the church in the Village of Barovia. But Strahd, in fear of someone finding out his secret, tried to destroy the corpse, but failed, because the corpse was protected by the morning lord. So instead, he put Vasili's sarcophagi (somewhere). He then taunts Barovians by wearing Vasili's face, and pretending to be him.
 
 ### Spring
-find the one who destroyed her village, Rahdain, why? we need to figure that out
+
+
+#### Rahadin, The Self-fulfilling Prophecy
+Rahadin is a very cautious man, on his way to becoming the Chamberlin to Strahd himself, he had to perform numerous cunning and evil acts to ensure his success. On one instance, Rahadin heard from a Vistani Prophet, that one day, he will be slain by a devil's child from the Holy Empire of Valentia. So he went to a Tiefling dense part of the empire, the village of Voltane, and killed them all, but did it discretely in order to not draw attention to himself, since the empire has many paladins that he can't handle. He slowly made bad things happen to the village, and pin it onto the Tiefling, and have the villagers eventually kill them themselves. It worked, except Spring survived, a lone survivor, Rahadin could have never expected such thing, and now she's come for him.
 
 ### Hunter
 idk
@@ -90,7 +93,7 @@ Soren sees signs of a green dragon -> Syltharaxis visits Soren -> Strahd comes a
 - "I miss you, alright? You've been gone for so long, and the house just feels so empty..."
 - A single tear drops from her eye
 - "Look, if something were to happen to you, I will never forgive myself, so please, come home..."
-- Soren will say no, and Syltharaxis will walk away
+- Soren will say no, and Syltharaxis will spawn wings and fly away
 
 ##### Strahd comes and fights pcs
 For whatever reason, but probably one of the following:
@@ -100,7 +103,9 @@ For whatever reason, but probably one of the following:
 
 ##### Syltharaxis sacrifices herself
 - Syltharaxis comes to the rescue, and takes the players and flies away, her goal is to make sure Soren makes it out alive. 
-- Strahd catches up, and so Syltharaxis drops the players into the forest below, and engages with Strahd to buy time.
+- Strahd catches up, and so Syltharaxis drops the players into the forest below, and engages with Strahd to buy time while the players escape.
+- If the players want to fight, then let it play out, and have Strahd target Syltharaxis. The moment Syltharaxis is about to die, she will cast one last spell and teleport everyone except herself away, giving Soren one last smile before everything fades. The teleportation is not perfect, and the players get split up into two groups, one lands beside Tser Falls, and another into the waters of Lake Zarovich
+- Later on, the corpse of Syltharaxis will be used by Rahadin to create Dracolich.
 
-#### Syltharaxis, the Hoarder
+#### Syltharaxis: The Hoarder
 Syltharaxis was enraged to see her son missing, and set out to find him and bring him home. After some searching, she heard from some Vistani that her son is stuck in Barovia, so she did some research, and came to Barovia to find him. She got here because of her friend's friend, who is a Vistani. Syltharaxis loves her son, but she is also manipulative and overcontrolling. She will try her best to guilt trip her son or any other necessary means to get her son back home, even if that's kind of evil. 

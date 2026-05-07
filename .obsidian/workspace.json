@@ -22,20 +22,35 @@
             }
           },
           {
-            "id": "b74dfb2ba4f36902",
+            "id": "988d3a41a29e6969",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Notes.md",
+                "file": "Book/Chapter 2 - The Lands of Barovia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Chapter 2 - The Lands of Barovia"
+            }
+          },
+          {
+            "id": "9b99470971c0147a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Chapter 9 - Tsolenka Pass.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 9 - Tsolenka Pass"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +116,7 @@
       {
         "id": "db5570bc8608711a",
         "type": "tabs",
-        "dimension": 26.609029779058595,
+        "dimension": 61.53846153846154,
         "children": [
           {
             "id": "f1be62bcdf1fbb59",
@@ -157,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Backstories.md",
+                "file": "Book/Chapter 9 - Tsolenka Pass.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Backstories"
+              "title": "Outline of Chapter 9 - Tsolenka Pass"
             }
           },
           {
@@ -192,7 +207,7 @@
       {
         "id": "a6a8de0d91a61341",
         "type": "tabs",
-        "dimension": 19.21229586935639,
+        "dimension": 19.230769230769234,
         "children": [
           {
             "id": "46d7ab96047d3e3a",
@@ -220,7 +235,7 @@
       {
         "id": "7d1c8afc9636a06e",
         "type": "tabs",
-        "dimension": 54.17867435158501,
+        "dimension": 19.230769230769234,
         "children": [
           {
             "id": "d5c725d7cfd5f755",
@@ -253,10 +268,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d5c725d7cfd5f755",
+  "active": "9b99470971c0147a",
   "lastOpenFiles": [
-    "DM Stuff/Notes.md",
     "DM Stuff/Backstories.md",
+    "Book/Chapter 7 - Argynvostholt.md",
+    "Book/Chapter 2 - The Lands of Barovia.md",
+    "DM Stuff/Notes.md",
+    "Images/Chapter 2 - The Lands of Barovia/Barovia Map.jpg",
     "DM Stuff/Custom Worldbuilding/Demiplanes of Dread.md",
     "Book/Appendix E - Tarokka Deck.md",
     "Gets Recognized.md",
@@ -266,8 +284,6 @@
     "DM Stuff/Custom Worldbuilding/The Forest Folk.md",
     "DM Stuff/Links.md",
     "DM Stuff/Progression.md",
-    "Book/Chapter 2 - The Lands of Barovia.md",
-    "Images/Chapter 2 - The Lands of Barovia/Barovia Map.jpg",
     "Book/Chapter 6 - Old Bonegrinder.md",
     "Book/Chapter 9 - Tsolenka Pass.md",
     "Book/Chapter 12 - The Wizard of Wines.md",
@@ -276,12 +292,10 @@
     "Book/Chapter 15 - Werewolf Den.md",
     "Book/Chapter 11 - Van Richten's Tower.md",
     "Book/Chapter 8 -  The Village of Krezk.md",
-    "Book/Chapter 7 - Argynvostholt.md",
     "Book/Chapter 5 - The Town of Vallaki.md",
     "Book/Chapter 1 - Into the Mists.md",
     "Book/Chapter 4 - Castle Ravenloft.md",
     "DM Stuff/Custom Worldbuilding/The Dark Powers.md",
-    "Book/Appendix B - Death House.md",
     "Images/Chapter 4 - Castle Ravenloft/Cyrus Bellview.jpg",
     "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Walls Map.png",
     "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Spires Map.jpg",
