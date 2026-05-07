@@ -45,9 +45,9 @@ Story beats: Gets recognized -> Find Vasili -> Conversation
 	- "Have you guys heard of the ladies three?"
 	- "They're extremely powerful archfeys who watched over this valley a long time ago"
 	- "There's The Weaver of the Swamp Fane, The Huntress of the Mountain Fane, and The Seeker of the Forest Fane"
-	- "They each have a shrine dedicated in their name, and a gem that signifies their immense power, but they've been desecrated."
-	- "Their gems were stolen by Strahd, and given to his followers. By doing so, Strahd has stolen their power, and used them for his own gains."
-	- "Take their gems back to their shrine, reconsecrate them, and Strahd will be mortal."
+	- "They each have a shrine dedicated in their name, but they've been desecrated."
+	- "Strahd concentrated their power into three gems, and gave them to his followers. By doing so, Strahd has stolen their power, and used them for his own gains."
+	- "Take their gems back to their shrine, reconsecrate them, and Strahd will be mortal once more."
 	- "And you, Vasily, fate has brought you here, you are one of us, you are a Barovians, and you're destined to come back, slay Strahd, and free your people, free Barovia."
 
 #### Backstory: The Knight of All Barovians
@@ -93,10 +93,14 @@ Soren sees signs of a green dragon -> Syltharaxis visits Soren -> Strahd comes a
 - Soren will say no, and Syltharaxis will walk away
 
 ##### Strahd comes and fights pcs
-For whatever reason, but probably the following:
+For whatever reason, but probably one of the following:
 - Party got the tome of Strahd
 - Party is somehow close to getting Ireena to permeant safety / escape from Barovia
-- 
+- Party just killed the wintersplinter and got the second gem, but before they long rest
+
+##### Syltharaxis sacrifices herself
+- Syltharaxis comes to the rescue, and takes the players and flies away, her goal is to make sure Soren makes it out alive. 
+- Strahd catches up, and so Syltharaxis drops the players into the forest below, and engages with Strahd to buy time.
 
 #### Syltharaxis, the Hoarder
 Syltharaxis was enraged to see her son missing, and set out to find him and bring him home. After some searching, she heard from some Vistani that her son is stuck in Barovia, so she did some research, and came to Barovia to find him. She got here because of her friend's friend, who is a Vistani. Syltharaxis loves her son, but she is also manipulative and overcontrolling. She will try her best to guilt trip her son or any other necessary means to get her son back home, even if that's kind of evil. 
