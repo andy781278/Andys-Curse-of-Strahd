@@ -1,6 +1,6 @@
 - The Dark Power that rules over Lamordia is named Tenebrous
 - He is cold and calculated, prefers precision over emotions, prefers efficiency, and knows a lot about engineering, science, and dislikes religion and faith.
-- Tenebrous' main goal is control and structure. He seeks to conquer the world in order to make it perfect in his vision. Pure Si.
+- Tenebrous' main goal is control and structure. He seeks to conquer the world in order to make it perfect in his vision. Pure Ni.
 - In his perfect world: Light Yagami-esque heaven free of criminals
 	- every criminal is destroyed the minute it has even the thought of doing a crime: thoughtcrime
 	- everyone has absolute moral standards that they expect of society and themselves

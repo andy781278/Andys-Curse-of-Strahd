@@ -410,6 +410,10 @@
     },
     "Images/DM": {
       "children": [
+        "Images/DM/Adelaide, the dark lord of Tenebrous.png",
+        "Images/DM/Tenebrous.png",
+        "Images/DM/Vampyr.png",
+        "Images/DM/Vampyr CR28 Stat.png",
         "Images/DM/Lamordia Map.png",
         "Images/DM/CR20 Strahd.png",
         "Images/DM/Player Barovia Map.png",

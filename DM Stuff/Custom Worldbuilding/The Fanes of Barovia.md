@@ -161,13 +161,13 @@ Players should see visions in their sleep from the ladies, one at a time, at som
 > 
 > (fight) you enter a bloody brawl, bare knuckles to knuckles, everything's on the table
 > (no fight) "You have no choice, you don't fight, you lose them!"
-> - You see beside you, to your right, just outside the ring, your friends, all on a noose, and an executioner with the level, about to pull
+> - You see beside you, to your right, just outside the ring, your friends, all on a noose, and an executioner with the level, about to pull, the bell tolls
 > - To your left, your family, cornered by human soldiers with spears, crying for help, awoooooooo
 > - Again, the audience riles and screams, begging to fight, begging for violence
 > (win) You gain the upper hand, delivered an awful haymaker, and she falls to the floor
 > (lose) You are overwhelmed by her attacks, she breaks your jaw, then inverts your spine
 > You look around and see the mist fading, you see audience's faces, they were all bare-chested and tattooed warriors. You're on a hill, and to your left, you see a white fortress on a hill above a great city. The city appears quite distant, maybe a mile away. The fog obscures all detail, but you can hear what sounds like the echo of a church bell.
-> You look back and see the woman, she says, "The fight is not over"
+> You look back and see the woman, her arm extended to you, she says, "The fight is not yet over"
 > And suddenly you're jolted awake, not noticing that you're in your werewolf form
 
 > [!cite] Hunter Reconsecration

@@ -1,5 +1,5 @@
 ### Vasily
-Story beats: Gets recognized -> Find Vasili -> Conversation
+Gets recognized -> Find Vasili -> Conversation
 
 ##### Gets Recognized
 ^e63aa2
@@ -54,16 +54,74 @@ Story beats: Gets recognized -> Find Vasili -> Conversation
 Vasili Von Holtz, born in the Village of Barovia, was a kind lad. He befriended a Vistani, one of the only good ones, called Radu Cala. Radu experienced tragedy because of Strahd, and swore to never work for him again. They teamed up and hatched a scheme to outsmart Strahd by luring him with Marina, one of Ireena's past reincarnations. They distracted him while bringing dozens of Barovian refugees outside the mist, giving them freedom, one of which is Vasili's lover, who carried his child. Vasili could have gone too, but he chose to remain, as he realized there is a method to kill Strahd once and for all, and had to investigate it. He went to all the consecrated sites of the fanes, spoke to them in his dreams, and discovered the truth: that reconsecrating the fanes shall remove Strahd of his godly status, and make him vulnerable. He used the stones of sending to tell Radu that he found something critical, but didn't specify what, cause not enough words. But alas, Strahd returned and killed him before he could tell this to anyone. He is revered as a hero by all Barovians, and is named the Knight of All Barovians. They made him a sarcophagi, and put him in the basement of the church in the Village of Barovia. But Strahd, in fear of someone finding out his secret, tried to destroy the corpse, but failed, because the corpse was protected by the morning lord. So instead, he put Vasili's sarcophagi (somewhere). He then taunts Barovians by wearing Vasili's face, and pretending to be him.
 
 ### Spring
+Rahadin Nightmare -> Weaver Fane tells Spring the truth -> Confrontation in Amber Temple
+##### Rahadin Nightmare
+- Spring sleeps and has a dream
+- She is back in her village, having fun with her family and friends
+- Suddenly darkness surrounds her, and in the blink of an eye, the scene shifts, and she sees her family, now tied to a pole, and the rest of the village screaming and throwing stones at them as they start to bleed and scream out in pain
+- The Tiefling melt to goo and disappear
+- Blink, and now Spring is tied to the pole, she can struggle and can free herself with athletics (18).
+- Crowd point and laugh
+	- "Loser! Freak!"
+	- "You can't even protect your family!"
+	- "Look at her! So pathetic!"
+	- "Do you really think you can avenge them? You can't even talk to people!"
+- Spring spots a familiar looking girl amongst the crowd, expressionless
+	- A little shorter and sprite-like in appearance. She has a giggly, playful air about her. The Weaver has yellow-green skin that's a bit more reminiscent of bile and her dark hair floats around her head as if perpetually underwater. Her mouth sports two rows of sharp, shark-like teeth.
+- The girl mouths some words, it's unintelligible
+- Somewhere far away, you see a familiar man. Though his face is shrouded in darkness, you can see his two sharp glaring eyes.
+- You wake up in a cold sweat, hidden Cha Save (16) to not cry.
 
+##### Weaver Fane
+- After reconsecrating the Weaver Fane, she informs Spring of who truly caused the death of her Tiefling family and friends, it was Rahadin, the Chamberlin of Strahd.
+- Then she explains the whole prophecy and story such and such.
+
+##### Confrontation
+- The confrontation will likely take place in the Amber Temple.
+- I mean, there's lowkey nothing to write here except that Rahadin will be very surprised.
+- He goes through 5 stages of grief, but 3 stages bc its short so whatever
+- Denial
+	- This can't be, you can't be, I thought I made sure you were all dead.
+- Anger
+	- You will not defeat me! I have too much to lose!
+- Acceptance
+	- He accepts his death in his final moments and closes his eyes for the final hit by Spring
 
 #### Rahadin, The Self-fulfilling Prophecy
-Rahadin is a very cautious man, on his way to becoming the Chamberlin to Strahd himself, he had to perform numerous cunning and evil acts to ensure his success. On one instance, Rahadin heard from a Vistani Prophet, that one day, he will be slain by a devil's child from the Holy Empire of Valentia. So he went to a Tiefling dense part of the empire, the village of Voltane, and killed them all, but did it discretely in order to not draw attention to himself, since the empire has many paladins that he can't handle. He slowly made bad things happen to the village, and pin it onto the Tiefling, and have the villagers eventually kill them themselves. It worked, except Spring survived, a lone survivor, Rahadin could have never expected such thing, and now she's come for him.
+Rahadin is a very cautious man, on his way to becoming the Chamberlin to Strahd himself, he had to perform numerous cunning and evil acts to ensure his success. On one instance, Rahadin heard from a Vistani Prophet, that one day, he will be slain by a devil's child from the Holy Empire of Valentia. So he went to a Tiefling dense part of the empire, the village of Voltane, and killed them all, but did it discretely in order to not draw attention to himself, since the empire has many paladins that he can't handle. He slowly made bad things happen to the village, and pin it onto the Tiefling, and have the villagers eventually kill them themselves. It worked, except Spring survived, a lone survivor, Rahadin could have never expected such thing, and now she's coming for him.
 
 ### Hunter
 idk
 
 ### Adelaide
-tenny stuff
+##### Vestiges Refuse Her
+- At the amber temple, the vestiges of the dark powers will offer power to anyone except Adelaide, as they sense Tenebrous within her, and refuses to give her power knowing that she'll give no worthy returns if they invest. Tenebrous is one of the more difficult dark powers to deal with, although he is nowhere near the top, he is cautious and precise, and will never lose control of his pawns.
+
+##### Reveal
+- When Strahd is defeated, and about to be staked in his coffin, Vampyr will stop the stake, and emerge from Strahd as a dark ominous shadowy figure, and offer the players a chance to replace Strahd.
+- [[Vampyr.png]]
+- If all players refuse, Vampyr will become enraged, emerge from the shadows, and have a final battle with the players.
+- This part can be non-combat  gameplay wise, as the players are probably tired after fighting a huge final boss, so this can be just wordplay.
+	- If they do want to fight, use the CR 28 stat block. [[Vampyr CR28 Stat.png]]
+	- When the players are about to lose, bc there's no way they win this one, Tenebrous pops up from within Adelaide, and revives everyone and sets them to full hp.
+	- He then hastes everyone, and puts bright sunlight everywhere.
+	- He also gives everyone +5AC and +5 bonus to any rolls
+- When Vampyr is defeated, he screams in agony and vaporizes to a pile of dust
+- Everyone falls tired as fuck, Adelaide realizes the power came from within her, and Tenebrous comes out of her eye and projects himself into reality
+- [[Tenebrous.png]]
+- Everyone can see him, but he ignores everyone and talks to Adelaide only
+- His goal is to convince Adelaide to join him in a world of perfection, where no more crimes, inequality, everything will be equal, everyone will be happy, no more tyrants. And all she needs to do is say yes to make it a reality in Barovia. They will fix this land together.
+- If she agrees, then Tenebrous goes back inside her, and she takes a transformation, changes her color design to blue, her eyes glow blue white. She floats in the air. She gets new clothes: Blue and white robes.
+	- Adelaide loses her identity, and now she embodies perfection and control.
+	- She takes the stat of [[Adelaide, the dark lord of Tenebrous.png]]
+	- Her first objective is to get rid of the characters in any way she sees fit.
+		- She can kill them, or she can open up the borders, and teleport them out in however way she likes.
+- If she disagrees, Tenebrous frowns
+	- "you're making this more difficult than it needs to be, don't you see? This is everything you've ever wanted."
+	- If she physically alters him, then he disappears. Her docent shatters into smithereens, and she is free of Tenebrous. Although she suspects that Tenebrous is not quite done with her. (Epilogue?)
+
+#### Tenebrous, The Dark Power of Control
+Tenebrous, as the dark power of control, has perfected his region of Lamordia. As a dark power, he naturally wants to expand, and he set his eyes on Barovia. As one of the oldest regions in the core, Barovia is often forgotten amongst the skirmish and in-fighting between all the dark powers. Taking Barovia should be relatively unchallenged. It's also worth noting that Vampyr is weakening with time since Barovia is losing more souls each day, and unable to create more since it has closed borders. Therefore, Tenebrous saw this opportunity and stepped in. He engineered a perfect infiltrator, an adventurer with a tragic backstory, heaps of ambition, and an easily influenced personality. He chose a recently deceased girl, brought her back to life in a robot, and implanted thoughts in her brain about overthrowing the undeserving like Strahd. He made her turn her own parents in just to be sure that she'll be the perfect specimen. His plan is that at Vampyr's most vulnerable moment, when Strahd is defeated and all is lost, he will personally destroy Vampyr, and force Adelaide to become his dark lord and reign over Barovia as its new ruler.
 
 ### Soren
 Soren sees signs of a green dragon -> Syltharaxis visits Soren -> Strahd comes and fights pcs -> Syltharaxis sacrifices herself to get them to safety
