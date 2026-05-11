@@ -94,6 +94,10 @@ Rahadin is a very cautious man, on his way to becoming the Chamberlin to Strahd 
 idk
 
 ### Adelaide
+Arc: Tenny needs to steer Adelaide's morals towards more direct control rather than just slay the corrupt. After that is done, the ending will make more sense.
+
+
+
 ##### Vestiges Refuse Her
 - At the amber temple, the vestiges of the dark powers will offer power to anyone except Adelaide, as they sense Tenebrous within her, and refuses to give her power knowing that she'll give no worthy returns if they invest. Tenebrous is one of the more difficult dark powers to deal with, although he is nowhere near the top, he is cautious and precise, and will never lose control of his pawns.
 
@@ -111,14 +115,16 @@ idk
 - [[Tenebrous.png]]
 - Everyone can see him, but he ignores everyone and talks to Adelaide only
 - His goal is to convince Adelaide to join him in a world of perfection, where no more crimes, inequality, everything will be equal, everyone will be happy, no more tyrants. And all she needs to do is say yes to make it a reality in Barovia. They will fix this land together.
-- If she agrees, then Tenebrous goes back inside her, and she takes a transformation, changes her color design to blue, her eyes glow blue white. She floats in the air. She gets new clothes: Blue and white robes.
+- If she agrees, she and Tenebrous melts together into one.
+	- She transforms, changes her color design to blue, her eyes glow blue white. She floats in the air. She gets new clothes: Blue and white robes. The seams on her robotic body glows light.
 	- Adelaide loses her identity, and now she embodies perfection and control.
 	- She takes the stat of [[Adelaide, the dark lord of Tenebrous.png]]
 	- Her first objective is to get rid of the characters in any way she sees fit.
 		- She can kill them, or she can open up the borders, and teleport them out in however way she likes.
 - If she disagrees, Tenebrous frowns
 	- "you're making this more difficult than it needs to be, don't you see? This is everything you've ever wanted."
-	- If she physically alters him, then he disappears. Her docent shatters into smithereens, and she is free of Tenebrous. Although she suspects that Tenebrous is not quite done with her. (Epilogue?)
+	- If she attacks him, then he disappears.
+	- Her docent shatters into smithereens, and she is free of Tenebrous, but she loses all her powers, and becomes just a regular robot. Although she suspects that Tenebrous is not quite done with her. (Epilogue?)
 
 #### Tenebrous, The Dark Power of Control
 Tenebrous, as the dark power of control, has perfected his region of Lamordia. As a dark power, he naturally wants to expand, and he set his eyes on Barovia. As one of the oldest regions in the core, Barovia is often forgotten amongst the skirmish and in-fighting between all the dark powers. Taking Barovia should be relatively unchallenged. It's also worth noting that Vampyr is weakening with time since Barovia is losing more souls each day, and unable to create more since it has closed borders. Therefore, Tenebrous saw this opportunity and stepped in. He engineered a perfect infiltrator, an adventurer with a tragic backstory, heaps of ambition, and an easily influenced personality. He chose a recently deceased girl, brought her back to life in a robot, and implanted thoughts in her brain about overthrowing the undeserving like Strahd. He made her turn her own parents in just to be sure that she'll be the perfect specimen. His plan is that at Vampyr's most vulnerable moment, when Strahd is defeated and all is lost, he will personally destroy Vampyr, and force Adelaide to become his dark lord and reign over Barovia as its new ruler.
