@@ -127,7 +127,19 @@ Arc: Tenny needs to steer Adelaide's morals towards more direct control rather t
 	- Her docent shatters into smithereens, and she is free of Tenebrous, but she loses all her powers, and becomes just a regular robot. Although she suspects that Tenebrous is not quite done with her. (Epilogue?)
 
 #### Tenebrous, The Dark Power of Control
-Tenebrous, as the dark power of control, has perfected his region of Lamordia. As a dark power, he naturally wants to expand, and he set his eyes on Barovia. As one of the oldest regions in the core, Barovia is often forgotten amongst the skirmish and in-fighting between all the dark powers. Taking Barovia should be relatively unchallenged. It's also worth noting that Vampyr is weakening with time since Barovia is losing more souls each day, and unable to create more since it has closed borders. Therefore, Tenebrous saw this opportunity and stepped in. He engineered a perfect infiltrator, an adventurer with a tragic backstory, heaps of ambition, and an easily influenced personality. He chose a recently deceased girl, brought her back to life in a robot, and implanted thoughts in her brain about overthrowing the undeserving like Strahd. He made her turn her own parents in just to be sure that she'll be the perfect specimen. His plan is that at Vampyr's most vulnerable moment, when Strahd is defeated and all is lost, he will personally destroy Vampyr, and force Adelaide to become his dark lord and reign over Barovia as its new ruler.
+Tenebrous, as the dark power of control, has perfected his region of Lamordia. As a dark power, he naturally wants to expand, and he set his eyes on Barovia. As one of the oldest regions in the core, Barovia is often forgotten amongst the skirmish and in-fighting between all the dark powers. Taking Barovia should be relatively unchallenged. It's also worth noting that Vampyr is weakening with time since Barovia is losing more souls each day, and unable to create more since it has closed borders. Therefore, Tenebrous saw this opportunity and stepped in.
+
+He set his sights on potential infiltrator candidates in Lamordia, and landed on Adelaide, the daughter of the Mccoy family, the richest nobles of Lamordia. Adelaide was an expert at management, she micro-manages her farm to a tee, and was very overcontrolling. She would be perfect to run Barovia, but she is too independent and stubborn as a person, so she needs some work.
+
+Tenny is an expert at mind control, so he plans to pull a 1984, and absolutely destroys her mental in order to make her love him. In order to do that, he first needs her to live a happy life, and experience good things that makes life good and joyous. 
+
+Tenny destroyed her, and blamed her death on her overworked employees. He took her soul and put it in a new similar looking body, but restricted all her memories.
+
+He then let her live life the way she wanted to, because he wanted her 
+
+Revvy needs to die
+
+engineered a perfect infiltrator, an adventurer with a tragic backstory, heaps of ambition, and an easily influenced personality. He chose a recently deceased girl, brought her back to life in a robot, and implanted thoughts in her brain about overthrowing the undeserving like Strahd. He made her turn her own parents in just to be sure that she'll be the perfect specimen. His plan is that at Vampyr's most vulnerable moment, when Strahd is defeated and all is lost, he will personally destroy Vampyr, and force Adelaide to become his dark lord and reign over Barovia as its new ruler.
 
 ### Soren
 Soren sees signs of a green dragon -> Syltharaxis visits Soren -> Strahd comes and fights pcs -> Syltharaxis sacrifices herself to get them to safety
