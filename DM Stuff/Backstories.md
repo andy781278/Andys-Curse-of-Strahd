@@ -73,8 +73,13 @@ Rahadin Nightmare -> Weaver Fane tells Spring the truth -> Confrontation in Ambe
 - You wake up in a cold sweat, hidden Cha Save (16) to not cry.
 
 ##### Weaver Fane
-- After reconsecrating the Weaver Fane, she informs Spring of who truly caused the death of her Tiefling family and friends, it was Rahadin, the Chamberlin of Strahd.
-- Then she explains the whole prophecy and story such and such.
+- After reconsecrating the Weaver Fane, she tells Spring she can help uncovering the person who caused the death of her family, it's in a nightmare that she has every night, she just needs to let it play, and embrace the fear.
+- The nightmare happens again, but this time she can free herself and chase down that man, then she can beat him up with weaver, together.
+- After that's done, she sees his face, it's a dusk elf, middle aged, long hair, pompous face, and a scar across his forehead. You hear the screams of thousands of souls coming from him, just by looking at him, he's got an aura of pure evil.
+	- If the party remembers, they'll know who it is, Rahadin.
+
+##### Journey to find out why
+- 
 
 ##### Confrontation
 - The confrontation will likely take place in the Amber Temple.
@@ -94,9 +99,39 @@ Rahadin is a very cautious man, on his way to becoming the Chamberlin to Strahd 
 idk
 
 ### Adelaide
-Arc: Tenny needs to steer Adelaide's morals towards more direct control rather than just slay the corrupt. After that is done, the ending will make more sense.
+Arc: Tenny needs to steer Adelaide's morals towards more direct control rather than just slay the corrupt. After that is done, the ending will make more sense. To do this, Revvy needs to die, monkey needs to die, she needs to have conflict with her friends that drives them away from her because of her morals.
 
+##### Adelaide regains some of her old memories
+- In Vallaki, before [[#Gets Recognized]]. 
+- Adelaide witnesses an employee beating his boss, he's cowering in the corner, and the employee takes a hammer and shoves it into his eye, he screams in agony.
+	- The employee then takes out the hammer with eyeball still attached.
+	- Employee gets a chance for revenge amidst the chaos of the town being burned down
+- PTSD: a memory of the past resurfaces, this time she's the boss, cowering, and the employee is beating her up.
+- Trembles in fear and shit
+- Throughout the day, more visions, memories of being beat up, but also, memories of beating up others, other underlings, employees, for inefficiency.
+- Tenny did not intend this, but can't avoid it, so he lets her have some of the memories back
+- Tenny, if asked, will say that some parts of her brain that's been lost is resurfacing from this PTSD, and thus he can retrieve more that he couldn't do before, and can do so
+- If done so, Adelaide will have to battle through her memory to remember, meanwhile learning spells from such memories. It's painful
+- Memories:
+	- She manages a farm, she was really good at it
+	- She does magic on the side, learning 
+	- the farm runs at perfect efficiency, the good is rewarded, and the bad is punished or cast out
+	- She has used magic to whip, punish, survey, and control
+	- Some employees are unhappy, and one day, they sneak into her dorm with a hammer, and absolutely destroy her, taking her eye out with their hammer.
+		- She couldn't cast magic, and didn't know why
+- If she is unsure of her morality, Tenny tells her that in life, she used to be a cruel dictator that she now hates, but she saw good in the farm, which helped feed a lot of people because of its efficiency. There are good and bad to both sides, and what she wants to do now is up to her. She just needs to know that he's here with her to support her whatever she wants to do.
 
+##### Monkey Do Cool Things
+- Monkey Piccolo shall do the following
+	- Find clues for the party about current goals
+	- help in combat by giving enemies disadvantage
+	- Steals from the rich and gives to the poor, somehow
+	- Finds gifts for Adelaide, even though it's not much
+
+##### Monke Die
+- At Adelaide's most depressing moment, Monke dies, without reason, just dies.
+- Secretly, Tenny killed him, just so it can fully breakdown her.
+- It seems like he ran off, and then some wolves got to him, wolves that were likely controlled by Strahd.
 
 ##### Vestiges Refuse Her
 - At the amber temple, the vestiges of the dark powers will offer power to anyone except Adelaide, as they sense Tenebrous within her, and refuses to give her power knowing that she'll give no worthy returns if they invest. Tenebrous is one of the more difficult dark powers to deal with, although he is nowhere near the top, he is cautious and precise, and will never lose control of his pawns.
@@ -135,7 +170,7 @@ Tenny is an expert at mind control, so he plans to pull a 1984, and absolutely d
 
 Tenny killed her, and blamed her death on her overworked employees. He took her soul and put it in a new similar looking body, but restricted all her memories, and only gives it back if she loves him completely, or if its strategic.
 
-Revvy needs to die, monkey needs to die, she needs to have conflict with her friends that drives them away from her because of her morals.
+Revvy needs to die, monkey needs to die, she needs to have conflict with her friends that drives them away from her because of her morals. Once all of that is accomplished, there is really nothing left for her but Tenny, that is the perfect moment.
 
 His plan is that at Vampyr's most vulnerable moment, when Strahd is defeated and Barovia is free, he'll make Adelaide a new dark lord and reign over Barovia as its new ruler under him.
 
