@@ -47,7 +47,8 @@
               "title": "Rahadin"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 266.5
   },
   "right": {
     "id": "3b1b051cf0e921f3",
@@ -169,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Timeline.md",
+                "file": "DM Stuff/Backstories.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Timeline"
+              "title": "Outline of Backstories"
             }
           },
           {
@@ -231,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,10 +250,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9da8b9bcaff4a9f0",
+  "active": "6a7f8768919b6a0b",
   "lastOpenFiles": [
-    "DM Stuff/Backstories.md",
     "DM Stuff/Timeline.md",
+    "DM Stuff/Backstories.md",
     "Book/Appendix D - Monsters and NPCs/Rahadin.md",
     "Book/Appendix D - Monsters and NPCs/Phantom Warrior.md",
     "Book/Appendix D - Monsters and NPCs/Mongrelfolk.md",

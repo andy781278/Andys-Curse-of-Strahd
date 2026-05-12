@@ -54,7 +54,7 @@ Gets recognized -> Find Vasili -> Conversation
 Vasili Von Holtz, born in the Village of Barovia, was a kind lad. He befriended a Vistani, one of the only good ones, called Radu Cala. Radu experienced tragedy because of Strahd, and swore to never work for him again. They teamed up and hatched a scheme to outsmart Strahd by luring him with Marina, one of Ireena's past reincarnations. They distracted him while bringing dozens of Barovian refugees outside the mist, giving them freedom, one of which is Vasili's lover, who carried his child. Vasili could have gone too, but he chose to remain, as he realized there is a method to kill Strahd once and for all, and had to investigate it. He went to all the consecrated sites of the fanes, spoke to them in his dreams, and discovered the truth: that reconsecrating the fanes shall remove Strahd of his godly status, and make him vulnerable. He used the stones of sending to tell Radu that he found something critical, but didn't specify what, cause not enough words. But alas, Strahd returned and killed him before he could tell this to anyone. He is revered as a hero by all Barovians, and is named the Knight of All Barovians. They made him a sarcophagi, and put him in the basement of the church in the Village of Barovia. But Strahd, in fear of someone finding out his secret, tried to destroy the corpse, but failed, because the corpse was protected by the morning lord. So instead, he put Vasili's sarcophagi (somewhere). He then taunts Barovians by wearing Vasili's face, and pretending to be him.
 
 ### Spring
-Rahadin Nightmare -> Weaver Fane tells Spring the truth -> Confrontation in Amber Temple
+Rahadin Nightmare -> Weaver Fane helps Spring -> track down -> Confrontation in Amber Temple
 ##### Rahadin Nightmare
 - Spring sleeps and has a dream
 - She is back in her village, having fun with her family and friends
@@ -70,6 +70,7 @@ Rahadin Nightmare -> Weaver Fane tells Spring the truth -> Confrontation in Ambe
 	- A little shorter and sprite-like in appearance. She has a giggly, playful air about her. The Weaver has yellow-green skin that's a bit more reminiscent of bile and her dark hair floats around her head as if perpetually underwater. Her mouth sports two rows of sharp, shark-like teeth.
 - The girl mouths some words, it's unintelligible
 - Somewhere far away, you see a familiar man. Though his face is shrouded in darkness, you can see his two sharp glaring eyes.
+- On his chest, there is a symbol for the castle of raven-loft sewn on his clothes.
 - You wake up in a cold sweat, hidden Cha Save (16) to not cry.
 
 ##### Weaver Fane
@@ -93,7 +94,11 @@ Rahadin Nightmare -> Weaver Fane tells Spring the truth -> Confrontation in Ambe
 	- He accepts his death in his final moments and closes his eyes for the final hit by Spring
 
 #### Rahadin, The Self-fulfilling Prophecy
-Rahadin is a very cautious man, on his way to becoming the Chamberlin to Strahd himself, he had to perform numerous cunning and evil acts to ensure his success. On one instance, Rahadin heard from a Vistani Prophet, that one day, he will be slain by a devil's child from the Holy Empire of Valentia. So he went to a Tiefling dense part of the empire, the village of Voltane, and killed them all, but did it discretely in order to not draw attention to himself, since the empire has many paladins that he can't handle. He slowly made bad things happen to the village, and pin it onto the Tiefling, and have the villagers eventually kill them themselves. It worked, except Spring survived, a lone survivor, Rahadin could have never expected such thing, and now she's coming for him.
+Rahadin is a very cautious man, on his way to becoming the Chamberlin to Strahd himself, he had to perform numerous cunning and evil acts to ensure his success. On one instance, Rahadin heard from a Vistani Prophet, that one day, he will be slain by a devil's child from the village of Voltane in the Holy Empire of Valentia. So he went to a Tiefling dense part of the empire, the village of Voltane, and killed them all, but did it discretely in order to not draw attention to himself, since the empire has many paladins that he can't handle.
+
+He hired an informant, an insider, a spy. A local from Voltane who is racist and holds grudges against Tiefling already, and is itching to get rid of them. He helped Rahadin by forging a plan: stolen items mysterious appear in Tiefling areas, bad crop cycles, cows die. The needle on the haystack is when a child dies of disease, because they went out to play in the wildness along with some Tiefling children, but the Tieflings were fine. The villagers were enraged, and rounded every Tiefling up to be tied to a pole in town square. Knowing what will happen, they helped the smallest child to safety: Spring. They helped her jump over the village walls, and gave her supplies, told her to go to the nearest town and seek shelter and live a good life. Before Spring left, he saw the informant's face and clothing, and she knew from his guilty expression when they made eye contact, that he's the cause of this.
+
+He slowly made bad things happen to the village, and pin it onto the Tiefling, and have the villagers eventually kill them themselves. It worked, except Spring survived, a lone survivor, Rahadin could have never expected such thing, and now she's coming for him.
 
 ### Hunter
 idk
