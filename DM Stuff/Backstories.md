@@ -74,10 +74,10 @@ Rahadin Nightmare -> Weaver Fane helps Spring -> track down -> Confrontation in 
 - You wake up in a cold sweat, hidden Cha Save (16) to not cry.
 
 ##### Weaver Fane
-- After reconsecrating the Weaver Fane, she tells Spring she can help uncovering the person who caused the death of her family, it's in a nightmare that she has every night, she just needs to let it play, and embrace the fear.
+- After reconsecrating the Weaver Fane, Spring will have the same nightmare again, but this time Weaver is there, tells Spring she can help uncovering the person who caused the death of her family, it's in a nightmare that she has every night, she just needs to let it play, and embrace the fear.
 - The nightmare happens again, but this time she can free herself and chase down that man, then she can beat him up with weaver, together.
-- After that's done, she sees his face, it's a dusk elf, middle aged, long hair, pompous face, and a scar across his forehead. You hear the screams of thousands of souls coming from him, just by looking at him, he's got an aura of pure evil.
-	- If the party remembers, they'll know who it is, Rahadin.
+- After that's done, she sees his face as the mist finally clears up.
+	- It's a drunken old man, frizzled face, gray hair, and a black jacket with a silver patch on the shoulder showcasing a raven in flight. [[Ravenloft Patch.png]]
 
 ##### Journey to find out why
 - 
@@ -96,9 +96,9 @@ Rahadin Nightmare -> Weaver Fane helps Spring -> track down -> Confrontation in 
 #### Rahadin, The Self-fulfilling Prophecy
 Rahadin is a very cautious man, on his way to becoming the Chamberlin to Strahd himself, he had to perform numerous cunning and evil acts to ensure his success. On one instance, Rahadin heard from a Vistani Prophet, that one day, he will be slain by a devil's child from the village of Voltane in the Holy Empire of Valentia. So he went to a Tiefling dense part of the empire, the village of Voltane, and killed them all, but did it discretely in order to not draw attention to himself, since the empire has many paladins that he can't handle.
 
-He hired an informant, an insider, a spy. A local from Voltane who is racist and holds grudges against Tiefling already, and is itching to get rid of them. He helped Rahadin by forging a plan: stolen items mysterious appear in Tiefling areas, bad crop cycles, cows die. The needle on the haystack is when a child dies of disease, because they went out to play in the wildness along with some Tiefling children, but the Tieflings were fine. The villagers were enraged, and rounded every Tiefling up to be tied to a pole in town square. Knowing what will happen, they helped the smallest child to safety: Spring. They helped her jump over the village walls, and gave her supplies, told her to go to the nearest town and seek shelter and live a good life. Before Spring left, he saw the informant's face and clothing, and she knew from his guilty expression when they made eye contact, that he's the cause of this.
+He hired an informant, an insider, a spy, named Nimir Belasco. A local from Voltane who is racist and holds grudges against Tiefling already, and is itching to get rid of them. Nimir is like a drunk uncle, he slurs his speech, he is hateful of every stereotype, he hates Jews, Christians, whites, blacks, all kinds of people. He helped Rahadin by forging a plan: stolen items mysterious appear in Tiefling areas, bad crop cycles, cows die. The needle on the haystack is when a child dies of disease, because they went out to play in the wildness along with some Tiefling children, but the Tieflings were fine. The villagers were enraged, and rounded every Tiefling up to be tied to a pole in town square. Knowing what will happen, they helped the smallest child to safety: Spring. They helped her jump over the village walls, and gave her supplies, told her to go to the nearest town and seek shelter and live a good life. Before Spring left, she made eye contact with Nimir Belasco, and saw his face and clothing, and she knew from his guilty expression that he's the cause of this. Nimir was traumatized by the treatment of the Tieflings, and regretted his actions. He can't stop thinking about that Tiefling child who made it out, wondering is she's coming for him, and he drinks himself to forget every day. He got in some trouble with the local authority, and begged Rahadin to be let inside Barovia, where no law can reach him. After that, he just chilled from town to town.
 
-He slowly made bad things happen to the village, and pin it onto the Tiefling, and have the villagers eventually kill them themselves. It worked, except Spring survived, a lone survivor, Rahadin could have never expected such thing, and now she's coming for him.
+Rahadin, however, forgot about this whole ordeal, it's just another Tuesday for him. He now lives without worry, and the Tieflings spirit screams admist his aura, along with thousands of others who he has wronged.
 
 ### Hunter
 idk
@@ -220,6 +220,11 @@ For whatever reason, but probably one of the following:
 - Strahd catches up, and so Syltharaxis drops the players into the forest below, and engages with Strahd to buy time while the players escape.
 - If the players want to fight, then let it play out, and have Strahd target Syltharaxis. The moment Syltharaxis is about to die, she will cast one last spell and teleport everyone except herself away, giving Soren one last smile before everything fades. The teleportation is not perfect, and the players get split up into two groups, one lands beside Tser Falls, and another into the waters of Lake Zarovich
 - Later on, the corpse of Syltharaxis will be used by Rahadin to create Dracolich.
+
+##### Dracolich
+- wirte this later
+- After the Dracolich is defeated, Syltharaxis grants Soren her Draconic Gift.
+- https://dnd5e.wikidot.com/draconic-gifts
 
 #### Syltharaxis: The Hoarder
 Syltharaxis was enraged to see her son missing, and set out to find him and bring him home. After some searching, she heard from some Vistani that her son is stuck in Barovia, so she did some research, and came to Barovia to find him. She got here because of her friend's friend, who is a Vistani. Syltharaxis loves her son, but she is also manipulative and overcontrolling. She will try her best to guilt trip her son or any other necessary means to get her son back home, even if that's kind of evil. 
