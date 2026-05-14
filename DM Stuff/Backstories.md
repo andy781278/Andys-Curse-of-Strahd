@@ -78,9 +78,13 @@ Rahadin Nightmare -> Weaver Fane helps Spring -> track down -> Confrontation in 
 - The nightmare happens again, but this time she can free herself and chase down that man, then she can beat him up with weaver, together.
 - After that's done, she sees his face as the mist finally clears up.
 	- It's a drunken old man, frizzled face, gray hair, and a black jacket with a silver patch on the shoulder showcasing a raven in flight. [[Ravenloft Patch.png]]
+- Weaver wants a high five
+- Weaver then says, "The past can't be changed, but what do you want now?"
+- If Spring chooses to forgive, then the arc will end I guess
+- If Spring chooses revenge, then we can continue
 
-##### Journey to find out why
-- 
+##### Find Nimir Belasco
+- Nimir Is currently in the wizard of wines, hiding from druids while drinking, he loves drinking, so he came here looking for alcohol. He got it, sure, but now he's trapped. If he leaves, the druids kill him, so he stays, feeding of of alcohol.
 
 ##### Confrontation
 - The confrontation will likely take place in the Amber Temple.
@@ -98,10 +102,51 @@ Rahadin is a very cautious man, on his way to becoming the Chamberlin to Strahd 
 
 He hired an informant, an insider, a spy, named Nimir Belasco. A local from Voltane who is racist and holds grudges against Tiefling already, and is itching to get rid of them. Nimir is like a drunk uncle, he slurs his speech, he is hateful of every stereotype, he hates Jews, Christians, whites, blacks, all kinds of people. He helped Rahadin by forging a plan: stolen items mysterious appear in Tiefling areas, bad crop cycles, cows die. The needle on the haystack is when a child dies of disease, because they went out to play in the wildness along with some Tiefling children, but the Tieflings were fine. The villagers were enraged, and rounded every Tiefling up to be tied to a pole in town square. Knowing what will happen, they helped the smallest child to safety: Spring. They helped her jump over the village walls, and gave her supplies, told her to go to the nearest town and seek shelter and live a good life. Before Spring left, she made eye contact with Nimir Belasco, and saw his face and clothing, and she knew from his guilty expression that he's the cause of this. Nimir was traumatized by the treatment of the Tieflings, and regretted his actions. He can't stop thinking about that Tiefling child who made it out, wondering is she's coming for him, and he drinks himself to forget every day. He got in some trouble with the local authority, and begged Rahadin to be let inside Barovia, where no law can reach him. After that, he just chilled from town to town.
 
-Rahadin, however, forgot about this whole ordeal, it's just another Tuesday for him. He now lives without worry, and the Tieflings spirit screams admist his aura, along with thousands of others who he has wronged.
+Rahadin, however, forgot about this whole ordeal, it's just another Tuesday for him. He now lives without worry, and the Tieflings spirit screams amidst his aura, along with thousands of others who he has wronged.
 
 ### Hunter
-idk
+Encounter Vase -> Free Bram -> Free Rook
+
+##### Encounter Vase
+- Refer to [[Chapter 14 - Yester Hill]]
+- Around [[Chapter 14 - Yester Hill#Y1. TRAIL]], hiding in the bushes, there's a little girl sneaking around, Perception 18 to see her, make players roll.
+	- She won't immediately recognize Hunter, and is too traumatized to not be aggressive, she'll bark and warn the party to back off.
+	- If things settle down, she approaches
+	- If party leaves, she'll tell them to wait and approach
+- Vase is very happy to reunite with Hunter, who she refers to as big bro
+- Vase wants the players' help with freeing Bram, Vase's sister, another member of Hunter's former pack.
+- Vase does not know how they all got to Barovia, she just remembers falling asleep in a bush one very misty night, and waking up in a completely different forest.
+
+##### Free Bram
+- Refer to [[Chapter 14 - Yester Hill]]
+- Bram is trapped in a wooden cage along side some fruits, meat, and golden jewelry worth 50G, all in front of Strahd's wooden statue. [[Chapter 14 - Yester Hill#Y3. DRUIDS' CIRCLE]]
+- If the players try to free Bram, the hidden enemies will attack
+- If the players wait, then Strahd will show up and the ritual will begin
+- Strahd is not tolerant of the players, and will attack them if he spots them, and take Ireena with him, he'll kill a party member because he feels like it.
+- After Bram is freed, he'll thank the party, reunite with Hunter, but is lowkey a little cold to him. Vase tried to talk to Bram about being nicer to Hunter, who's probably been worried sick, but he doesn't say much.
+- Also before they leave, have the [[Chapter 14 - Yester Hill#BLOOD SPEAR OF KAVAN]] happen, and you can make it a Greatsword / Greataxe IDC nigga
+
+##### Bram Issues
+- Bram is cold to Hunter, but is kind to Vase.
+- Hunter has to make Bram open up by either fighting him to vent emotions and low roll, or be very nice and high roll.
+- Bram expresses his frustration about Hunter leaving them, even thought he knows it's not Hunter's fault, it's the world's fault.
+- They reconcile, and Bram is fine with Hunter again and he wants to have an activity like killing a Strahd minion together, and betting on who can do it better/faster.
+
+##### Free Rook
+- Rook is somwhere in castle ravenloft
+- FIGURE IT OUT LATER
+
+#### Vase, Bram, and Rook
+Vase, Bram, and Rook are what remains of Hunter's pack. No last names, Hunter only got a last name because his monster hunting requires a full legal name, so he made one up. After the pack got separated, they all eventually ended up in Barovia. As werewolves, they can wonder into Barovia by chance, but once they enter, can't leave. They don't have as refined controls as Vistanis when it comes to traversing in and out of Barovia. They eventually found each other and reformed the pack, but they were hunted by local Barovians for food and Vistanis for subjugation to Strahd. Rook sacrificed himself, choosing to join Strahd so Vase and Bram can flee. Rook went to Strahd's castle and got charmed, he roams the castle to this day, following Rahadin's orders. Vase and Bram fled to the wilderness, where Bram attempted to steal food from Yester Hill Druids, but got caught, and trapped, and became a part of the offering to Strahd's statue. Vase didn't get caught, and she plans to enter Yester Hill at night and free her brother.
+
+**Vase**
+Vase is a little innocent girl the age of 9, ESFP. She wears tattered tribal wear made of tiger hide, she has scratches and bruises everywhere. She's very vulgar at her age and will throw slurs around without a care. She likes powerful people, and will attach to anyone who can protect her like a sloth baby clutches to their mother. She admires Hunter, and wants to unite with him, and wants to find him at all costs. She copies people, particularly swears, and tries to imitate them. She's got stats of a half hp werewolf
+
+**Bram**
+Bram is Vase's older brother, ISTP, he's 13. He's also got tattered tribal wear made from a rhino this time, he has a scar on his forehead, and his hair is long, it goes to his shoulder, and he's secretly very proud of it. He's a tryhard, stubborn, head strong, acting before thinking, very low morals but cares for his little sister. Quick to anger and also quick to fight, even though he sucks. He's okay with Hunter, he's angry at him on the surface for not being there for him and his sister, but deep dong he misses Hunter and misses home. He's got stats of a regular werewolf.
+
+**Rook**
+Rook is a gentle giant, he's tall, strong, fat, and cares for his pack, ISFJ. He's wearing tattered tribal wear made from several animals of undiscernible origin. He's got spikey hair, round figure and puffed up cheek. He's speech is slurred because of his fat, it sounds like he's got snot coming out of his throat at every word. He's a glut, he wants food almost all the time, and he is extremely picky, he only wants deep fried potatoes cut into a long thin rod shape, and chicken formed into nuggets, also deep fried. He prefers eating them with tomatoes, but there are no tomatoes in Barovia, so he substitutes it with random blood of critters that he has stored in a bottle. He considers those foods the greatest foods to ever exist, and pretends to be a snob about it, very fancy food he says, the fanciest of foods and everyone should eat nothing but them. He coins the foods with the term: "deep fried fancy potatoes cut in a long thin rod shape and deep fried chicken in a nugget shape form", abbreviated as DFFPCIALTRSADFCIANSF. He's got stats of a 2X hp werewolf.
 
 ### Adelaide
 Arc: Tenny needs to steer Adelaide's morals towards more direct control rather than just slay the corrupt. After that is done, the ending will make more sense. To do this, Revvy needs to die, monkey needs to die, she needs to have conflict with her friends that drives them away from her because of her morals.
