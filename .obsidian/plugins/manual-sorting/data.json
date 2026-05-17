@@ -411,6 +411,8 @@
     },
     "Images/DM": {
       "children": [
+        "Images/DM/Hags Ugly.png",
+        "Images/DM/Hags Attractive.png",
         "Images/DM/Ravenloft Patch.png",
         "Images/DM/Adelaide, the dark lord of Tenebrous.png",
         "Images/DM/Tenebrous.png",

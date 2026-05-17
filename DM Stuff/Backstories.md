@@ -152,24 +152,26 @@ Rook is a gentle giant, he's tall, strong, fat, and cares for his pack, ISFJ. He
 Arc: Tenny needs to steer Adelaide's morals towards more direct control rather than just slay the corrupt. After that is done, the ending will make more sense. To do this, Revvy needs to die, monkey needs to die, she needs to have conflict with her friends that drives them away from her because of her morals.
 
 ##### Adelaide regains some of her old memories
-- In Vallaki, before [[#Gets Recognized]]. 
+- In Vallaki, after [[#Gets Recognized]]. 
 - Adelaide witnesses an employee beating his boss, he's cowering in the corner, and the employee takes a hammer and shoves it into his eye, he screams in agony.
 	- The employee then takes out the hammer with eyeball still attached.
 	- Employee gets a chance for revenge amidst the chaos of the town being burned down
-- PTSD: a memory of the past resurfaces, this time she's the boss, cowering, and the employee is beating her up.
+- PTSD: a memory of the past resurfaces, this time she's the boss, cowering, and the employee is beating her up, taking her eyeball out.
 - Trembles in fear and shit
-- Throughout the day, more visions, memories of being beat up, but also, memories of beating up others, other underlings, employees, for inefficiency.
-- Tenny did not intend this, but can't avoid it, so he lets her have some of the memories back
-- Tenny, if asked, will say that some parts of her brain that's been lost is resurfacing from this PTSD, and thus he can retrieve more that he couldn't do before, and can do so
-- If done so, Adelaide will have to battle through her memory to remember, meanwhile learning spells from such memories. It's painful
-- Memories:
-	- She manages a farm, she was really good at it
-	- She does magic on the side, learning 
-	- the farm runs at perfect efficiency, the good is rewarded, and the bad is punished or cast out
-	- She has used magic to whip, punish, survey, and control
-	- Some employees are unhappy, and one day, they sneak into her dorm with a hammer, and absolutely destroy her, taking her eye out with their hammer.
-		- She couldn't cast magic, and didn't know why
-- If she is unsure of her morality, Tenny tells her that in life, she used to be a cruel dictator that she now hates, but she saw good in the farm, which helped feed a lot of people because of its efficiency. There are good and bad to both sides, and what she wants to do now is up to her. She just needs to know that he's here with her to support her whatever she wants to do.
+- Tenny says nothing unless asked
+	- Tenny explains that Her memories are locked behind severe trauma, which is why she couldn't remember anything. But perhaps by trying to reenact her trauma and reliving it, she can accept it, and the memories can be unlocked.
+	- Tenny encourages her to try and remember her past, Insight Check (20) on herself which Tenny cannot help with but others can reveals more ways to unlock her memories which can be reenacted.
+
+- Possible memories:
+	- Beating up underlings and employees for inefficiency, but deep down it was actually for jealousy, that they can live life without care.
+	- Learning and casting spells that impresses people, but crying on the inside.
+	- Parents scolding
+
+- When all the memories are unlocked, the backstory will be revealed
+
+- Revealed Backstory:
+	- Adelaide, the daughter of the McCoy family, the richest nobles of Lamordia. Adelaide had an abusive childhood, with very overcontrolling parents, demanding her to be the very best at everything. They forced her to learn magic at an expert level very early on, they put her to school and every kind of extracurricular classes imaginable. Adelaide did not like the pressure, but stuck through it because her parents guilt trip her. The would use their fortune and compare it to the lesser children to convince her that working hard is what she should do, because she was so much more fortunate than other kids. They told her she owes this much to them at least. In the end, Adelaide became an expert at people management, various instruments, and magic. She was very knowledgeable, but she was also depressed. She puts all of her anger and frustration on the farm she was overseeing. She micro-manages her farm to a tee, she was very cruel and unforgiving to mistakes, and she would often lash out and beat up her employees so she can feel better about her situation. Due to her behavior, her employees took some farming equipment, sneaked into her chamber one night, and brutally murdered her. 
+- If she is unsure of her morality, Tenny tells her that the past doesn't define her, what she chooses to do now does, and he's here with her to support her whatever she wants to do. So, who are you?
 
 ##### Monkey Do Cool Things
 - Monkey Piccolo shall do the following
@@ -214,11 +216,11 @@ Arc: Tenny needs to steer Adelaide's morals towards more direct control rather t
 #### Tenebrous, The Dark Power of Control
 Tenebrous, as the dark power of control, has perfected his region of Lamordia. As a dark power, he naturally wants to expand, and he set his eyes on Barovia. As one of the oldest regions in the core, Barovia is often forgotten amongst the skirmish and in-fighting between all the dark powers. Taking Barovia should be relatively unchallenged. It's also worth noting that Vampyr is weakening with time since Barovia is losing more souls each day, and unable to create more since it has closed borders. Therefore, Tenebrous saw this opportunity and stepped in.
 
-He set his sights on potential infiltrator candidates in Lamordia, and landed on Adelaide, the daughter of the McCoy family, the richest nobles of Lamordia. Adelaide was an expert at management, she micro-manages her farm to a tee, and was very over-controlling. She would be perfect to run Barovia, but she is too independent and stubborn as a person, so she needs some work.
+He set his sights on potential infiltrator candidates in Lamordia, and landed on Adelaide, the daughter of the McCoy family, the richest nobles of Lamordia. Adelaide had an abusive childhood, with very overcontrolling parents, demanding her to be the very best at everything. They forced her to learn magic at an expert level very early on, they put her to school and every kind of extracurricular classes imaginable. Adelaide did not like the pressure, but stuck through it because her parents guilt trip her. The would use their fortune and compare it to the lesser children to convince her that working hard is what she should do, because she was so much more fortunate than other kids. They told her she owes this much to them at least. In the end, Adelaide became an expert at people management, various instruments, and magic. She was very knowledgeable, but she was also depressed. She puts all of her anger and frustration on the farm she was overseeing. She micro-manages her farm to a tee, she was very cruel and unforgiving to mistakes, and she would often lash out and beat up her employees so she can feel better about her situation. Due to her behavior, her employees took some farming equipment, sneaked into her chamber one night, and brutally murdered her. Her farm was perfect to Tenebrous, it had no complaints, employees are efficient, and they are complacent. If she runs Barovia the same way she runs her farm, it would be perfect.
 
-Tenny is an expert at mind control, so he plans to pull a 1984, and absolutely destroys her mental in order to make her love him and him only. In order to do that, he first needs her to live a happy life, and experience good things that makes life good and joyous. Basically, let her build a support structure. Then, he shall take those structures away through any means that don't incriminate him, such as blaming it on Strahd or his friends or some evil Burgomaster. After all of her support is gone except for Tenny, she'll love him and him only.
+So Tenebrous took her soul, and put it in a perfect machine replica, one that he has all control over. Now his goal is to take complete control over her soul as well. When Adelaide came back, because of her trauma, her memories were all locked away, Tenebrous sees this as a good thing, because then he can program her to do what he says, but he anticipates that the memories shall eventually return. If it does, he shall use this opportunity to develop himself as being trustworthy to Adelaide. For now, he tells her that he's put inside her by the people who made this body for her, who he also doesn't know anything about except that they're very powerful beings.
 
-Tenny killed her, and blamed her death on her overworked employees. He took her soul and put it in a new similar looking body, but restricted all her memories, and only gives it back if she loves him completely, or if its strategic.
+Tenny is an expert at control, so he plans to pull a 1984, and absolutely destroys her mental in order to make her love him and him only. In order to do that, he first needs her to live a happy life, and experience good things that makes life good and joyous. Basically, let her build a support structure. Then, he shall take those structures away through any means that don't incriminate him, such as blaming it on Strahd or his friends or some evil Burgomaster. After all of her support is gone except for Tenny, she'll love him and him only.
 
 Revvy needs to die, monkey needs to die, she needs to have conflict with her friends that drives them away from her because of her morals. Once all of that is accomplished, there is really nothing left for her but Tenny, that is the perfect moment.
 

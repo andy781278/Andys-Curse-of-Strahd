@@ -99,7 +99,7 @@
       {
         "id": "db5570bc8608711a",
         "type": "tabs",
-        "dimension": 64.51923076923077,
+        "dimension": 51.53846153846153,
         "children": [
           {
             "id": "f1be62bcdf1fbb59",
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Stuff/Timeline.md",
+                "file": "Book/Chapter 6 - Old Bonegrinder.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Timeline"
+              "title": "Outline of Chapter 6 - Old Bonegrinder"
             }
           },
           {
@@ -185,12 +185,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "a6a8de0d91a61341",
         "type": "tabs",
-        "dimension": 35.48076923076923,
+        "dimension": 48.46153846153846,
         "children": [
           {
             "id": "46d7ab96047d3e3a",
@@ -212,12 +212,11 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 592.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,9 +237,21 @@
   "active": "9da8b9bcaff4a9f0",
   "lastOpenFiles": [
     "DM Stuff/Backstories.md",
-    "DM Stuff/Timeline.md",
-    "Book/Chapter 3 - The Village of Barovia.md",
     "Book/Chapter 6 - Old Bonegrinder.md",
+    "Book/Chapter 3 - The Village of Barovia.md",
+    "Images/DM/Player Barovia Map.png",
+    "DM Stuff/Timeline.md",
+    "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
+    "Book/Chapter 4 - Castle Ravenloft.md",
+    "Images/DM/CR20 Strahd.png",
+    "Images/DM/Lamordia Map.png",
+    "Images/DM/Vampyr CR28 Stat.png",
+    "Images/DM/Tenebrous.png",
+    "Images/DM/Adelaide, the dark lord of Tenebrous.png",
+    "Images/DM/Ravenloft Patch.png",
+    "Images/DM/Hags Attractive.png",
+    "Images/Chapter 2 - The Lands of Barovia/Barovia Map.jpg",
+    "Images/DM/Hags Ugly.png",
     "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
     "DM Stuff/Custom Worldbuilding/Vampyr.md",
     "DM Stuff/Custom Worldbuilding/Demiplanes of Dread.md",
@@ -250,7 +261,6 @@
     "DM Stuff/Notes.md",
     "Book/Chapter 2 - The Lands of Barovia.md",
     "Book/Appendix D - Monsters and NPCs/Rahadin.md",
-    "Images/DM/Ravenloft Patch.png",
     "Book/Appendix D - Monsters and NPCs/Phantom Warrior.md",
     "Book/Appendix D - Monsters and NPCs/Mongrelfolk.md",
     "Book/Appendix D - Monsters and NPCs/Madam Eva.md",
@@ -261,19 +271,7 @@
     "Book/Appendix D - Monsters and NPCs/Broom of Animated Attack.md",
     "Book/Appendix D - Monsters and NPCs/Vladmir Horngaard.md",
     "Book/Appendix D - Monsters and NPCs/The Abbot.md",
-    "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
-    "DM Stuff/Links.md",
     "DM Stuff/Untitled.canvas",
-    "Images/DM/Adelaide, the dark lord of Tenebrous.png",
-    "Images/DM/Tenebrous.png",
-    "Images/DM/Vampyr.png",
-    "Images/DM/Vampyr CR28 Stat.png",
-    "Images/DM/CR24 Strahd.png",
-    "Images/DM/CR20 Strahd.png",
-    "DM Stuff/Folklore.md",
-    "Images/Chapter 2 - The Lands of Barovia/Barovia Map.jpg",
-    "Images/Chapter 4 - Castle Ravenloft/Cyrus Bellview.jpg",
-    "Images/Chapter 4 - Castle Ravenloft/Castle Ravenloft Walls Map.png",
     "DM Stuff/Custom Mechanics",
     "DM Stuff/Custom Worldbuilding",
     "Images/DM",
