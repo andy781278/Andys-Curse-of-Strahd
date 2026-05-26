@@ -54,9 +54,10 @@ Gets recognized -> Find Vasili -> Conversation
 Vasili Von Holtz, born in the Village of Barovia, was a kind lad. He befriended a Vistani, one of the only good ones, called Radu Cala. Radu experienced tragedy because of Strahd, and swore to never work for him again. They teamed up and hatched a scheme to outsmart Strahd by luring him with Marina, one of Ireena's past reincarnations. They distracted him while bringing dozens of Barovian refugees outside the mist, giving them freedom, one of which is Vasili's lover, who carried his child. Vasili could have gone too, but he chose to remain, as he realized there is a method to kill Strahd once and for all, and had to investigate it. He went to all the consecrated sites of the fanes, spoke to them in his dreams, and discovered the truth: that reconsecrating the fanes shall remove Strahd of his godly status, and make him vulnerable. He used the stones of sending to tell Radu that he found something critical, but didn't specify what, cause not enough words. But alas, Strahd returned and killed him before he could tell this to anyone. He is revered as a hero by all Barovians, and is named the Knight of All Barovians. They made him a sarcophagi, and put him in the basement of the church in the Village of Barovia. But Strahd, in fear of someone finding out his secret, tried to destroy the corpse, but failed, because the corpse was protected by the morning lord. So instead, he put Vasili's sarcophagi (somewhere). He then taunts Barovians by wearing Vasili's face, and pretending to be him.
 
 ### Spring
-Rahadin Nightmare -> Weaver Fane helps Spring -> track down -> Confrontation in Amber Temple
+Rahadin Nightmare -> Finds Nimir -> Nimir is being nice to Spring -> Spring opens up? Weaver helps her uncover truth about Nimir -> She decides what happens next -> Confrontation in Amber Temple
 ##### Rahadin Nightmare
-- Spring sleeps and has a dream
+- After Reconsecrating Weaver Fane
+- Spring sleeps and has a recurring dream, she has had this dream since she fled her hometown, it comes back once in a while
 - She is back in her village, having fun with her family and friends
 - Suddenly darkness surrounds her, and in the blink of an eye, the scene shifts, and she sees her family, now tied to a pole, and the rest of the village screaming and throwing stones at them as they start to bleed and scream out in pain
 - The Tiefling melt to goo and disappear
@@ -66,14 +67,31 @@ Rahadin Nightmare -> Weaver Fane helps Spring -> track down -> Confrontation in 
 	- "You can't even protect your family!"
 	- "Look at her! So pathetic!"
 	- "Do you really think you can avenge them? You can't even talk to people!"
-- Spring spots a familiar looking girl amongst the crowd, expressionless
+- Spring spots Weaver, expressionless
 	- A little shorter and sprite-like in appearance. She has a giggly, playful air about her. The Weaver has yellow-green skin that's a bit more reminiscent of bile and her dark hair floats around her head as if perpetually underwater. Her mouth sports two rows of sharp, shark-like teeth.
-- The girl mouths some words, it's unintelligible
 - Somewhere far away, you see a familiar man. Though his face is shrouded in darkness, you can see his two sharp glaring eyes.
 - On his chest, there is a symbol for the castle of raven-loft sewn on his clothes.
-- You wake up in a cold sweat, hidden Cha Save (16) to not cry.
+- Weaver comes up and unties Spring if she failed to get out, and hugs her.
+	- "It'll be okay. Pat pat"
+	- She looks at the angry villagers, who starts to melt as fire consumes them, and soon there's nothing left but fire. "There will always be noises, don't let them distract you from those who really matters."
+- Spring wake up screaming, in a cold sweat, feels intense emotions, heart jumping out of skin.
 
-##### Weaver Fane
+##### Find Nimir Belasco
+- Nimir is a drunken old human man, frizzled face, gray hair, and a black jacket with a giant ripped hole on its left shoulder.
+	- Nimir is like a drunk uncle, he slurs his speech, he is hateful of every stereotype, he hates Jews, Christians, whites, blacks, all kinds of people.
+- Nimir Is currently in the wizard of wines, hiding from druids while drinking, he loves drinking, so he came here looking for alcohol. He got it, sure, but now he's trapped. If he leaves, the druids kill him, so he stays, feeding of of alcohol.
+- If someone who is not Spring finds him, he begs for them to rescue him back to a safe village, and he'll put in a good word with Rahadin, Strahd's Chamberlin.
+	- He is desperate to get to safety, as he has had nothing but alcohol
+	- Because of the alcohol, he is also delirious, and will forget what he's doing, also drunken rage, saying it wasn't his fault, he didn't do it, it was the villagers, they done it to themselves.
+- If spring finds him, he thinks of Spring as a vision from his mind, and belittles her and insults her, saying she's not real, he's imagining things, and she'll be gone soon. She's probably dead he thinks
+- Nimir's drunkenness is a poison. If cured, he realizes Spring is real and assume she's here for revenge, and calmly accepts whatever she wants to do to him
+- He knows nothing about the prophecy
+
+##### Nimir Nice Spring
+- Nimir stuff do later
+
+##### Weaver Fane Helps Spring Uncover Truth
+- Change later
 - After reconsecrating the Weaver Fane, Spring will have the same nightmare again, but this time Weaver is there, tells Spring she can help uncovering the person who caused the death of her family, it's in a nightmare that she has every night, she just needs to let it play, and embrace the fear.
 - The nightmare happens again, but this time she can free herself and chase down that man, then she can beat him up with weaver, together.
 - After that's done, she sees his face as the mist finally clears up.
@@ -82,9 +100,6 @@ Rahadin Nightmare -> Weaver Fane helps Spring -> track down -> Confrontation in 
 - Weaver then says, "The past can't be changed, but what do you want now?"
 - If Spring chooses to forgive, then the arc will end I guess
 - If Spring chooses revenge, then we can continue
-
-##### Find Nimir Belasco
-- Nimir Is currently in the wizard of wines, hiding from druids while drinking, he loves drinking, so he came here looking for alcohol. He got it, sure, but now he's trapped. If he leaves, the druids kill him, so he stays, feeding of of alcohol.
 
 ##### Confrontation
 - The confrontation will likely take place in the Amber Temple.
@@ -173,8 +188,8 @@ Arc: Tenny needs to steer Adelaide's morals towards more direct control rather t
 	- Adelaide, the daughter of the McCoy family, the richest nobles of Lamordia. Adelaide had an abusive childhood, with very overcontrolling parents, demanding her to be the very best at everything. They forced her to learn magic at an expert level very early on, they put her to school and every kind of extracurricular classes imaginable. Adelaide did not like the pressure, but stuck through it because her parents guilt trip her. The would use their fortune and compare it to the lesser children to convince her that working hard is what she should do, because she was so much more fortunate than other kids. They told her she owes this much to them at least. In the end, Adelaide became an expert at people management, various instruments, and magic. She was very knowledgeable, but she was also depressed. She puts all of her anger and frustration on the farm she was overseeing. She micro-manages her farm to a tee, she was very cruel and unforgiving to mistakes, and she would often lash out and beat up her employees so she can feel better about her situation. Due to her behavior, her employees took some farming equipment, sneaked into her chamber one night, and brutally murdered her. 
 - If she is unsure of her morality, Tenny tells her that the past doesn't define her, what she chooses to do now does, and he's here with her to support her whatever she wants to do. So, who are you?
 
-##### Monkey Do Cool Things
-- Monkey Piccolo shall do the following
+##### Seal Do Cool Things
+- Seal shall do the following
 	- Find clues for the party about current goals
 	- help in combat by giving enemies disadvantage
 	- Steals from the rich and gives to the poor, somehow
