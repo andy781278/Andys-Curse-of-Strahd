@@ -4,8 +4,8 @@ They go from 4-13
 ### ~~Sunsword~~
 ~~Get the sun sword~~
 
-### Tome of Strahd
-Get the tome of strahd
+### ~~Wizard of Wines~~
+Clear Wizard of Wines
 
 ### ~~Symbol of Ravenkind~~
 Get the symbol of Ravenkind
