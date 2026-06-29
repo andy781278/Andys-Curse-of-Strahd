@@ -8,7 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "81bc47323bd244d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Stuff/Backstories.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backstories"
+            }
+          },
+          {
+            "id": "c70e78442052bbae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Chapter 10 - The Ruins of Berez.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 10 - The Ruins of Berez"
+            }
+          },
+          {
+            "id": "3548f98cc248d0b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +49,43 @@
               "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8bce9a28b9f66ca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d41c45ac3c3da2e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Appendix D - Monsters and NPCs/Baba Lysaga.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baba Lysaga"
+            }
+          },
+          {
+            "id": "70fb2811679c86b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book/Appendix D - Monsters and NPCs/Baba Lysaga's Creeping Hut.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baba Lysaga's Creeping Hut"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Book/Appendix D - Monsters and NPCs/Baba Lysaga's Creeping Hut.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Baba Lysaga's Creeping Hut"
             }
           },
           {
@@ -172,11 +236,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,35 +259,36 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "70fb2811679c86b4",
   "lastOpenFiles": [
+    "Book/Chapter 10 - The Ruins of Berez.md",
+    "Book/Appendix D - Monsters and NPCs/Baba Lysaga.md",
     "Home.md",
-    "DM Stuff/Progression.md",
     "DM Stuff/Backstories.md",
+    "Book/Appendix D - Monsters and NPCs/Baba Lysaga's Creeping Hut.md",
+    "Book/Appendix C - Treasures.md",
+    "Book/Chapter 0.0 - Foreword - Ravenloft Revisited.md",
+    "Book/Chapter 3 - The Village of Barovia.md",
+    "Book/Chapter 2 - The Lands of Barovia.md",
+    "Book/Chapter 1 - Into the Mists.md",
+    "Book/Chapter 0.5 - Introduction.md",
+    "Book/Appendix E - Tarokka Deck.md",
+    "Book/Appendix D - Monsters and NPCs.md",
+    "Book/Chapter 14 - Yester Hill.md",
+    "Images/Chapter 2 - The Lands of Barovia/Barovia Map.jpg",
+    "Images/DM/Player Barovia Map.png",
+    "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
+    "Book/Appendix D - Monsters and NPCs/Tree Blight.md",
+    "Book/Chapter 6 - Old Bonegrinder.md",
+    "DM Stuff/Notes.md",
+    "Book/Appendix D - Monsters and NPCs/Broom of Animated Attack.md",
+    "DM Stuff/Timeline.md",
+    "DM Stuff/Progression.md",
     "DM Stuff/Links.md",
     "DM Stuff/Tarot Card Readings.md",
     "DM Stuff/Party Configuration.md",
     "DM Stuff/Custom Worldbuilding/The Dark Powers.md",
     "Damage.md",
-    "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
-    "DM Stuff/Custom Worldbuilding/The Forest Folk.md",
-    "DM Stuff/Custom Worldbuilding/Demiplanes of Dread.md",
-    "Book/Chapter 14 - Yester Hill.md",
-    "Book/Appendix D - Monsters and NPCs/Wereraven.md",
-    "Book/Chapter 12 - The Wizard of Wines.md",
-    "Images/DM/Player Barovia Map.png",
-    "Book/Appendix C - Treasures.md",
-    "Book/Appendix D - Monsters and NPCs/Tree Blight.md",
-    "Book/Chapter 8 -  The Village of Krezk.md",
-    "Book/Chapter 7 - Argynvostholt.md",
-    "Book/Chapter 5 - The Town of Vallaki.md",
-    "Book/Appendix D - Monsters and NPCs/Vladmir Horngaard.md",
-    "Book/Appendix D - Monsters and NPCs/Baba Lysaga.md",
-    "Book/Appendix D - Monsters and NPCs/Baba Lysaga's Creeping Hut.md",
-    "Book/Appendix D - Monsters and NPCs/Broom of Animated Attack.md",
-    "Book/Appendix D - Monsters and NPCs/Kasimir Velikov.md",
-    "Book/Appendix D - Monsters and NPCs/Mongrelfolk.md",
-    "Book/Appendix D - Monsters and NPCs/Phantom Warrior.md",
     "Images/DM/CR24 Strahd.png",
     "Images/DM/Berez Map Labeled.png",
     "Images/DM/Pasted image 20260223021534.png",
@@ -232,7 +297,6 @@
     "Images/DM/Vampyr.png",
     "Images/DM/Vampyr CR28 Stat.png",
     "Images/DM/Lamordia Map.png",
-    "Images/DM/CR20 Strahd.png",
     "DM Stuff/Untitled.canvas",
     "DM Stuff/Custom Mechanics",
     "DM Stuff/Custom Worldbuilding",

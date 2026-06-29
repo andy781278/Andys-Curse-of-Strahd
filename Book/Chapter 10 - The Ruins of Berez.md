@@ -67,7 +67,7 @@ Baba Lysaga captures goats and uses their blood in her rituals of longevity. Nin
 
 There is no gate in the fence and Baba Lysaga uses her flying skull (see area [[#U3. BABA LYSAGA's HUT]]) to enter and leave the pen. If the characters try to set the goats free by dismantling or damaging part of the fence, the skulls atop the fence posts begin howling and continue to howl for 1 minute. The racket attracts Baba Lysaga, who arrives in her flying skull on initiative count 20 in 2 rounds. The howling skulls also attract the seven **scarecrows** in the marsh (see "[[#MARSH SCARECROWS]]" above). Roll initiative once for all the scarecrows.
 
-### U3. BABA LYSAGA'S HUT
+## U3. BABA LYSAGA'S HUT
 
 ![[Images/Chapter 10 - The Ruins of Berez/Baba Lysaga's Creeping Hut Map.jpg]]
 
