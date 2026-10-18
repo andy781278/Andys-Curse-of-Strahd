@@ -173,7 +173,10 @@ Players should see visions in their sleep from the ladies, one at a time, at som
 > [!cite] Hunter Reconsecration
 > The players see all the creatures/people they've ever killed, from least to most significance, players can get a short exchange with anyone of them
 > Then she shows up. Tall and chiseled with grey skin like that of a drow. Her physique is well toned, like that of an Amazonian woman and her long, white hair sits upon her shoulders like snow on the cold stone of a mountain top. She has a pair of enormous, stag antlers growing from her temples, adding significantly to her height.
+- 
 - "At ease, soldier"
+- You and me, we're protectors
+- This land will kill you, but don't let your death be in vain. Save those who you can.
 - Players receive a boon
 	- Once per long rest, one player can invoke the Huntress, concentrate on a creature, object, or location in Barovia, they get a vision of its current location, what it's doing, etc
 

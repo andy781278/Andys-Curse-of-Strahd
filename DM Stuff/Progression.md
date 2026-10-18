@@ -19,11 +19,11 @@ Finish exploring the amber temple
 ### ~~Argynvostholt~~
 ~~Finish Argynvostholt and reinstate the skull~~
 
-### Reinstating Swamp Fane
+### ~~Reinstating Swamp Fane~~
 - Kill Baba Lysaga
 
-### Reinstating Mountain Fane
+### ~~Reinstating Mountain Fane~~
 - Kill the wintersplinter
 
-### Reinstating Forest Fane
+### ~~Reinstating Forest Fane~~
 - Kill the Dracolich

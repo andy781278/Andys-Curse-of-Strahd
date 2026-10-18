@@ -8,80 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81bc47323bd244d7",
+            "id": "71cf85177e8f0afb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Backstories.md",
+                "file": "Book/Chapter 13 - The Amber Temple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backstories"
+              "title": "Chapter 13 - The Amber Temple"
             }
           },
           {
-            "id": "c70e78442052bbae",
+            "id": "557b2d0c6e631a76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book/Chapter 10 - The Ruins of Berez.md",
+                "file": "DM Stuff/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 10 - The Ruins of Berez"
+              "title": "Notes"
             }
           },
           {
-            "id": "3548f98cc248d0b1",
+            "id": "1f8f33b4388606ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8bce9a28b9f66ca4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d41c45ac3c3da2e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/Appendix D - Monsters and NPCs/Baba Lysaga.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Baba Lysaga"
-            }
-          },
-          {
-            "id": "70fb2811679c86b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/Appendix D - Monsters and NPCs/Baba Lysaga's Creeping Hut.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Baba Lysaga's Creeping Hut"
+              "title": "Strahd von Zarovich"
             }
           }
         ],
@@ -105,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "custom",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -151,6 +118,7 @@
       {
         "id": "db5570bc8608711a",
         "type": "tabs",
+        "dimension": 51.05769230769231,
         "children": [
           {
             "id": "f1be62bcdf1fbb59",
@@ -206,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Appendix D - Monsters and NPCs/Baba Lysaga's Creeping Hut.md",
+                "file": "DM Stuff/Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Baba Lysaga's Creeping Hut"
+              "title": "Outline"
             }
           },
           {
@@ -226,7 +194,7 @@
             }
           },
           {
-            "id": "5e17a97d8ce9ddef",
+            "id": "e7a088904b83f37c",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -237,10 +205,30 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "f17fbc2b10c53eac",
+        "type": "tabs",
+        "dimension": 48.94230769230769,
+        "children": [
+          {
+            "id": "b400211859166148",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": "ID_e9bbf83b19e9",
+                "creatureName": "Imp"
+              },
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,43 +247,43 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "70fb2811679c86b4",
+  "active": "557b2d0c6e631a76",
   "lastOpenFiles": [
-    "Book/Chapter 10 - The Ruins of Berez.md",
-    "Book/Appendix D - Monsters and NPCs/Baba Lysaga.md",
-    "Home.md",
-    "DM Stuff/Backstories.md",
-    "Book/Appendix D - Monsters and NPCs/Baba Lysaga's Creeping Hut.md",
-    "Book/Appendix C - Treasures.md",
-    "Book/Chapter 0.0 - Foreword - Ravenloft Revisited.md",
-    "Book/Chapter 3 - The Village of Barovia.md",
-    "Book/Chapter 2 - The Lands of Barovia.md",
-    "Book/Chapter 1 - Into the Mists.md",
-    "Book/Chapter 0.5 - Introduction.md",
-    "Book/Appendix E - Tarokka Deck.md",
-    "Book/Appendix D - Monsters and NPCs.md",
-    "Book/Chapter 14 - Yester Hill.md",
-    "Images/Chapter 2 - The Lands of Barovia/Barovia Map.jpg",
-    "Images/DM/Player Barovia Map.png",
-    "DM Stuff/Custom Worldbuilding/The Fanes of Barovia.md",
-    "Book/Appendix D - Monsters and NPCs/Tree Blight.md",
-    "Book/Chapter 6 - Old Bonegrinder.md",
+    "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
+    "Book/Chapter 13 - The Amber Temple.md",
     "DM Stuff/Notes.md",
+    "Home.md",
+    "Book/Appendix D - Monsters and NPCs/Tree Blight.md",
+    "Book/Appendix D - Monsters and NPCs/The Abbot.md",
+    "Book/Appendix D - Monsters and NPCs/Strahd's Animated Armor.md",
+    "Book/Appendix D - Monsters and NPCs/Strahd Zombie.md",
+    "Book/Appendix D - Monsters and NPCs/Rictavio - Rudolph van Richten.md",
+    "Book/Appendix D - Monsters and NPCs/Rahadin.md",
+    "Book/Appendix D - Monsters and NPCs/Pidlwick II.md",
+    "Book/Appendix D - Monsters and NPCs/Mongrelfolk.md",
+    "Book/Appendix D - Monsters and NPCs/Madam Eva.md",
+    "Book/Appendix D - Monsters and NPCs/Kasimir Velikov.md",
+    "Book/Appendix D - Monsters and NPCs/Izek Strazni.md",
+    "Book/Appendix D - Monsters and NPCs/Guardian Portrait.md",
+    "Book/Appendix D - Monsters and NPCs/Barovian Witch.md",
     "Book/Appendix D - Monsters and NPCs/Broom of Animated Attack.md",
-    "DM Stuff/Timeline.md",
-    "DM Stuff/Progression.md",
-    "DM Stuff/Links.md",
-    "DM Stuff/Tarot Card Readings.md",
-    "DM Stuff/Party Configuration.md",
-    "DM Stuff/Custom Worldbuilding/The Dark Powers.md",
-    "Damage.md",
-    "Images/DM/CR24 Strahd.png",
-    "Images/DM/Berez Map Labeled.png",
-    "Images/DM/Pasted image 20260223021534.png",
-    "Images/DM/Hags Attractive.png",
-    "Images/DM/Tenebrous.png",
+    "Book/Appendix D - Monsters and NPCs/Baba Lysaga.md",
+    "Book/Appendix D - Monsters and NPCs/Baba Lysaga's Creeping Hut.md",
+    "Book/Appendix D - Monsters and NPCs/Ezmerelda d'Avenir.md",
+    "Book/Appendix D - Monsters and NPCs/Phantom Warrior.md",
+    "Book/Appendix D - Monsters and NPCs/Vladmir Horngaard.md",
+    "Book/Appendix D - Monsters and NPCs/Wereraven.md",
+    "Images/DM/Adelaide, the dark lord of Tenebrous.png",
     "Images/DM/Vampyr.png",
+    "Images/DM/Tenebrous.png",
     "Images/DM/Vampyr CR28 Stat.png",
+    "Images/DM/CR20 Strahd.png",
+    "Images/DM/CR24 Strahd.png",
+    "DM Stuff/Progression.md",
+    "DM Stuff/Backstories.md",
+    "Images/DM/Pasted image 20260223021534.png",
+    "Images/DM/Berez Map Labeled.png",
+    "Images/DM/Player Barovia Map.png",
     "Images/DM/Lamordia Map.png",
     "DM Stuff/Untitled.canvas",
     "DM Stuff/Custom Mechanics",

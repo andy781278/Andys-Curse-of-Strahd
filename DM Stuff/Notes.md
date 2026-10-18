@@ -1,21 +1,43 @@
 ### Ongoing Events
+- Third reconsecration, Strahd will show up with a hostage, and wants the gem back, if the players don't forfeit the gem, he'll kill the hostage and fight the PCs
+	- Rook and Ezmerelda d'Avenir
+	- Rook is charmed, he will smile and tell the PCs to give up the gem so they can all play
+	- Ezmerelda tells the party to not do it, and that this is their only shot, and she believes in them
 
+- Players will go to amber temple
+	- Let Adelaide take the Vestiges as desired, but void her of the negative consequences, stating that the dark powers are pushed back and grow fearful of Adelaide, whatever's inside her.
 
+- When the players find the tome of Strahd, he will be willing to step outside of his castle to retrieve the book
+- He will fly to the players and will arrive in like an hour
+- The final fight can possibly happen outside, but if Strahd is defeated he will retreat back into his castle
 
-### Planned Events
-- [[Backstories#Gets Recognized]]
-- [[Backstories#Soren sees signs of a green dragon]]
-- Dream Pastries
+If Strahd hp drop to 0, he will turn to mist, if the mist cannot reach the castle in 2 hours, the mist reforms into Strahd's corpse, and everyone will hear a ghastly shriek like none seen before. Alternatively, if he does reach the coffin, same thing happens:
+- Vampyr reveals himself, floating into existence from Strahd, he congratulates the PCs on their good work, and that he is impressed
+- He will thus grant one of the PCs the right to succeed Strahd, to become Vampyr's new champion, gain immense power, and rule over Barovia under his watch.
+- Whatever happens Tenebrous will intervene, and the world starts to tremble and shake as a lack of dark lord takes its toll. 
+- The world begins to fall apart, as earthquakes ring and cracks form in the ground where stones fall into nothingness.
+- Tenebrous appears from Adelaide's eyeball
+- Vampyr recognizes Tenebrous, they have a brief dialogue, Vampyr knew some dark power was behind this, he is resentful, Tenebrous is cold and still, with a sense of pride knowing he had won.
+- Tenebrous then casts some high level shit and Vampyr screams and vanishes
+- Tenebrous then turns around and freezes time, except for Adelaide
+- Then he explains everything:
+	- My name is Tenebrous. The sarcophagus in the temple was mine.
+	- I said the people who built your body put me in you. That was true. They built it for me.
+	- Strahd was Vampyr’s anchor. He is in that coffin with a stake in his heart. Vampyr has no hold on this land right now.
+	- Something will take Barovia tonight. Either Vampyr takes it back through someone else, another champion, or I take it through you.
+	- I want you to rule over this land. I can give you the power.
+	- This is what it was always meant to be, you are perfect for it.
+	- You will have your revolution, all you have to do is say yes.
+Accept:
+- Blue runes float in circles around her and she transforms and gains some blue runes on her and her eyes glow blue
+- Ade feels power surge through her, she also feels bound to the land forever, she still has free will.
+- Her next goals are to rebuild the land, make lives better, to rule as Barovia's new lord.
+Refuse:
+- more convincing
+- Tenebrous tells her that he will have to leave then, and she be alone and will die
+- Tenebrous then leaves, and Adelaide dies, no way to come back
 
-### Current Objectives
-- Come up with a timeline for Strahd's events/goals
-	- Get Ireena
-	- Amuse the players
-	- Stop Van Richten
-	- Retrieve the Tome of Strahd
-
-### Future Objectives
-- 
+The mist fades, and the party is allowed to leave via teleport or just walk out. Barovia sees sunlight again.
 
 ##### Finished Events
 - Ismark disappears
@@ -106,6 +128,69 @@
 			- The past - **The Weaver** — _"A rotting hut in the swamp, and inside it, a heart that was never hers to keep."_
 			- the present - **The Huntress** — _"A giant with a red heart that isn't his, rooted to a hill that weeps lightning."_
 			- the future - **The Seer** — _"A shadow with one blue eye, walking stone corridors, unhurried."_
+
+- First reconsecration, Strahd summons wildlife and vampire spawns to kill the team, Strahd will also summon an earthquake.
+	- The Gem yearns for spring to do it
+	- When she holds the gem at the center of the site, she hears a familiar whisper
+		- Something about you is missing... you are hollow...
+		- Where did it go?
+		- I need ALL of you.
+		- Bring back the piece that's missing...
+	- Spring will have the same nightmare again, but this time Weaver is there, tells Spring she can help uncovering the person who caused the death of her family, it's in a nightmare that she has every night, she just needs to let it play, and embrace the fear.
+	- The nightmare happens again, but this time she can free herself and chase down that man, then she can beat him up with weaver, together.
+	- After that's done, she sees his face as the mist finally clears up.
+		- A dusk elf with a scar across his forehead, DC 16 insight to remember that it is Rahadin, Strahd's Chamberlain, met players once when they were going to Castle Ravenloft for dinner
+	- Weaver wants a high five
+		- Yay we did it!
+		- She a chill lad who jokes around and trolls
+	- And then she comes back and everyone has the vision
+- Players are going to reconsecrate the fanes
+	- 6 segment clock, increment by 1 each turn
+	- Each pillar represents 1 clock, succeeding means the pillar lights up
+	- selected PC must concentrate on the gem, they will go through some interpersonal issues
+	- Any other PC can burn their action to make a proper DC 15 check to assist the PC
+	- If the selected PC is hurt, then they roll a con save DC 10, on a failure, they lose the concentration and will have to spend an action to re-lock-in
+
+- Earthquake causes the Argynvostholt to crumble
+	- Residents react, everyone is scared
+	- Revy takes charge to recue people from inside the building, after it's all done they set up camp right outside the collapsed structure, with added night watch.
+	- More frequent attacks from the wildlife, a wolf ally starts to twitch out and freak out and attack, influenced by Strahd's forest fane power 
+
+- For every four hours the players spend not in a secure shelter, they will have to succeed a skill challenge DC 15 of just 1 roll or everyone takes 1d10 slashing damage from all the harassments of the local wildlife. This can only be stopped after restoring the last fane
+
+- Weather starts to storm up a storm, representing Strahd's wrath
+
+- During long rest, off screen, Soren's mom will be caught and killed, Soren gets a vision from the Seeker.
+	- Soren is eating dinner with his mom and dad, have the scene be cheery and lively, let him describe his fondest dinner, have him describe what they ate, where they ate, and what they were doing.
+	- Try to have the mom ask for an open heart conversation, where the mom is more accepting than in real life. Dad is there too, make it so they're having fun together? If applicable
+	- The mom says
+		- I know you're planning to leave, dear, a dragon is very perceptive
+		- maybe not tonight, but you're going to, and I have known it for a while
+		- and I know that, because I was just like you.
+		- Have I told you the story of your grandpapa? Vermithrax?
+		- When I was little, he would stuff me in the deepest part of our cave, and he told me I would never see sunlight.
+		- He never loved me, you know? In the end, I had to slit his throat.
+		- it was all about freedom back then, just seeing the sunlight for the first time, it meant everything to me
+		- but that was a long time ago
+		- Soren, I just wanted to say, I'm sorry, for everything I've done. You're not my possession, you're my son.
+		- So if my son wants to see the world out there, if it'll make him happier than anything else in the world, then I can't stop him.
+		- because I know my son is going to accomplish anything he sets his sights on, because he'll be my son.
+		- I will always be proud of you, no matter what you do.
+		- You're the greatest deal I've ever made, you know that?
+		- Go give em hell
+	- and then the dad pats his shoulder
+	- DC 20 INT save to realize that this never happened, this is a future that, perhaps could have existed, but never did.
+		- if succeed, he'll see his parents melt into skeleton
+
+- Second reconsecration, Rahadin will summon Dracolich to stop the team, but is hesitant to lay his life, so he'll flee if the tides turn.
+	- fighting
+		- The blue gem is embedded deep into the Dracolich eye, bones grow around and encapsulate it like vines.
+		- The bones have AC 20 HP 100
+		- After the bones are destroyed, the gem needs to be taken out with an action that succeeds a athletic or acrobatics DC 25 while the Dracolich tries to struggle and shakes them off.
+		- if it seems too easy, then the bone HP will be the Dracolich HP
+	- Spring and Rahadin
+		- Rahadin barely remembers what happened, he burned down one too many villages to know specifics nor care
+		- When Rahadin remembers, he'll mock her, saying she isn't special, she made it out because she was the smallest and the fit the hole in the wall, she should have died with them that night, and it would have been all the nicer for the world.
 ##### Abandoned Plotline
 - And as for my dear Ireena, I shall be taking her now, you see, she's destined to be mine, she has the soul of my past lover, she just doesn't know it yet."
 	- Ismark will then get angry and antagonize Strahd, who then immediately cuts off his head with a wave of his hand.

@@ -78,67 +78,32 @@
   "version": "11.4.2",
   "viewResults": [
     {
-      "result": "11",
+      "result": "8",
       "original": "1d20",
-      "resultText": "1d20\n[11]",
-      "timestamp": 1781908832318,
-      "id": "cj2pHgYfhLMN"
+      "resultText": "1d20\n[8]",
+      "timestamp": 1786318705785,
+      "id": "XduTRBq__c-n"
+    },
+    {
+      "result": "1",
+      "original": "1d20",
+      "resultText": "1d20\n[1]",
+      "timestamp": 1786318706744,
+      "id": "bt3PNNfKSZR8"
     },
     {
       "result": "13",
       "original": "1d20",
       "resultText": "1d20\n[13]",
-      "timestamp": 1781908833003,
-      "id": "cxB7J1HX7m3i"
+      "timestamp": 1786318706861,
+      "id": "l8-L9qfi-yMK"
     },
     {
-      "result": "5",
+      "result": "16",
       "original": "1d20",
-      "resultText": "1d20\n[5]",
-      "timestamp": 1781909991843,
-      "id": "9mjgmG8tV9FE"
-    },
-    {
-      "result": "2",
-      "original": "1d20",
-      "resultText": "1d20\n[2]",
-      "timestamp": 1781909991982,
-      "id": "mTKAjNX6szPO"
-    },
-    {
-      "result": "2",
-      "original": "1d20",
-      "resultText": "1d20\n[2]",
-      "timestamp": 1781909992098,
-      "id": "zBqNGYTCBJiq"
-    },
-    {
-      "result": "13",
-      "original": "1d20",
-      "resultText": "1d20\n[13]",
-      "timestamp": 1781909992221,
-      "id": "RPSPxgUVS_x3"
-    },
-    {
-      "result": "11",
-      "original": "1d20",
-      "resultText": "1d20\n[11]",
-      "timestamp": 1781909992344,
-      "id": "tYNowXFcrHJV"
-    },
-    {
-      "result": "20",
-      "original": "1d20",
-      "resultText": "1d20\n[20]",
-      "timestamp": 1781909992474,
-      "id": "oQx9Ums1ndPS"
-    },
-    {
-      "result": "7",
-      "original": "1d20",
-      "resultText": "1d20\n[7]",
-      "timestamp": 1781909992609,
-      "id": "vlr8JPTx2Fxv"
+      "resultText": "1d20\n[16]",
+      "timestamp": 1786318706989,
+      "id": "5PmcqbEs5T3C"
     }
   ]
 }

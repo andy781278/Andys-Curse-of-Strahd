@@ -69,7 +69,7 @@ Anyone with a passive Wisdom (Perception) score of 12 or higher notice arrow sli
 The open doorway to the east leads to area [[#X6. SOUTHEAST ANNEX]]. The double doors to the west open into area [[#X15. SOUTHWEST ANNEX]]. Characters who listen at the western doors hear gruff humanoid voices beyond, but can't discern what's being said.
 
 ## X5. TEMPLE OF LOST SECRETS
-==Four black marble columns support the vaulted ceiling of the temple, at the north end of which stands a forty-foot-tall statue of a cowled figure in flowing robes. The statue's stony hands are outstretched as if in the midst of casting a spell. Its face is a void of utter blackness.==
+==Four black marble menhirs support the vaulted ceiling of the temple, at the north end of which stands a forty-foot-tall statue of a cowled figure in flowing robes. The statue's stony hands are outstretched as if in the midst of casting a spell. Its face is a void of utter blackness.==
 
 ==The ominous statue stands between two black marble balconies, one of which has partially collapsed and fallen on the temple's black marble floor, in front of an open doorway. The walls of the temple are sheathed in amber, and the doors leading from it are made of amber as well. Arched hallways coated with amber lead away from the temple to the west and east. Flanking these exits are alcoves that hold white marble statues of robed human wizards with pointed hats and golden staffs. One of them has toppled over and lies shattered on the floor.==
 
@@ -155,6 +155,7 @@ Vilnius is a greedy, treacherous coward. He curses his dead master for leading t
 - The temple is a haven for forbidden knowledge.
 - Flameskulls- constructs made from the remains of dead wizards- guard the temple.
 - Barbaric mountain folk use the temple for shelter.
+- The temple is built around some kind of ritualistic circle
 
 TREASURE
 Vilnius carries his spellbook, which contains all the spells he has prepared. He also has a gold amulet shaped like an upside-down V hidden under his robes. Of exquisite design, the amulet is worth 1,000 GP. It is the control amulet for the shield guardian in area [[#X35. SLEEPING GUARDIAN]].
