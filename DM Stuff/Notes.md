@@ -1,43 +1,99 @@
 ### Ongoing Events
-- Third reconsecration, Strahd will show up with a hostage, and wants the gem back, if the players don't forfeit the gem, he'll kill the hostage and fight the PCs
-	- Rook and Ezmerelda d'Avenir
-	- Rook is charmed, he will smile and tell the PCs to give up the gem so they can all play
-	- Ezmerelda tells the party to not do it, and that this is their only shot, and she believes in them
+Adelaide chooses a phylactery and spends 3-4 days with help from money to create it and the potion of transformation
 
-- Players will go to amber temple
-	- Let Adelaide take the Vestiges as desired, but void her of the negative consequences, stating that the dark powers are pushed back and grow fearful of Adelaide, whatever's inside her.
+Adelaide becomes a lich
+- visuals
+	- She drinks the potion of transformation as it visually flows through her body in symmetric synthetic lines
+	- Her body shuts down like a computer, instantly ragdolling
+	- Seizure
+	- Her soul comes out of her body as a wisp, slowly flowing into the phylactery.
+	- Upon reaching it, the whole region fills with the stench of necrotic energy.
+	- As she wakes, a permanent aura of faint blue surrounds her, it wraps around her synthetic body and exposing artificial seams and lines previously hidden
+	- She can hover around instead of walking bc AURA, can't fly without spells tho
+- effects
+	- Become Construct and Undead, takes the positive and negative effects of both
+	- Alignment shifts to Lawful Evil
+	- INT raises to a max of 21 if it's not higher already
+	- Rejuvenation: if it has a phylactery, a destroyed lich gets a new body in 1d10 days with all its hit points back. The new body appears within 5 feet of the phylactery.
+	- Soul feeding: the lich must feed souls to its phylactery to keep its body and mind preserved (once per month). It does this by casting imprisonment to trap the target’s body and soul inside the phylactery. A phylactery holds one soul at a time, and the soul is destroyed completely within 24 hours.
+	- If it stops feeding: the lich’s body starts to fall apart, and it might eventually become a demilich.
+	- Actions
+		- **_Eldritch Burst._** _Melee or Ranged Attack Roll:_ +12, reach 5 ft. or range 120 ft. _Hit:_ 31 (4d12 + 5) Force damage.
+		- **_Paralyzing Touch._** _Melee Attack Roll:_ +12, reach 5 ft. _Hit:_ 15 (3d6 + 5) Cold damage, and the target has the Paralyzed condition until the start of the lich’s next turn.
+	- Spells
+		- learns 2 additional spells of each level in the Wizard Class
+		- **At Will:** _Detect Magic, Detect Thoughts, Dispel Magic, Fireball (level 5 version), Invisibility, Lightning Bolt (level 5 version), Mage Hand, Prestidigitation_  
+		- **2/Day Each:** _Animate Dead, Dimension Door, Plane Shift_  
+		- **1/Day Each:** _Chain Lightning, Finger of Death, Power Word Kill, Scrying_
 
-- When the players find the tome of Strahd, he will be willing to step outside of his castle to retrieve the book
-- He will fly to the players and will arrive in like an hour
-- The final fight can possibly happen outside, but if Strahd is defeated he will retreat back into his castle
+- A newly made phylactery needs a fresh soul. After it is created and Adelaide becomes a lich, she feels an overwhelming hunger that can only be satiated from a soul.
 
-If Strahd hp drop to 0, he will turn to mist, if the mist cannot reach the castle in 2 hours, the mist reforms into Strahd's corpse, and everyone will hear a ghastly shriek like none seen before. Alternatively, if he does reach the coffin, same thing happens:
+Revy and Vlad, werewolf allies, Mordenkainen, and Van Richten all gather in a camp in the forest right outside the castle. Mordenkainen told them to gather, they made their preparations and are ready to fight. They just finished fighting off some hostile Strahd controlled wildlife. On PC command they shall rush the castle.
+
+~30 werewolves
+~20 volunteers from nearby villages
+Revy, Vlad, Mordenkainen, Van Richten, Zuleika Toranescu, Emil Toranescu
+
+On the rush, they all rush the castle, and a ton of vampire spawns, some finely dressed, some naked, ~20, the allies holds them off, and fighting breaks out all over the castle.
+
+Massive skill challenge, each room they go to, they need to roll something to help them scale, kill enemies, make space, push forward, and find the room where Strahd's at.
+
+If Strahd hp drop to 0, he will turn to mist, and rush to his coffin. When he is staked in his coffin, Everyone will hear a ghastly shriek like none seen before. Ghosts and souls pour out of his heart into the sky, it crashes into the ceiling and decimates it, leaving a path of destruction behind, and more and more keeps pouring out of him for a minute straight. When its done, awful dreadful silence. Then a orange glow from just beyond everyone's eyeball, but they can feel it somewhere.
 - Vampyr reveals himself, floating into existence from Strahd, he congratulates the PCs on their good work, and that he is impressed
 - He will thus grant one of the PCs the right to succeed Strahd, to become Vampyr's new champion, gain immense power, and rule over Barovia under his watch.
-- Whatever happens Tenebrous will intervene, and the world starts to tremble and shake as a lack of dark lord takes its toll. 
-- The world begins to fall apart, as earthquakes ring and cracks form in the ground where stones fall into nothingness.
+- If one of the players accept, they will have to carve out Strahd's black heart and eat it. Then they gain the stat block of Strahd, all of his abilities scores, and also keeps their own abilities and magic. Their abilities are the max of either their own or Strahd's. 
+- If no one accepts, then Vampyr gets mad, and threatens to destroy the party and put them to eternal torture
+- Tenebrous will intervene
 - Tenebrous appears from Adelaide's eyeball
-- Vampyr recognizes Tenebrous, they have a brief dialogue, Vampyr knew some dark power was behind this, he is resentful, Tenebrous is cold and still, with a sense of pride knowing he had won.
-- Tenebrous then casts some high level shit and Vampyr screams and vanishes
+- Vampyr recognizes Tenebrous, they have a brief dialogue
+	- You... I knew you were behind this, you greedy cold bastard
+	- And you are an incumbent fool. You've made this realm a mess, and I'm here to fix it
+	- It's not yours to fix, it's mine by right! You knew the rules, first come first serve!
+	- I can't stand here and do nothing while you torture the people and waste the land away, this place can be so much better, and I can make it happen.
+	- You can't make shit.
+	- Are you sure?
+- Vampyr knew some dark power was behind this, he is resentful, Tenebrous is cold and still, with a sense of pride knowing he had won.
+- Tenebrous then casts some high level shit, six more arms comes out of him, making gestures as rings and rings of glowing blue runes and symbols forms around him.
+- Vampyr shrieks and deforms
 - Tenebrous then turns around and freezes time, except for Adelaide
 - Then he explains everything:
 	- My name is Tenebrous. The sarcophagus in the temple was mine.
+	- I am also Tenny, your assistant and guide.
 	- I said the people who built your body put me in you. That was true. They built it for me.
-	- Strahd was Vampyr’s anchor. He is in that coffin with a stake in his heart. Vampyr has no hold on this land right now.
+	- I have held Vampyr back for now, but he is persistent.
+	- Strahd was Vampyr’s anchor, as long as he lives, this land will continue to be under his control, and suffer.
+	- But right now he is permanently incapacitated, we have a chance here to stop them.
 	- Something will take Barovia tonight. Either Vampyr takes it back through someone else, another champion, or I take it through you.
-	- I want you to rule over this land. I can give you the power.
-	- This is what it was always meant to be, you are perfect for it.
-	- You will have your revolution, all you have to do is say yes.
+	- I want you to rule over this land.
+	- You will rule the way you want to, you can create the perfect utopia of your dreams.
+	- I can give you that power.
+	- This is what it was always meant to be, you are perfect.
+	- You will have your revolution, all you have to do is shake my hand.
 Accept:
+- time resumes, wind gathers around Adelaide, everything gets tossed around and the PCs are thrown to the floor.
 - Blue runes float in circles around her and she transforms and gains some blue runes on her and her eyes glow blue
-- Ade feels power surge through her, she also feels bound to the land forever, she still has free will.
-- Her next goals are to rebuild the land, make lives better, to rule as Barovia's new lord.
+- Ade feels power surge through her, She screams from POWER
+- She feels bound to the land forever as he soul lifts out of her body and spreads into thin mist around the land of Barovia.
+- When she wakes a huge shockwaves emanates from her, causing nearby walls to break and the castle to shake. Cracks form in the ground where stones fall into nothingness.
+- She feels ethereal, and can fly around, and can do whatever she can imagine
+- The castle crumbles and starts to break. It will eventually crumble to ruins, killing everyone inside unless Ade does something.
 Refuse:
 - more convincing
 - Tenebrous tells her that he will have to leave then, and she be alone and will die
-- Tenebrous then leaves, and Adelaide dies, no way to come back
+- Tenebrous then destroys her phylactery and leaves, and Adelaide dies.
 
-The mist fades, and the party is allowed to leave via teleport or just walk out. Barovia sees sunlight again.
+
+Epilogue:
+- Ireena Reunites with Sergei
+- Fog lifts, barovia sees sunlight again, no more harm from passing through it
+- Barovians all over come outside and be in awe, they're optimistic, and some gather to cheer and party with joy none seen before
+- The bats, wolves, and dire wolves of Barovia lose their supernatural link to Strahd upon his destruction and become ordinary beasts, destined to be hunted down or driven to the farthest reaches of the Svalich Woods.
+- If he survives the adventure, Ismark Kolyanovich becomes burgomaster of the village of Barovia. He is grateful to the characters for all they have accomplished and urges them to stay in Barovia and help him rid the land of its other threats, offering his village as a safe haven.
+- Van Richten tries to find a way to bring Esmerelda back, if he can't do it here, he leaves.
+- Revy and Vlad smiles and waves goodbye, their wish on earth was granted, and they ascend to other planes along with all other remnants and ghosts in the region. Their souls rise and shine the sky with reverse showers of wisps
+- The werewolves follow Hunter, and so does his old pack mates Vase and Bram. They follow him and form a new pack to the ends of the earth, wherever he wants to go, they follow.
+- Mordenkainen travels back to the sword coast to see what has happened to the circle of eight.
+- Ask PCs for what they doin, they are able to reach their homelands via teleporting
 
 ##### Finished Events
 - Ismark disappears
@@ -191,6 +247,16 @@ The mist fades, and the party is allowed to leave via teleport or just walk out.
 	- Spring and Rahadin
 		- Rahadin barely remembers what happened, he burned down one too many villages to know specifics nor care
 		- When Rahadin remembers, he'll mock her, saying she isn't special, she made it out because she was the smallest and the fit the hole in the wall, she should have died with them that night, and it would have been all the nicer for the world.
+
+- Third reconsecration, Strahd will show up with a hostage, and wants the gem back, if the players don't forfeit the gem, he'll kill the hostage and fight the PCs
+	- Rook and Ezmerelda d'Avenir
+	- Rook is charmed, he will smile and tell the PCs to give up the gem so they can all play
+	- Ezmerelda tells the party to not do it, and that this is their only shot, and she believes in them
+
+- Players will go to amber temple
+	- Let Adelaide take the Vestiges as desired, but void her of the negative consequences, stating that the dark powers are pushed back and grow fearful of Adelaide, whatever's inside her.
+
+
 ##### Abandoned Plotline
 - And as for my dear Ireena, I shall be taking her now, you see, she's destined to be mine, she has the soul of my past lover, she just doesn't know it yet."
 	- Ismark will then get angry and antagonize Strahd, who then immediately cuts off his head with a wave of his hand.
