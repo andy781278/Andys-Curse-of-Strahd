@@ -8,35 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "336659ab239c728e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/DM/CR24 Strahd.png"
+              },
+              "icon": "lucide-image",
+              "title": "CR24 Strahd"
+            }
+          },
+          {
+            "id": "1e3c00e9470d5bd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Stuff/Notes.md",
+                "file": "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Strahd von Zarovich"
             }
           },
           {
-            "id": "4a36ba74b9696fa1",
+            "id": "f26ce0a11c579e6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Book/Chapter 4 - Castle Ravenloft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Chapter 4 - Castle Ravenloft"
             }
           },
           {
-            "id": "2e1f08abd35080d3",
+            "id": "414d5bc284081f16",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,19 +60,8 @@
               "icon": "lucide-file",
               "title": "Chapter 13 - The Amber Temple"
             }
-          },
-          {
-            "id": "d5082e4423b6424a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,7 @@
               "state": {
                 "sortOrder": "custom",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -128,7 +129,7 @@
       {
         "id": "db5570bc8608711a",
         "type": "tabs",
-        "dimension": 51.05769230769231,
+        "dimension": 56.777777777777786,
         "children": [
           {
             "id": "f1be62bcdf1fbb59",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Images/DM/CR24 Strahd.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,6 +203,27 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "f17fbc2b10c53eac",
+        "type": "tabs",
+        "dimension": 43.22222222222222,
+        "children": [
+          {
+            "id": "b400211859166148",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": "ID_fb38bb29cbc8",
+                "creatureName": "Mordenkainen"
+              },
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
           },
           {
             "id": "e7a088904b83f37c",
@@ -211,27 +233,6 @@
               "state": {},
               "icon": "dices",
               "title": "Dice Tray"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "f17fbc2b10c53eac",
-        "type": "tabs",
-        "dimension": 48.94230769230769,
-        "children": [
-          {
-            "id": "b400211859166148",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {
-                "creatureId": "ID_78b8c8696a2b",
-                "creatureName": "Imp"
-              },
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
             }
           }
         ]
@@ -257,21 +258,31 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4a36ba74b9696fa1",
+  "active": "336659ab239c728e",
   "lastOpenFiles": [
-    "Book/Chapter 13 - The Amber Temple.md",
-    "Home.md",
+    "Images/Appendix D - Monsters and NPCs/Strahd Stat Block.png",
+    "Images/DM/Vampyr CR28 Stat.png",
+    "Images/DM/Vampyr.png",
     "DM Stuff/Notes.md",
-    "DM Stuff/Timeline.md",
+    "Home.md",
     "Book/Epilogue.md",
-    "DM Stuff/Custom Worldbuilding/Tenebrous.md",
+    "Book/Appendix D - Monsters and NPCs/Rictavio - Rudolph van Richten.md",
+    "Book/Chapter 13 - The Amber Temple.md",
     "Book/Appendix D - Monsters and NPCs/Strahd von Zarovich.md",
+    "Images/DM/Tenebrous.png",
+    "Images/DM/Lamordia Map.png",
+    "Images/DM/Berez Map Labeled.png",
+    "Book/Chapter 4 - Castle Ravenloft.md",
+    "Book/Appendix D - Monsters and NPCs/Rahadin.md",
+    "DM Stuff/Links.md",
+    "DM Stuff/Progression.md",
+    "DM Stuff/Backstories.md",
+    "DM Stuff/Timeline.md",
+    "DM Stuff/Custom Worldbuilding/Tenebrous.md",
     "Book/Appendix D - Monsters and NPCs/Tree Blight.md",
     "Book/Appendix D - Monsters and NPCs/The Abbot.md",
     "Book/Appendix D - Monsters and NPCs/Strahd's Animated Armor.md",
     "Book/Appendix D - Monsters and NPCs/Strahd Zombie.md",
-    "Book/Appendix D - Monsters and NPCs/Rictavio - Rudolph van Richten.md",
-    "Book/Appendix D - Monsters and NPCs/Rahadin.md",
     "Book/Appendix D - Monsters and NPCs/Pidlwick II.md",
     "Book/Appendix D - Monsters and NPCs/Mongrelfolk.md",
     "Book/Appendix D - Monsters and NPCs/Madam Eva.md",
@@ -280,21 +291,11 @@
     "Book/Appendix D - Monsters and NPCs/Guardian Portrait.md",
     "Book/Appendix D - Monsters and NPCs/Barovian Witch.md",
     "Book/Appendix D - Monsters and NPCs/Broom of Animated Attack.md",
-    "Book/Appendix D - Monsters and NPCs/Baba Lysaga.md",
-    "Book/Appendix D - Monsters and NPCs/Baba Lysaga's Creeping Hut.md",
-    "Book/Appendix D - Monsters and NPCs/Ezmerelda d'Avenir.md",
-    "Book/Appendix D - Monsters and NPCs/Phantom Warrior.md",
-    "Book/Appendix D - Monsters and NPCs/Vladmir Horngaard.md",
     "Images/DM/Adelaide, the dark lord of Tenebrous.png",
-    "Images/DM/Vampyr.png",
-    "Images/DM/Tenebrous.png",
-    "Images/DM/Vampyr CR28 Stat.png",
     "Images/DM/CR20 Strahd.png",
     "Images/DM/CR24 Strahd.png",
     "Images/DM/Pasted image 20260223021534.png",
-    "Images/DM/Berez Map Labeled.png",
     "Images/DM/Player Barovia Map.png",
-    "Images/DM/Lamordia Map.png",
     "DM Stuff/Untitled.canvas",
     "DM Stuff/Custom Mechanics",
     "DM Stuff/Custom Worldbuilding",

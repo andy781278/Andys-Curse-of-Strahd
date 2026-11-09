@@ -2,6 +2,11 @@
 08/30/1978 Mom
 10/25/1980 Dad
 
+Strahd
+475
+By The Eyes 1
+Alter Gravity 1
+
 
 Session Don't Forget List
 - [ ] Patrina stuff

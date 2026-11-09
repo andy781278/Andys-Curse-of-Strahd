@@ -36,7 +36,7 @@ Revy, Vlad, Mordenkainen, Van Richten, Zuleika Toranescu, Emil Toranescu
 
 On the rush, they all rush the castle, and a ton of vampire spawns, some finely dressed, some naked, ~20, the allies holds them off, and fighting breaks out all over the castle.
 
-Massive skill challenge, each room they go to, they need to roll something to help them scale, kill enemies, make space, push forward, and find the room where Strahd's at.
+Massive skill challenge, each room they go to, they need to roll something to help them scale, kill enemies, make space, push forward, and find the room where Strahd's at. DC 15 success, DC 25 big success that give you a hint of where to go next and skip a room. Failure causes 2d12 damage from something
 
 If Strahd hp drop to 0, he will turn to mist, and rush to his coffin. When he is staked in his coffin, Everyone will hear a ghastly shriek like none seen before. Ghosts and souls pour out of his heart into the sky, it crashes into the ceiling and decimates it, leaving a path of destruction behind, and more and more keeps pouring out of him for a minute straight. When its done, awful dreadful silence. Then a orange glow from just beyond everyone's eyeball, but they can feel it somewhere.
 - Vampyr reveals himself, floating into existence from Strahd, he congratulates the PCs on their good work, and that he is impressed
